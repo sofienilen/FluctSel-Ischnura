@@ -1,0 +1,194 @@
+#=====================Dataset Configuration============================#
+
+samples: config/samples.tsv
+
+units: config/units.tsv
+
+dataset: "dataset-name"
+
+#===================== Reference Configuration ========================#
+
+chunk_size: 50000000
+
+reference:
+  name: "ref-name" 
+  fasta: "path/to/ref.fa"
+  mito: ["mitochondrion"]
+  sex-linked: ["Z"]
+  exclude: []
+  min_size: 1000000
+
+ancestral:
+
+#===================== Sample Set Configuration =======================#
+
+exclude_ind: []
+
+excl_pca-admix: []
+
+#====================== Analysis Selection ============================#
+
+populations: []
+
+analyses:
+  # mapping options
+  mapping:
+    historical_only_collapsed: true
+    historical_collapsed_aligner: "aln"
+  # sites file filters
+  pileup-mappability:
+  repeatmasker:
+    bed:
+    local_lib:
+    build_lib:
+  extreme_depth:
+  dataset_missing_data:
+  population_missing_data:
+  # quality control
+  qualimap:
+  ibs_ref_bias:
+  damageprofiler:
+  mapdamage_rescale:
+  # population genomic analyses
+  estimate_ld:
+  ld_decay:
+  pca_pcangsd:
+  admix_ngsadmix:
+  relatedness:
+    ibsrelate_ibs:
+    ibsrelate_sfs:
+    ngsrelate_ibsrelate-only:
+    ngsrelate_freqbased:
+  1dsfs:
+  1dsfs_boot:
+  2dsfs:
+  2dsfs_boot:
+  thetas_angsd:
+  heterozygosity_angsd:
+  fst_angsd:
+    populations:
+    individuals:
+  inbreeding_ngsf-hmm:
+  ibs_matrix:
+  pop_allele_freqs:
+
+#==================== Downsampling Configuration ======================#
+
+subsample_dp: []
+
+subsample_by: "sitefilt" # three options: unfilt, mapqbaseq, sitefilt; sitefilt recommended (subsamples bams to `subsample_dp` within filtered regions)
+redo_depth_filts: false # has no effect when `subsample_by` == "sitefilt"
+drop_samples: [] # These samples won't be included in the downsampled dataset
+
+subsample_analyses:
+  estimate_ld:
+  ld_decay:
+  pca_pcangsd:
+  admix_ngsadmix:
+  relatedness:
+    ibsrelate_ibs:
+    ibsrelate_sfs:
+    ngsrelate_ibsrelate-only:
+    ngsrelate_freqbased:
+  1dsfs:
+  1dsfs_boot:
+  2dsfs:
+  2dsfs_boot:
+  thetas_angsd:
+  heterozygosity_angsd:
+  fst_angsd:
+    populations:
+    individuals:
+  inbreeding_ngsf-hmm:
+  ibs_matrix:
+  pop_allele_freqs:
+
+#=========================== Filter Sets ==============================#
+
+filter_beds:
+  example:
+
+only_filter_beds: false
+
+#===================== Software Configuration =========================#
+
+mapQ: 30
+baseQ: 20
+
+params:
+  clipoverlap:
+    clip_user_provided_bams: false
+  fastp:
+    extra: "-p -g" # don't put --merge or --overlap_len_require here, they're implicit
+    min_overlap_hist: 30
+  bwa_aln:
+    extra: "-l 16500 -n 0.01 -o 2"
+  picard:
+    MarkDuplicates: "--REMOVE_DUPLICATES true --OPTICAL_DUPLICATE_PIXEL_DISTANCE 2500"
+  damageprofiler:
+    profile_modern: false
+  genmap:
+    K: "30"
+    E: "2"
+    map_thresh: 1
+  extreme_depth_filt:
+    method: "median"
+    bounds: [ 0.5, 1.5 ]
+    filt-on-dataset: true
+    filt-on-depth-classes: true
+  samtools:
+    subsampling_seed: "$RANDOM"
+  angsd:
+    gl_model: 2 # gl_model - 1=SAMtools, 2=GATK, 3=SOAPsnp, 4=SYK
+    maxdepth: 100 # for depth calc only
+    mindepthind: 1
+    minind_dataset: 0.75 # as a proportion of N
+    minind_pop: 0.75 # as a proportion of N
+    rmtrans: false
+    extra: "" # goes to all ANGSD runs
+    extra_saf: "" # goes to all -doSaf runs
+    extra_beagle: "" # goes to all -doGlf 2 runs
+    domajorminor: 1 # Currently only compatible with values 1, 2, 4, 5
+    domaf: 1 # Currently only compatible with values 1 & 2
+    snp_pval: "1e-6"
+    min_maf: -1 # Set -1 to disable
+    mindepthind_heterozygosity: 1
+  ngsrelate:
+    ibsrelate-only-extra: ""
+    freqbased-extra: ""
+  ngsld:
+    max_kb_dist_est-ld: 4000
+    rnd_sample_est-ld: 0.001
+    max_kb_dist_decay: 100
+    rnd_sample_decay: 0.001
+    fit_LDdecay_extra: "--fit_level 100 --fit_boot 100 --plot_size 3,6 --plot_data --plot_no_legend --plot_y_lim 1"
+    fit_LDdecay_n_correction: true
+    max_kb_dist_pruning_dataset: 50 # used for PCA, Admix, NGSrelate, not ngsF-HMM
+    pruning_min-weight_dataset: 0.1 # used for PCA, Admix, NGSrelate, not ngsF-HMM
+  ngsf-hmm:
+    estimate_in_pops: true
+    prune: true
+    max_kb_dist_pruning_pop: 50 # used only for ngsf-hmm
+    pruning_min-weight_pop: 0.8 # used only for ngsf-hmm
+    min_roh_length: 50000
+    roh_bins: [ 100000, 250000, 500000, 1000000, 2500000, 5000000 ] # in ascending order, bins are between adjacent values and between min_roh_length and value 1 and the last value and infinity
+  realsfs:
+    fold: 1 # Should only be set to 1, unless ancestral reference is given above
+    sfsboot: 100
+  fst:
+    whichFst: 1
+    win_size: 50000
+    win_step: 10000
+  thetas:
+    win_size: 50000
+    win_step: 10000
+    minsites: 1000
+  ngsadmix:
+    kvalues: [1,2,3,4,5]
+    reps: 100
+    minreps: 20
+    thresh: 2
+    conv: 3
+    extra: "-maxiter 4000"
+  ibs:
+    doibs: 1

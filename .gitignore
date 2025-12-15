@@ -1,0 +1,6 @@
+tutorial/
+.snakemake/
+results/
+data/
+benchmarks/
+logs/

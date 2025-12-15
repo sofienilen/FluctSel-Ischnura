@@ -1,0 +1,34 @@
+Config file config/config.yaml is extended by additional config specified via the command line.
+localrules directive specifies rules that are not present in the Snakefile:
+	link_anc_ref
+
+host: nid001031
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided remote nodes: 1
+Select jobs to execute...
+Execute 1 jobs...
+Traceback (most recent call last):
+
+  File "/cfs/klemming/projects/supr/snic2020-6-222/Projects/Tconura/working/Andre/bin/miniforge3/envs/popglen/lib/python3.12/site-packages/snakemake/cli.py", line 2193, in args_to_api
+    dag_api.execute_workflow(
+
+  File "/cfs/klemming/projects/supr/snic2020-6-222/Projects/Tconura/working/Andre/bin/miniforge3/envs/popglen/lib/python3.12/site-packages/snakemake/api.py", line 634, in execute_workflow
+    workflow.execute(
+
+  File "/cfs/klemming/projects/supr/snic2020-6-222/Projects/Tconura/working/Andre/bin/miniforge3/envs/popglen/lib/python3.12/site-packages/snakemake/workflow.py", line 1440, in execute
+    raise e
+
+  File "/cfs/klemming/projects/supr/snic2020-6-222/Projects/Tconura/working/Andre/bin/miniforge3/envs/popglen/lib/python3.12/site-packages/snakemake/workflow.py", line 1436, in execute
+    success = self.scheduler.schedule()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  File "/cfs/klemming/projects/supr/snic2020-6-222/Projects/Tconura/working/Andre/bin/miniforge3/envs/popglen/lib/python3.12/site-packages/snakemake/scheduling/job_scheduler.py", line 400, in schedule
+    raise e
+
+  File "/cfs/klemming/projects/supr/snic2020-6-222/Projects/Tconura/working/Andre/bin/miniforge3/envs/popglen/lib/python3.12/site-packages/snakemake/scheduling/job_scheduler.py", line 365, in schedule
+    assert self.workflow.is_main_process
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+AssertionError
+

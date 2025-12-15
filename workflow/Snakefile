@@ -1,0 +1,19 @@
+from snakemake.utils import min_version
+
+
+min_version("6.10.0")
+
+
+configfile: "config/config.yaml"
+
+
+# declare https://github.com/zjnolen/PopGLen as a module
+module PopGLen:
+    snakefile: 
+        github("zjnolen/PopGLen", path="workflow/Snakefile", tag="v0.4.2")
+    config:
+        config
+
+
+# use all rules from https://github.com/zjnolen/PopGLen
+use rule * from PopGLen
