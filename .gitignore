@@ -4,6 +4,7 @@ tutorial/data
 tutorial/logs
 tutorial/results
 tutorial/resources
+tutorial/*.html
 *.zip
 .snakemake/
 results/
