@@ -4,11 +4,11 @@ samples: config/samples.tsv
 
 units: config/units.tsv
 
-dataset: "dataset-name"
+dataset: "popglen-test-slurm"
 
 #===================== Reference Configuration ========================#
 
-chunk_size: 50000000
+chunk_size: 4000000
 
 reference:
   name: "ioIscEleg" 
@@ -24,7 +24,7 @@ ancestral:
 
 exclude_ind: []
 
-excl_pca-admix: []
+excl_pca-admix: ["MZLU153216", "MZLU107497"]
 
 #====================== Analysis Selection ============================#
 
@@ -36,41 +36,41 @@ analyses:
     historical_only_collapsed: true
     historical_collapsed_aligner: "aln"
   # sites file filters
-  pileup-mappability:
+  pileup-mappability: true
   repeatmasker:
     bed:
     local_lib:
     build_lib:
-  extreme_depth:
+  extreme_depth: true
   dataset_missing_data:
   population_missing_data:
   # quality control
-  qualimap:
-  ibs_ref_bias:
-  damageprofiler:
+  qualimap: true
+  ibs_ref_bias: true
+  damageprofiler: true
   mapdamage_rescale:
   # population genomic analyses
   estimate_ld:
-  ld_decay:
-  pca_pcangsd:
-  admix_ngsadmix:
+  ld_decay: true
+  pca_pcangsd: true
+  admix_ngsadmix: true
   relatedness:
     ibsrelate_ibs:
     ibsrelate_sfs:
-    ngsrelate_ibsrelate-only:
+    ngsrelate_ibsrelate-only: true
     ngsrelate_freqbased:
   1dsfs:
   1dsfs_boot:
   2dsfs:
   2dsfs_boot:
-  thetas_angsd:
-  heterozygosity_angsd:
+  thetas_angsd: true
+  heterozygosity_angsd: true
   fst_angsd:
-    populations:
+    populations: true
     individuals:
-  inbreeding_ngsf-hmm:
-  ibs_matrix:
-  pop_allele_freqs:
+  inbreeding_ngsf-hmm: true
+  ibs_matrix: true
+  pop_allele_freqs: true
 
 #==================== Downsampling Configuration ======================#
 
@@ -144,14 +144,14 @@ params:
     mindepthind: 1
     minind_dataset: 0.75 # as a proportion of N
     minind_pop: 0.75 # as a proportion of N
-    rmtrans: false
+    rmtrans: true
     extra: "" # goes to all ANGSD runs
     extra_saf: "" # goes to all -doSaf runs
     extra_beagle: "" # goes to all -doGlf 2 runs
     domajorminor: 1 # Currently only compatible with values 1, 2, 4, 5
     domaf: 1 # Currently only compatible with values 1 & 2
     snp_pval: "1e-6"
-    min_maf: -1 # Set -1 to disable
+    min_maf: 0.05 # Set -1 to disable
     mindepthind_heterozygosity: 1
   ngsrelate:
     ibsrelate-only-extra: ""
@@ -160,27 +160,27 @@ params:
     max_kb_dist_est-ld: 4000
     rnd_sample_est-ld: 0.001
     max_kb_dist_decay: 100
-    rnd_sample_decay: 0.001
-    fit_LDdecay_extra: "--fit_level 100 --fit_boot 100 --plot_size 3,6 --plot_data --plot_no_legend --plot_y_lim 1"
+    rnd_sample_decay: 0.01
+    fit_LDdecay_extra: "--fit_level 1 --plot_size 3,6 --plot_data --plot_no_legend --plot_y_lim 1"
     fit_LDdecay_n_correction: true
-    max_kb_dist_pruning_dataset: 50 # used for PCA, Admix, NGSrelate, not ngsF-HMM
-    pruning_min-weight_dataset: 0.1 # used for PCA, Admix, NGSrelate, not ngsF-HMM
+    max_kb_dist_pruning_dataset: 25 # used for PCA, Admix, not ngsF-HMM
+    pruning_min-weight_dataset: 0.2 # used for PCA, Admix, not ngsF-HMM
   ngsf-hmm:
     estimate_in_pops: true
     prune: true
-    max_kb_dist_pruning_pop: 50 # used only for ngsf-hmm
-    pruning_min-weight_pop: 0.8 # used only for ngsf-hmm
+    max_kb_dist_pruning_pop: 25 # used only for ngsf-hmm
+    pruning_min-weight_pop: 0.4 # used only for ngsf-hmm
     min_roh_length: 50000
     roh_bins: [ 100000, 250000, 500000, 1000000, 2500000, 5000000 ] # in ascending order, bins are between adjacent values and between min_roh_length and value 1 and the last value and infinity
   realsfs:
     fold: 1 # Should only be set to 1, unless ancestral reference is given above
-    sfsboot: 100
+    sfsboot: 50
   fst:
     whichFst: 1
-    win_size: 50000
+    win_size: 25000
     win_step: 10000
   thetas:
-    win_size: 50000
+    win_size: 25000
     win_step: 10000
     minsites: 1000
   ngsadmix:

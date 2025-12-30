@@ -1,283 +1,283 @@
-Season.id	Datum	population	Scan.id	Part.id	Sex	Age	Morph	All_ages_morph	Eggcount	Tube_ID	sample	Well	NGI_plateID	Mreads	BaseQ30	time	depth
-2022.176	2022-06-08	Genarp	176	NA	0	mature	infuscans	I	NA	22.176	P36454_135	C:5	P36454P1	44.81	94.84	modern	high
-2022.160	2022-06-08	Genarp	160	159	0	mature	infuscans	I	0	22.160	P36454_134	B:5	P36454P1	31.71	92.54	modern	high
-2022.182	2022-06-08	Genarp	182	NA	1	mature		NA	NA	22.182	P36454_136	D:5	P36454P1	28.47	92.26	modern	high
-2022.159	2022-06-08	Genarp	159	160	1	mature		NA	NA	22.159	P36454_133	A:5	P36454P1	66.55	95.67	modern	high
-2022.205	2022-06-11	Lomma	205	NA	0	mature	androchrome	A	NA	22.205	P36454_142	B:6	P36454P1	39.6	94.07	modern	high
-2022.206	2022-06-11	Lomma	206	NA	0	mature	androchrome	A	NA	22.206	P36454_143	C:6	P36454P1	33.48	94	modern	high
-2022.187	2022-06-11	Lomma	187	188	0	mature	infuscans	I	2	22.187	P36454_137	E:5	P36454P1	45.04	93.77	modern	high
-2022.195	2022-06-11	Lomma	195	196	0	mature	infuscans	I	198	22.195	P36454_139	G:5	P36454P1	38.64	93.32	modern	high
-2022.203	2022-06-11	Lomma	203	NA	1	mature		NA	NA	22.203	P36454_141	A:6	P36454P1	48.81	94.38	modern	high
-2022.188	2022-06-11	Lomma	188	187	1	mature		NA	NA	22.188	P36454_138	F:5	P36454P1	42.4	94.39	modern	high
-2022.196	2022-06-11	Lomma	196	195	1	mature		NA	NA	22.196	P36454_140	H:5	P36454P1	38.99	93.47	modern	high
-2022.317	2022-06-16	Hoje_A_14	317	NA	0	mature	androchrome	A	NA	22.317	P36454_148	H:6	P36454P1	37.62	93.67	modern	high
-2022.319	2022-06-16	Hoje_A_14	319	NA	0	mature	infuscans	I	NA	22.319	P36454_217	A:3	P36454P2	40.32	94.42	modern	high
-2022.308	2022-06-16	Hoje_A_14	308	307	0	mature	androchrome	A	75	22.308	P36454_145	E:6	P36454P1	36.37	93.37	modern	high
-2022.309	2022-06-16	Hoje_A_14	309	310	0	mature	infuscans	I	460	22.309	P36454_146	F:6	P36454P1	30.92	93.32	modern	high
-2022.322	2022-06-16	Hoje_A_14	322	NA	1	mature		NA	NA	22.322	P36454_218	B:3	P36454P2	31.61	92.77	modern	high
-2022.307	2022-06-16	Hoje_A_14	307	308	1	mature		NA	NA	22.307	P36454_144	D:6	P36454P1	36.81	94.49	modern	high
-2022.310	2022-06-16	Hoje_A_14	310	309	1	mature		NA	NA	22.310	P36454_147	G:6	P36454P1	31.45	92.52	modern	high
-2022.471	2022-06-17	Genarp	471	NA	0	mature	androchrome	A	NA	22.471	P36454_223	G:3	P36454P2	42.45	94.78	modern	high
-2022.407	2022-06-17	Genarp	407	408	0	mature	androchrome	A	237	22.407	P36454_219	C:3	P36454P2	26.63	94.27	modern	high
-2022.417	2022-06-17	Genarp	417	418	0	mature	infuscans	I	412	22.417	P36454_221	E:3	P36454P2	36.83	94.32	modern	high
-2022.408	2022-06-17	Genarp	408	407	1	mature		NA	NA	22.408	P36454_220	D:3	P36454P2	43.55	94.29	modern	high
-2022.418	2022-06-17	Genarp	418	417	1	mature		NA	NA	22.418	P36454_222	F:3	P36454P2	31.01	93.47	modern	high
-2022.637	2022-06-23	Lomma	637	638	0	mature	androchrome	A	377	22.637	P36454_226	B:4	P36454P2	33.9	94.31	modern	high
-2022.654	2022-06-23	Lomma	654	653	0	mature	androchrome	A	269	22.654	P36454_228	D:4	P36454P2	39.38	94.15	modern	high
-2022.628	2022-06-23	Lomma	628	NA	1	mature		NA	NA	22.628	P36454_224	H:3	P36454P2	48.53	94.92	modern	high
-2022.633	2022-06-23	Lomma	633	NA	1	mature		NA	NA	22.633	P36454_225	A:4	P36454P2	47.23	94.72	modern	high
-2022.638	2022-06-23	Lomma	638	637	1	mature		NA	NA	22.638	P36454_227	C:4	P36454P2	35.28	93.7	modern	high
-2022.652	2022-06-23	Lomma	652	651	1	mature		NA	NA	22.652	P36454_387	G:11	P36454P3	43.08	94.72	modern	high
-2022.875	2022-06-29	Hoje_A_14	875	876	0	mature	infuscans	I	122	22.875	P36454_229	E:4	P36454P2	38.27	92.89	modern	high
-2022.876	2022-06-29	Hoje_A_14	876	875	1	mature		NA	NA	22.876	P36454_230	F:4	P36454P2	30.86	94.01	modern	high
-2022.922	2022-06-30	Genarp	922	921	0	mature	androchrome	A	121	22.922	P36454_232	H:4	P36454P2	42.38	94.7	modern	high
-2022.972	2022-06-30	Genarp	972	NA	1	mature		NA	NA	22.972	P36454_294	F:12	P36454P2	47.18	94.53	modern	high
-2022.975	2022-06-30	Genarp	975	NA	1	mature		NA	NA	22.975	P36454_393	E:12	P36454P3	36.14	93.53	modern	high
-2022.921	2022-06-30	Genarp	921	922	1	mature		NA	NA	22.921	P36454_231	G:4	P36454P2	44.96	94.25	modern	high
-2022.1239	2022-07-03	Lomma	1239	NA	0	mature	infuscans	I	NA	22.1239	P36454_302	B:1	P36454P3	46.8	94.85	modern	high
-2022.1235	2022-07-03	Lomma	1235	1234	0	mature	androchrome	A	201	22.1235	P36454_301	A:1	P36454P3	43.3	94.66	modern	high
-2022.1252	2022-07-03	Lomma	1252	NA	1	mature		NA	NA	22.1252	P36454_303	C:1	P36454P3	55.24	95.24	modern	high
-2022.1234	2022-07-03	Lomma	1234	1235	1	mature		NA	NA	22.1234	P36454_394	F:12	P36454P3	57.16	95.47	modern	high
-2022.1443	2022-07-08	Hoje_A_14	1443	NA	0	mature	androchrome	A	NA	22.1443	P36454_307	G:1	P36454P3	48.81	95.38	modern	high
-2022.1435	2022-07-08	Hoje_A_14	1435	NA	0	mature	infuscans	I	NA	22.1435	P36454_306	F:1	P36454P3	46.1	95.46	modern	high
-2022.1449	2022-07-08	Hoje_A_14	1449	1450	0	mature	androchrome	A	314	22.1449	P36454_308	H:1	P36454P3	45.43	94.41	modern	high
-2022.1425	2022-07-08	Hoje_A_14	1425	NA	1	mature		NA	NA	22.1425	P36454_304	D:1	P36454P3	39.45	94.32	modern	high
-2022.1430	2022-07-08	Hoje_A_14	1430	NA	1	mature		NA	NA	22.1430	P36454_305	E:1	P36454P3	35.77	94.65	modern	high
-2022.1450	2022-07-08	Hoje_A_14	1450	1449	1	mature		NA	NA	22.1450	P36454_309	A:2	P36454P3	37.14	94.81	modern	high
-2022.1500	2022-07-10	Genarp	1500	NA	0	mature	androchrome	A	NA	22.1500	P36454_310	B:2	P36454P3	37.36	94.6	modern	high
-2022.1800	2022-07-17	Lomma	1800	NA	0	mature	infuscans	I	NA	22.1800	P36454_312	D:2	P36454P3	41.28	94.73	modern	high
-2022.1799	2022-07-17	Lomma	1799	NA	1	mature		NA	NA	22.1799	P36454_311	C:2	P36454P3	47.13	94.81	modern	high
-2022.1789	2022-07-17	Lomma	1789	1788	1	mature		NA	NA	22.1789	P36454_388	H:11	P36454P3	51.76	94.76	modern	high
-2022.1852	2022-07-19	Genarp	1852	NA	0	mature	androchrome	A	NA	22.1852	P36454_349	A:7	P36454P3	44.6	94.38	modern	high
-2022.1856	2022-07-19	Genarp	1856	NA	0	mature	infuscans	I	NA	22.1856	P36454_350	B:7	P36454P3	33.58	93.75	modern	high
-2022.1833	2022-07-19	Genarp	1833	1832	0	mature	androchrome	A	22	22.1833	P36454_314	F:2	P36454P3	40.36	92.3	modern	high
-2022.1839	2022-07-19	Genarp	1839	NA	1	mature		NA	NA	22.1839	P36454_315	G:2	P36454P3	38.54	94.39	modern	high
-2022.1844	2022-07-19	Genarp	1844	NA	1	mature		NA	NA	22.1844	P36454_316	H:2	P36454P3	33.34	93.98	modern	high
-2022.1832	2022-07-19	Genarp	1832	1833	1	mature		NA	NA	22.1832	P36454_313	E:2	P36454P3	32.34	94.15	modern	high
-2022.1876	2022-07-19	Hoje_A_14	1876	NA	1	mature		NA	NA	22.1876	P36454_351	C:7	P36454P3	44.04	94.17	modern	high
-2022.2132	2022-07-24	Hoje_A_14	2132	2131	0	mature	androchrome	A	62	22.2132	P36454_353	E:7	P36454P3	53.25	95.24	modern	high
-2022.2144	2022-07-24	Hoje_A_14	2144	NA	1	mature		NA	NA	22.2144	P36454_354	F:7	P36454P3	43.45	94.59	modern	high
-2022.2131	2022-07-24	Hoje_A_14	2131	2132	1	mature		NA	NA	22.2131	P36454_352	D:7	P36454P3	47.38	94.04	modern	high
-NA	2023-05-16	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L23.6	P36454_181	A:11	P36454P1	44.14	94.57	modern	high
-NA	2023-05-16	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L23.4	P36454_187	G:11	P36454P1	39.08	94.12	modern	high
-NA	2023-05-25	Genarp	NA	NA	Female	NA	NA	NA	NA	L23.112	P36454_101	A:1	P36454P1	48.8	95.57	modern	high
-NA	2023-05-25	Genarp	NA	NA	Female	NA	NA	NA	NA	L23.115	P36454_102	B:1	P36454P1	38.75	95.15	modern	high
-NA	2023-05-25	Genarp	NA	NA	Female	NA	NA	NA	NA	L23.120	P36454_103	C:1	P36454P1	52.54	94.95	modern	high
-NA	2023-05-25	Genarp	NA	NA	Female	NA	NA	NA	NA	L23.129	P36454_104	D:1	P36454P1	43.78	95.1	modern	high
-NA	2023-05-25	Genarp	NA	NA	Female	NA	NA	NA	NA	L23.134	P36454_116	H:2	P36454P1	38.89	94.2	modern	high
-NA	2023-05-25	Genarp	NA	NA	Female	NA	NA	NA	NA	L23.146	P36454_105	E:1	P36454P1	30.86	95.05	modern	high
-NA	2023-05-25	Genarp	NA	NA	Male	NA	NA	NA	NA	L23.121	P36454_112	D:2	P36454P1	45.09	94.48	modern	high
-NA	2023-05-25	Genarp	NA	NA	Male	NA	NA	NA	NA	L23.141	P36454_113	E:2	P36454P1	47.31	94.91	modern	high
-NA	2023-05-25	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L23.105	P36454_188	H:11	P36454P1	42.1	94.68	modern	high
-NA	2023-05-27	Genarp	NA	NA	Female	NA	NA	NA	NA	L23.163	P36454_106	F:1	P36454P1	53.77	95.77	modern	high
-NA	2023-05-27	Genarp	NA	NA	Female	NA	NA	NA	NA	L23.190	P36454_107	G:1	P36454P1	51.55	95.46	modern	high
-NA	2023-05-27	Genarp	NA	NA	Male	NA	NA	NA	NA	L23.155	P36454_109	A:2	P36454P1	48.55	94.82	modern	high
-NA	2023-05-27	Genarp	NA	NA	Male	NA	NA	NA	NA	L23.178	P36454_110	B:2	P36454P1	39.96	94.13	modern	high
-2023.33	2023-05-30	Lomma	33	NA	0	mature	androchrome	A	NA	23.33	P36454_151	C:7	P36454P1	33.52	93.62	modern	high
-2023.31	2023-05-30	Lomma	31	32	0	mature	androchrome	A	234	23.31	P36454_149	A:7	P36454P1	47.63	93.96	modern	high
-2023.32	2023-05-30	Lomma	32	31	1	mature		NA	NA	23.32	P36454_150	B:7	P36454P1	41.42	93.34	modern	high
-NA	2023-05-30	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L23.319	P36454_265	A:9	P36454P2	49.61	94.04	modern	high
-NA	2023-05-30	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L23.329	P36454_266	B:9	P36454P2	22.98	91.7	modern	high
-NA	2023-05-30	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L23.332	P36454_280	H:10	P36454P2	37.93	94.35	modern	high
-NA	2023-05-30	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L23.314	P36454_272	H:9	P36454P2	41.03	94.53	modern	high
-NA	2023-05-30	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L23.323	P36454_273	A:10	P36454P2	53.56	90.98	modern	high
-NA	2023-06-01	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L23.379	P36454_182	B:11	P36454P1	38.6	94.24	modern	high
-NA	2023-06-01	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L23.371	P36454_189	A:12	P36454P1	50.92	94.94	modern	high
-NA	2023-06-01	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L23.376	P36454_190	B:12	P36454P1	36.21	93.61	modern	high
-2023.117	2023-06-04	Genarp	117	116	0	mature	androchrome	A	0	23.117	P36454_153	E:7	P36454P1	36.13	94.17	modern	high
-2023.123	2023-06-04	Genarp	123	122	0	mature	androchrome	A	0	23.123	P36454_155	G:7	P36454P1	50.93	94.43	modern	high
-2023.116	2023-06-04	Genarp	116	117	1	mature		NA	NA	23.116	P36454_152	D:7	P36454P1	39.43	93.8	modern	high
-2023.122	2023-06-04	Genarp	122	123	1	mature		NA	NA	23.122	P36454_154	F:7	P36454P1	36.37	93.99	modern	high
-NA	2023-06-04	Genarp	NA	NA	Female	NA	NA	NA	NA	L23.349	P36454_108	H:1	P36454P1	37.51	94.55	modern	high
-NA	2023-06-04	Genarp	NA	NA	Male	NA	NA	NA	NA	L23.345	P36454_114	F:2	P36454P1	41	94.25	modern	high
-NA	2023-06-04	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L23.388	P36454_267	C:9	P36454P2	29.37	94.72	modern	high
-NA	2023-06-04	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L23.392	P36454_268	D:9	P36454P2	32.16	94.54	modern	high
-NA	2023-06-04	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L23.397	P36454_274	B:10	P36454P2	43.19	95.06	modern	high
-NA	2023-06-04	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L23.399	P36454_275	C:10	P36454P2	24.76	94.31	modern	high
-NA	2023-06-04	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L23.404	P36454_276	D:10	P36454P2	32.24	94.86	modern	high
-NA	2023-06-09	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L23.453	P36454_193	E:12	P36454P1	38.29	93.88	modern	high
-NA	2023-06-09	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L23.461	P36454_191	C:12	P36454P1	37.08	94.69	modern	high
-NA	2023-06-09	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L23.435	P36454_269	E:9	P36454P2	27.51	92.99	modern	high
-NA	2023-06-09	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L23.439	P36454_270	F:9	P36454P2	69.47	91.76	modern	high
-NA	2023-06-09	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L23.423	P36454_277	E:10	P36454P2	153.49	92.79	modern	high
-NA	2023-06-09	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L23.432	P36454_278	F:10	P36454P2	30.12	94.75	modern	high
-2023.307	2023-06-11	Hoje_A_14	307	NA	0	mature	androchrome	A	NA	23.307	P36454_164	H:8	P36454P1	40.51	94.67	modern	high
-2023.273	2023-06-11	Hoje_A_14	273	272	0	mature	androchrome	A	41	23.273	P36454_157	A:8	P36454P1	53.87	94.38	modern	high
-2023.280	2023-06-11	Hoje_A_14	280	281	0	mature	androchrome	A	49	23.280	P36454_160	D:8	P36454P1	43.16	94.03	modern	high
-2023.274	2023-06-11	Hoje_A_14	274	275	0	mature	infuscans	I	120	23.274	P36454_158	B:8	P36454P1	36.9	93.55	modern	high
-2023.303	2023-06-11	Hoje_A_14	303	NA	1	mature		NA	NA	23.303	P36454_162	F:8	P36454P1	29.85	92.43	modern	high
-2023.304	2023-06-11	Hoje_A_14	304	NA	1	mature		NA	NA	23.304	P36454_163	G:8	P36454P1	43.54	93.69	modern	high
-2023.272	2023-06-11	Hoje_A_14	272	273	1	mature		NA	NA	23.272	P36454_156	H:7	P36454P1	37.69	93.03	modern	high
-2023.275	2023-06-11	Hoje_A_14	275	274	1	mature		NA	NA	23.275	P36454_159	C:8	P36454P1	36.27	93.76	modern	high
-2023.281	2023-06-11	Hoje_A_14	281	280	1	mature		NA	NA	23.281	P36454_161	E:8	P36454P1	42.31	94.44	modern	high
-NA	2023-06-11	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L23.499	P36454_183	C:11	P36454P1	52.47	94.34	modern	high
-NA	2023-06-11	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L23.484	P36454_194	F:12	P36454P1	32.15	93.91	modern	high
-NA	2023-06-11	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L23.494	P36454_192	D:12	P36454P1	46.77	93.35	modern	high
-NA	2023-06-12	Genarp	NA	NA	Male	NA	NA	NA	NA	L23.530	P36454_111	C:2	P36454P1	45.89	94.81	modern	high
-2023.477	2023-06-13	Lomma	477	NA	0	mature		I	NA	23.477	P36454_237	E:5	P36454P2	42.29	94.76	modern	high
-2023.454	2023-06-13	Lomma	454	455	0	mature	androchrome	A	159	23.454	P36454_233	A:5	P36454P2	23.96	90.8	modern	high
-2023.463	2023-06-13	Lomma	463	462	0	mature	androchrome	A	133	23.463	P36454_236	D:5	P36454P2	40.31	93.75	modern	high
-2023.486	2023-06-13	Lomma	486	NA	1	mature		NA	NA	23.486	P36454_238	F:5	P36454P2	32.61	93.47	modern	high
-2023.489	2023-06-13	Lomma	489	NA	1	mature		NA	NA	23.489	P36454_239	G:5	P36454P2	37.75	94.49	modern	high
-2023.455	2023-06-13	Lomma	455	454	1	mature		NA	NA	23.455	P36454_235	C:5	P36454P2	38.14	93.67	modern	high
-2023.462	2023-06-13	Lomma	462	463	1	mature		NA	NA	23.462	P36454_234	B:5	P36454P2	32.74	93.22	modern	high
-2023.520	2023-06-14	Genarp	520	NA	0	mature	androchrome	A	NA	23.520	P36454_244	D:6	P36454P2	27.3	92.3	modern	high
-2023.526	2023-06-14	Genarp	526	NA	0	mature	infuscans	I	NA	23.526	P36454_245	E:6	P36454P2	39.26	94.13	modern	high
-2023.506	2023-06-14	Genarp	506	507	0	mature	androchrome	A	274	23.506	P36454_240	H:5	P36454P2	61.52	95.13	modern	high
-2023.516	2023-06-14	Genarp	516	517	0	mature	infuscans	I	419	23.516	P36454_242	B:6	P36454P2	41.74	93.22	modern	high
-2023.539	2023-06-14	Genarp	539	NA	1	mature		NA	NA	23.539	P36454_246	F:6	P36454P2	34.85	93.76	modern	high
-2023.544	2023-06-14	Genarp	544	NA	1	mature		NA	NA	23.544	P36454_247	G:6	P36454P2	39.3	94.02	modern	high
-2023.507	2023-06-14	Genarp	507	506	1	mature		NA	NA	23.507	P36454_241	A:6	P36454P2	37.53	94.18	modern	high
-2023.517	2023-06-14	Genarp	517	516	1	mature		NA	NA	23.517	P36454_243	C:6	P36454P2	41.18	94.38	modern	high
-NA	2023-06-17	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L23.581	P36454_391	C:12	P36454P3	34.31	94.43	modern	high
-NA	2023-06-17	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L23.584	P36454_186	F:11	P36454P1	29.5	94.13	modern	high
-NA	2023-06-19	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L23.595	P36454_271	G:9	P36454P2	53.39	95.02	modern	high
-NA	2023-06-19	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L23.601	P36454_279	G:10	P36454P2	28.41	94.09	modern	high
-NA	2023-06-20	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L23.617	P36454_184	D:11	P36454P1	40.26	93.35	modern	high
-NA	2023-06-20	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L23.630	P36454_392	D:12	P36454P3	20.25	94.84	modern	high
-NA	2023-06-20	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L23.631	P36454_185	E:11	P36454P1	57.07	94.13	modern	high
-2023.818	2023-06-26	Hoje_A_14	818	819	0	mature	androchrome	A	171	23.818	P36454_324	H:3	P36454P3	36.93	94.83	modern	high
-2023.875	2023-06-26	Hoje_A_14	875	NA	1	mature		NA	NA	23.875	P36454_326	B:4	P36454P3	39.07	93.87	modern	high
-2023.819	2023-06-26	Hoje_A_14	819	818	1	mature		NA	NA	23.819	P36454_325	A:4	P36454P3	33.37	94.02	modern	high
-2023.773	2023-06-26	Lomma	773	NA	0	mature	androchrome	A	NA	23.773	P36454_248	H:6	P36454P2	47.49	94.12	modern	high
-2023.799	2023-06-26	Lomma	799	NA	0	mature	androchrome	A	NA	23.799	P36454_320	D:3	P36454P3	46.9	94.7	modern	high
-2023.802	2023-06-26	Lomma	802	NA	0	mature		I	NA	23.802	P36454_321	E:3	P36454P3	32.01	94.09	modern	high
-2023.778	2023-06-26	Lomma	778	779	0	mature	infuscans	I	165	23.778	P36454_317	A:3	P36454P3	42.62	94.83	modern	high
-2023.806	2023-06-26	Lomma	806	NA	1	mature		NA	NA	23.806	P36454_322	F:3	P36454P3	36.5	94.45	modern	high
-2023.809	2023-06-26	Lomma	809	NA	1	mature		NA	NA	23.809	P36454_323	G:3	P36454P3	44.95	94.43	modern	high
-2023.779	2023-06-26	Lomma	779	778	1	mature		NA	NA	23.779	P36454_318	B:3	P36454P3	40.55	94.61	modern	high
-2023.798	2023-06-26	Lomma	798	797	1	mature		NA	NA	23.798	P36454_319	C:3	P36454P3	41.65	94.63	modern	high
-2023.978	2023-07-09	Genarp	978	NA	1	mature		NA	NA	23.978	P36454_327	C:4	P36454P3	39.42	94.55	modern	high
-2023.1080	2023-07-15	Hoje_A_14	1080	NA	0	mature	infuscans	I	NA	23.1080	P36454_332	H:4	P36454P3	35.84	94.58	modern	high
-2023.1064	2023-07-15	Hoje_A_14	1064	1065	0	mature	androchrome	A	290	23.1064	P36454_328	D:4	P36454P3	44.5	94.48	modern	high
-2023.1073	2023-07-15	Hoje_A_14	1073	1072	0	mature	infuscans	I	0	23.1073	P36454_331	G:4	P36454P3	43.52	94.56	modern	high
-2023.1065	2023-07-15	Hoje_A_14	1065	1064	1	mature		NA	NA	23.1065	P36454_329	E:4	P36454P3	39.13	94.61	modern	high
-2023.1072	2023-07-15	Hoje_A_14	1072	1073	1	mature		NA	NA	23.1072	P36454_330	F:4	P36454P3	28.4	93.01	modern	high
-2023.1102	2023-07-18	Genarp	1102	1103	0	mature	infuscans	I	333	23.1102	P36454_355	G:7	P36454P3	38.1	94.39	modern	high
-2023.1103	2023-07-18	Genarp	1103	1102	1	mature		NA	NA	23.1103	P36454_356	H:7	P36454P3	35.25	94.29	modern	high
-2023.1190	2023-07-24	Hoje_A_14	1190	NA	0	mature	androchrome	A	NA	23.1190	P36454_360	D:8	P36454P3	42.43	94.41	modern	high
-2023.1188	2023-07-24	Hoje_A_14	1188	NA	0	mature	infuscans	I	NA	23.1188	P36454_359	C:8	P36454P3	47.59	94.16	modern	high
-2023.1193	2023-07-24	Hoje_A_14	1193	NA	1	mature		NA	NA	23.1193	P36454_390	B:12	P36454P3	38.84	93.91	modern	high
-2023.1196	2023-07-24	Hoje_A_14	1196	NA	1	mature		NA	NA	23.1196	P36454_361	E:8	P36454P3	40.56	93.93	modern	high
-2023.1181	2023-07-24	Lomma	1181	1180	0	mature	infuscans	I	6	23.1181	P36454_358	B:8	P36454P3	44.75	94.17	modern	high
-2023.1180	2023-07-24	Lomma	1180	1181	1	mature		NA	NA	23.1180	P36454_357	A:8	P36454P3	41.58	95.06	modern	high
-2023.1258	2023-07-27	Genarp	1258	NA	0	mature	androchrome	A	NA	23.1258	P36454_362	F:8	P36454P3	55.24	94.52	modern	high
-2023.1261	2023-07-27	Genarp	1261	NA	0	mature	androchrome	A	NA	23.1261	P36454_364	H:8	P36454P3	36.39	93.76	modern	high
-2023.1259	2023-07-27	Genarp	1259	NA	0	mature	infuscans	I	NA	23.1259	P36454_363	G:8	P36454P3	31.71	94.25	modern	high
-2023.1264	2023-07-27	Genarp	1264	NA	1	mature		NA	NA	23.1264	P36454_365	A:9	P36454P3	46.72	94.59	modern	high
-2023.1275	2023-07-29	Hoje_A_14	1275	NA	0	mature	androchrome	A	NA	23.1275	P36454_367	C:9	P36454P3	40.01	94.99	modern	high
-2023.1270	2023-07-29	Hoje_A_14	1270	NA	1	mature		NA	NA	23.1270	P36454_389	A:12	P36454P3	35.96	94.79	modern	high
-2023.1271	2023-07-29	Hoje_A_14	1271	NA	1	mature		NA	NA	23.1271	P36454_366	B:9	P36454P3	36.61	93.76	modern	high
-2023.1318	2023-08-05	Lomma	1318	NA	1	mature		NA	NA	23.1318	P36454_368	D:9	P36454P3	42.51	95.07	modern	high
-NA	2024-05-20	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L24.18	P36454_209	A:2	P36454P2	23.67	91.92	modern	high
-NA	2024-05-20	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L24.6	P36454_201	A:1	P36454P2	52.74	95.65	modern	high
-NA	2024-05-20	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L24.10	P36454_206	F:1	P36454P2	37.95	95.07	modern	high
-NA	2024-05-21	Genarp	NA	NA	Female	NA	NA	NA	NA	L24.49	P36454_117	A:3	P36454P1	41.73	95.85	modern	high
-NA	2024-05-21	Genarp	NA	NA	Male	NA	NA	NA	NA	L24.45	P36454_124	H:3	P36454P1	38.69	94.75	modern	high
-2024.103	2024-05-27	Lomma	103	NA	0	mature	androchrome	A	NA	24.103	P36454_169	E:9	P36454P1	37.36	93.62	modern	high
-2024.100	2024-05-27	Lomma	100	101	0	mature	infuscans	I	183	24.100	P36454_167	C:9	P36454P1	42.08	94.57	modern	high
-2024.99	2024-05-27	Lomma	99	98	0	mature	infuscans-obsoleta	O	421	24.99	P36454_166	B:9	P36454P1	46.2	93.89	modern	high
-2024.104	2024-05-27	Lomma	104	NA	1	mature		NA	NA	24.104	P36454_170	F:9	P36454P1	35.99	90.63	modern	high
-2024.101	2024-05-27	Lomma	101	100	1	mature		NA	NA	24.101	P36454_168	D:9	P36454P1	44.08	94.12	modern	high
-2024.98	2024-05-27	Lomma	98	99	1	mature		NA	NA	24.98	P36454_165	A:9	P36454P1	47.66	94.74	modern	high
-NA	2024-05-27	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L24.51	P36454_214	F:2	P36454P2	42.78	93.67	modern	high
-NA	2024-05-27	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L24.71	P36454_215	G:2	P36454P2	33.01	94.38	modern	high
-NA	2024-05-27	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L24.91	P36454_216	H:2	P36454P2	49.43	95.45	modern	high
-NA	2024-05-27	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L24.55	P36454_285	E:11	P36454P2	40.28	94.44	modern	high
-NA	2024-05-27	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L24.69	P36454_286	F:11	P36454P2	34.63	93.53	modern	high
-NA	2024-05-27	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L24.87	P36454_293	E:12	P36454P2	29.78	91.09	modern	high
-NA	2024-05-27	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L24.93	P36454_288	H:11	P36454P2	40.17	95.19	modern	high
-2024.153	2024-05-29	Hoje_A_14	153	NA	0	mature	androchrome	A	NA	24.153	P36454_174	B:10	P36454P1	43.33	93.94	modern	high
-2024.151	2024-05-29	Hoje_A_14	151	150	0	mature	androchrome	A	38	24.151	P36454_172	H:9	P36454P1	48.87	94.42	modern	high
-2024.152	2024-05-29	Hoje_A_14	152	NA	1	mature		NA	NA	24.152	P36454_173	A:10	P36454P1	45.67	94.08	modern	high
-2024.150	2024-05-29	Hoje_A_14	150	151	1	mature		NA	NA	24.150	P36454_171	G:9	P36454P1	47.88	94.43	modern	high
-NA	2024-05-29	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L24.111	P36454_210	B:2	P36454P2	37.2	94.89	modern	high
-NA	2024-05-29	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L24.137	P36454_202	B:1	P36454P2	30.4	94.71	modern	high
-NA	2024-05-29	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L24.106	P36454_207	G:1	P36454P2	23.26	94.55	modern	high
-NA	2024-05-29	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L24.113	P36454_213	E:2	P36454P2	42.33	94.59	modern	high
-NA	2024-05-29	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L24.132	P36454_208	H:1	P36454P2	57.29	96.09	modern	high
-NA	2024-05-31	Genarp	NA	NA	Female	NA	NA	NA	NA	L24.179	P36454_118	B:3	P36454P1	82.46	95.54	modern	high
-NA	2024-05-31	Genarp	NA	NA	Male	NA	NA	NA	NA	L24.177	P36454_125	A:4	P36454P1	42.82	95.1	modern	high
-2024.454	2024-06-04	Lomma	454	NA	0	mature	infuscans	I	NA	24.454	P36454_177	E:10	P36454P1	55.01	94.65	modern	high
-2024.447	2024-06-04	Lomma	447	448	0	mature	androchrome	A	0	24.447	P36454_175	C:10	P36454P1	31.61	94.2	modern	high
-2024.458	2024-06-04	Lomma	458	NA	1	mature		NA	NA	24.458	P36454_178	F:10	P36454P1	20.49	91.61	modern	high
-2024.448	2024-06-04	Lomma	448	447	1	mature		NA	NA	24.448	P36454_176	D:10	P36454P1	33.54	94.31	modern	high
-NA	2024-06-04	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L24.207	P36454_281	A:11	P36454P2	34.41	94.92	modern	high
-NA	2024-06-04	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L24.211	P36454_287	G:11	P36454P2	32.83	94.23	modern	high
-NA	2024-06-07	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L24.244	P36454_203	C:1	P36454P2	38.26	94.36	modern	high
-NA	2024-06-07	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L24.256	P36454_204	D:1	P36454P2	45.86	94.97	modern	high
-2024.620	2024-06-10	Genarp	620	628	0	mature	androchrome	A	387	24.620	P36454_249	A:7	P36454P2	35.2	93.78	modern	high
-2024.606	2024-06-10	Genarp	606	604	0	mature	infuscans	I	244	24.606	P36454_180	H:10	P36454P1	45.86	93.94	modern	high
-2024.640	2024-06-10	Genarp	640	NA	1	mature		NA	NA	24.640	P36454_251	C:7	P36454P2	44.44	94.04	modern	high
-2024.655	2024-06-10	Genarp	655	NA	1	mature		NA	NA	24.655	P36454_252	D:7	P36454P2	41.67	94.7	modern	high
-2024.659	2024-06-10	Genarp	659	NA	1	mature		NA	NA	24.659	P36454_253	E:7	P36454P2	31.01	94.32	modern	high
-2024.604	2024-06-10	Genarp	604	606	1	mature		NA	NA	24.604	P36454_179	G:10	P36454P1	34.13	93.33	modern	high
-2024.628	2024-06-10	Genarp	628	620	1	mature		NA	NA	24.628	P36454_250	B:7	P36454P2	35.55	94.22	modern	high
-NA	2024-06-10	Genarp	NA	NA	Female	NA	NA	NA	NA	L24.259	P36454_115	G:2	P36454P1	42.04	94.82	modern	high
-NA	2024-06-10	Genarp	NA	NA	Female	NA	NA	NA	NA	L24.264	P36454_119	C:3	P36454P1	41.19	95.33	modern	high
-NA	2024-06-10	Genarp	NA	NA	Male	NA	NA	NA	NA	L24.275	P36454_126	B:4	P36454P1	42.18	94.85	modern	high
-NA	2024-06-12	Genarp	NA	NA	Female	NA	NA	NA	NA	L24.327	P36454_120	D:3	P36454P1	31.87	94.88	modern	high
-NA	2024-06-12	Genarp	NA	NA	Female	NA	NA	NA	NA	L24.341	P36454_121	E:3	P36454P1	48.17	94.84	modern	high
-NA	2024-06-12	Genarp	NA	NA	Female	NA	NA	NA	NA	L24.345	P36454_132	H:4	P36454P1	44.39	95.05	modern	high
-NA	2024-06-12	Genarp	NA	NA	Female	NA	NA	NA	NA	L24.350	P36454_122	F:3	P36454P1	127.16	95.44	modern	high
-NA	2024-06-12	Genarp	NA	NA	Female	NA	NA	NA	NA	L24.357	P36454_123	G:3	P36454P1	33.04	93.92	modern	high
-NA	2024-06-12	Genarp	NA	NA	Male	NA	NA	NA	NA	L24.335	P36454_127	C:4	P36454P1	41.44	93.28	modern	high
-NA	2024-06-12	Genarp	NA	NA	Male	NA	NA	NA	NA	L24.352	P36454_128	D:4	P36454P1	104.77	95.4	modern	high
-NA	2024-06-12	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L24.277	P36454_211	C:2	P36454P2	36.91	94.14	modern	high
-2024.970	2024-06-17	Lomma	970	971	0	mature	androchrome	A	324	24.970	P36454_254	F:7	P36454P2	37.84	94.43	modern	high
-2024.980	2024-06-17	Lomma	980	NA	1	mature		NA	NA	24.980	P36454_257	A:8	P36454P2	38.32	94.04	modern	high
-2024.971	2024-06-17	Lomma	971	970	1	mature		NA	NA	24.971	P36454_255	G:7	P36454P2	37.53	93.68	modern	high
-2024.979	2024-06-17	Lomma	979	978	1	mature		NA	NA	24.979	P36454_256	H:7	P36454P2	40.95	94.44	modern	high
-NA	2024-06-17	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L24.371	P36454_289	A:12	P36454P2	49.7	94.87	modern	high
-NA	2024-06-17	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L24.385	P36454_290	B:12	P36454P2	43.76	95.03	modern	high
-2024.1029	2024-06-18	Genarp	1029	NA	0	mature	infuscans	I	NA	24.1029	P36454_262	F:8	P36454P2	28.78	93.77	modern	high
-2024.1014	2024-06-18	Genarp	1014	1015	0	mature	androchrome	A	230	24.1014	P36454_258	B:8	P36454P2	30.15	93.28	modern	high
-2024.1031	2024-06-18	Genarp	1031	1032	0	mature	androchrome	A	1	24.1031	P36454_263	G:8	P36454P2	36.61	93.29	modern	high
-2024.1020	2024-06-18	Genarp	1020	1021	0	mature	infuscans-obsoleta	O	344	24.1020	P36454_260	D:8	P36454P2	29.49	93.75	modern	high
-2024.1040	2024-06-18	Genarp	1040	NA	1	mature		NA	NA	24.1040	P36454_333	A:5	P36454P3	45.46	95.21	modern	high
-2024.1046	2024-06-18	Genarp	1046	NA	1	mature		NA	NA	24.1046	P36454_334	B:5	P36454P3	38.45	94.35	modern	high
-2024.1015	2024-06-18	Genarp	1015	1014	1	mature		NA	NA	24.1015	P36454_259	C:8	P36454P2	44.3	93.86	modern	high
-2024.1021	2024-06-18	Genarp	1021	1020	1	mature		NA	NA	24.1021	P36454_261	E:8	P36454P2	35.15	93.85	modern	high
-2024.1032	2024-06-18	Genarp	1032	1031	1	mature		NA	NA	24.1032	P36454_264	H:8	P36454P2	39.41	94.05	modern	high
-NA	2024-06-18	Genarp	NA	NA	Male	NA	NA	NA	NA	L24.411	P36454_129	E:4	P36454P1	44.74	95.02	modern	high
-NA	2024-06-18	Genarp	NA	NA	Male	NA	NA	NA	NA	L24.420	P36454_130	F:4	P36454P1	43.34	93.1	modern	high
-2024.1119	2024-06-20	Hoje_A_14	1119	NA	0	mature	androchrome	A	NA	24.1119	P36454_337	E:5	P36454P3	45.43	95.01	modern	high
-2024.1126	2024-06-20	Hoje_A_14	1126	NA	0	mature	infuscans	I	NA	24.1126	P36454_338	F:5	P36454P3	36.89	95.17	modern	high
-2024.1075	2024-06-20	Hoje_A_14	1075	1074	0	mature	androchrome	A	1	24.1075	P36454_336	D:5	P36454P3	50.22	95.41	modern	high
-2024.1150	2024-06-20	Hoje_A_14	1150	NA	1	mature		NA	NA	24.1150	P36454_339	G:5	P36454P3	37.68	93.74	modern	high
-2024.1157	2024-06-20	Hoje_A_14	1157	NA	1	mature		NA	NA	24.1157	P36454_340	H:5	P36454P3	43.05	94.57	modern	high
-2024.1074	2024-06-20	Hoje_A_14	1074	1075	1	mature		NA	NA	24.1074	P36454_335	C:5	P36454P3	48.79	95.09	modern	high
-NA	2024-06-20	Hoje_A_14	NA	NA	Female	NA	NA	NA	NA	L24.425	P36454_205	E:1	P36454P2	39.3	95.34	modern	high
-NA	2024-06-20	Hoje_A_14	NA	NA	Male	NA	NA	NA	NA	L24.433	P36454_212	D:2	P36454P2	45.03	93.43	modern	high
-NA	2024-06-23	Genarp	NA	NA	Male	NA	NA	NA	NA	L24.480	P36454_131	G:4	P36454P1	25.81	94.89	modern	high
-2024.1386	2024-06-27	Lomma	1386	NA	0	mature	androchrome	A	NA	24.1386	P36454_345	E:6	P36454P3	35.55	94.34	modern	high
-2024.1388	2024-06-27	Lomma	1388	NA	0	mature		I	NA	24.1388	P36454_346	F:6	P36454P3	40.08	94.79	modern	high
-2024.1385	2024-06-27	Lomma	1385	1384	0	mature	androchrome	A	202	24.1385	P36454_344	D:6	P36454P3	35.66	94.39	modern	high
-2024.1383	2024-06-27	Lomma	1383	1382	0	mature	infuscans	I	254	24.1383	P36454_342	B:6	P36454P3	54.64	94.09	modern	high
-2024.1382	2024-06-27	Lomma	1382	1383	1	mature		NA	NA	24.1382	P36454_341	A:6	P36454P3	31.66	94.29	modern	high
-2024.1384	2024-06-27	Lomma	1384	1385	1	mature		NA	NA	24.1384	P36454_343	C:6	P36454P3	43.33	95.06	modern	high
-NA	2024-06-27	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L24.574	P36454_282	B:11	P36454P2	44.47	95.01	modern	high
-NA	2024-06-27	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L24.588	P36454_283	C:11	P36454P2	21.43	94.14	modern	high
-NA	2024-06-27	Lomma_Kyrkdamm	NA	NA	Female	NA	NA	NA	NA	L24.603	P36454_284	D:11	P36454P2	47.46	94.21	modern	high
-NA	2024-06-27	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L24.595	P36454_291	C:12	P36454P2	119.16	94.49	modern	high
-NA	2024-06-27	Lomma_Kyrkdamm	NA	NA	Male	NA	NA	NA	NA	L24.615	P36454_292	D:12	P36454P2	30.61	94.28	modern	high
-2024.1407	2024-06-28	Genarp	1407	NA	0	mature	infuscans	I	NA	24.1407	P36454_347	G:6	P36454P3	43.1	94.79	modern	high
-2024.1446	2024-07-01	Hoje_A_14	1446	1445	0	mature	androchrome	A	0	24.1446	P36454_369	E:9	P36454P3	61.69	95.84	modern	high
-2024.1458	2024-07-01	Hoje_A_14	1458	1457	0	mature	infuscans	I	0	24.1458	P36454_371	G:9	P36454P3	48.88	94.37	modern	high
-2024.1475	2024-07-01	Hoje_A_14	1475	1476	0	mature	infuscans	I	97	24.1475	P36454_372	H:9	P36454P3	44.41	95.1	modern	high
-2024.1493	2024-07-01	Hoje_A_14	1493	NA	1	mature		NA	NA	24.1493	P36454_374	B:10	P36454P3	55.88	95.34	modern	high
-2024.1445	2024-07-01	Hoje_A_14	1445	1446	1	mature		NA	NA	24.1445	P36454_348	H:6	P36454P3	29.6	94.43	modern	high
-2024.1457	2024-07-01	Hoje_A_14	1457	1458	1	mature		NA	NA	24.1457	P36454_370	F:9	P36454P3	48.75	95.09	modern	high
-2024.1476	2024-07-01	Hoje_A_14	1476	1475	1	mature		NA	NA	24.1476	P36454_373	A:10	P36454P3	43.84	95.22	modern	high
-2024.1726	2024-07-08	Genarp	1726	NA	0	mature	androchrome	A	NA	24.1726	P36454_377	E:10	P36454P3	44.16	94.73	modern	high
-2024.1719	2024-07-08	Genarp	1719	1720	0	mature	infuscans	I	23	24.1719	P36454_375	C:10	P36454P3	30.72	93.73	modern	high
-2024.1720	2024-07-08	Genarp	1720	1719	1	mature		NA	NA	24.1720	P36454_376	D:10	P36454P3	40.57	94.68	modern	high
-2024.1734	2024-07-09	Lomma	1734	NA	1	mature		NA	NA	24.1734	P36454_378	F:10	P36454P3	35.8	94.8	modern	high
-2024.1804	2024-07-12	Hoje_A_14	1804	NA	0	mature	androchrome	A	NA	24.1804	P36454_381	A:11	P36454P3	42.44	94.76	modern	high
-2024.1799	2024-07-12	Hoje_A_14	1799	1800	0	mature	infuscans-obsoleta	O	127	24.1799	P36454_379	G:10	P36454P3	36.13	94.62	modern	high
-2024.1821	2024-07-12	Hoje_A_14	1821	NA	1	mature		NA	NA	24.1821	P36454_382	B:11	P36454P3	37.55	94.45	modern	high
-2024.1800	2024-07-12	Hoje_A_14	1800	1799	1	mature		NA	NA	24.1800	P36454_380	H:10	P36454P3	38.37	93.39	modern	high
-2024.1894	2024-07-18	Genarp	1894	NA	0	mature	androchrome	A	NA	24.1894	P36454_383	C:11	P36454P3	45.71	94.44	modern	high
-2024.1899	2024-07-18	Lomma	1899	NA	0	mature	androchrome	A	NA	24.1899	P36454_384	D:11	P36454P3	41.25	94.61	modern	high
-2024.2109	2024-07-25	Genarp	2109	NA	0	mature	infuscans	I	NA	24.2109	P36454_385	E:11	P36454P3	41.85	95.1	modern	high
-2024.2163	2024-07-29	Hoje_A_14	2163	NA	0	mature	infuscans	I	NA	24.2163	P36454_386	F:11	P36454P3	41.21	94.45	modern	high
+Season.id	 Datum     	 population    	 Scan.id	 Part.id	 Sex   	 Age   	 Morph             	 All_ages_morph	 Eggcount	 Tube_ID	 sample    	 Well	 NGI_plateID	 Mreads	 BaseQ30	 time  	 depth
+2022.176 	 2022-06-08	 Genarp        	 176    	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 22x176 	 P36454_135	 C:5 	 P36454P1   	  44.81	   94.84	 modern	 high
+2022.160 	 2022-06-08	 Genarp        	 160    	 159    	 0     	 mature	 infuscans         	 I             	 0       	 22x160 	 P36454_134	 B:5 	 P36454P1   	  31.71	   92.54	 modern	 high
+2022.182 	 2022-06-08	 Genarp        	 182    	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x182 	 P36454_136	 D:5 	 P36454P1   	  28.47	   92.26	 modern	 high
+2022.159 	 2022-06-08	 Genarp        	 159    	 160    	 1     	 mature	                   	 NA            	 NA      	 22x159 	 P36454_133	 A:5 	 P36454P1   	  66.55	   95.67	 modern	 high
+2022.205 	 2022-06-11	 Lomma         	 205    	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 22x205 	 P36454_142	 B:6 	 P36454P1   	  39.6 	   94.07	 modern	 high
+2022.206 	 2022-06-11	 Lomma         	 206    	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 22x206 	 P36454_143	 C:6 	 P36454P1   	  33.48	   94   	 modern	 high
+2022.187 	 2022-06-11	 Lomma         	 187    	 188    	 0     	 mature	 infuscans         	 I             	 2       	 22x187 	 P36454_137	 E:5 	 P36454P1   	  45.04	   93.77	 modern	 high
+2022.195 	 2022-06-11	 Lomma         	 195    	 196    	 0     	 mature	 infuscans         	 I             	 198     	 22x195 	 P36454_139	 G:5 	 P36454P1   	  38.64	   93.32	 modern	 high
+2022.203 	 2022-06-11	 Lomma         	 203    	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x203 	 P36454_141	 A:6 	 P36454P1   	  48.81	   94.38	 modern	 high
+2022.188 	 2022-06-11	 Lomma         	 188    	 187    	 1     	 mature	                   	 NA            	 NA      	 22x188 	 P36454_138	 F:5 	 P36454P1   	  42.4 	   94.39	 modern	 high
+2022.196 	 2022-06-11	 Lomma         	 196    	 195    	 1     	 mature	                   	 NA            	 NA      	 22x196 	 P36454_140	 H:5 	 P36454P1   	  38.99	   93.47	 modern	 high
+2022.317 	 2022-06-16	 Hoje_A_14     	 317    	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 22x317 	 P36454_148	 H:6 	 P36454P1   	  37.62	   93.67	 modern	 high
+2022.319 	 2022-06-16	 Hoje_A_14     	 319    	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 22x319 	 P36454_217	 A:3 	 P36454P2   	  40.32	   94.42	 modern	 high
+2022.308 	 2022-06-16	 Hoje_A_14     	 308    	 307    	 0     	 mature	 androchrome       	 A             	 75      	 22x308 	 P36454_145	 E:6 	 P36454P1   	  36.37	   93.37	 modern	 high
+2022.309 	 2022-06-16	 Hoje_A_14     	 309    	 310    	 0     	 mature	 infuscans         	 I             	 460     	 22x309 	 P36454_146	 F:6 	 P36454P1   	  30.92	   93.32	 modern	 high
+2022.322 	 2022-06-16	 Hoje_A_14     	 322    	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x322 	 P36454_218	 B:3 	 P36454P2   	  31.61	   92.77	 modern	 high
+2022.307 	 2022-06-16	 Hoje_A_14     	 307    	 308    	 1     	 mature	                   	 NA            	 NA      	 22x307 	 P36454_144	 D:6 	 P36454P1   	  36.81	   94.49	 modern	 high
+2022.310 	 2022-06-16	 Hoje_A_14     	 310    	 309    	 1     	 mature	                   	 NA            	 NA      	 22x310 	 P36454_147	 G:6 	 P36454P1   	  31.45	   92.52	 modern	 high
+2022.471 	 2022-06-17	 Genarp        	 471    	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 22x471 	 P36454_223	 G:3 	 P36454P2   	  42.45	   94.78	 modern	 high
+2022.407 	 2022-06-17	 Genarp        	 407    	 408    	 0     	 mature	 androchrome       	 A             	 237     	 22x407 	 P36454_219	 C:3 	 P36454P2   	  26.63	   94.27	 modern	 high
+2022.417 	 2022-06-17	 Genarp        	 417    	 418    	 0     	 mature	 infuscans         	 I             	 412     	 22x417 	 P36454_221	 E:3 	 P36454P2   	  36.83	   94.32	 modern	 high
+2022.408 	 2022-06-17	 Genarp        	 408    	 407    	 1     	 mature	                   	 NA            	 NA      	 22x408 	 P36454_220	 D:3 	 P36454P2   	  43.55	   94.29	 modern	 high
+2022.418 	 2022-06-17	 Genarp        	 418    	 417    	 1     	 mature	                   	 NA            	 NA      	 22x418 	 P36454_222	 F:3 	 P36454P2   	  31.01	   93.47	 modern	 high
+2022.637 	 2022-06-23	 Lomma         	 637    	 638    	 0     	 mature	 androchrome       	 A             	 377     	 22x637 	 P36454_226	 B:4 	 P36454P2   	  33.9 	   94.31	 modern	 high
+2022.654 	 2022-06-23	 Lomma         	 654    	 653    	 0     	 mature	 androchrome       	 A             	 269     	 22x654 	 P36454_228	 D:4 	 P36454P2   	  39.38	   94.15	 modern	 high
+2022.628 	 2022-06-23	 Lomma         	 628    	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x628 	 P36454_224	 H:3 	 P36454P2   	  48.53	   94.92	 modern	 high
+2022.633 	 2022-06-23	 Lomma         	 633    	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x633 	 P36454_225	 A:4 	 P36454P2   	  47.23	   94.72	 modern	 high
+2022.638 	 2022-06-23	 Lomma         	 638    	 637    	 1     	 mature	                   	 NA            	 NA      	 22x638 	 P36454_227	 C:4 	 P36454P2   	  35.28	   93.7 	 modern	 high
+2022.652 	 2022-06-23	 Lomma         	 652    	 651    	 1     	 mature	                   	 NA            	 NA      	 22x652 	 P36454_387	 G:11	 P36454P3   	  43.08	   94.72	 modern	 high
+2022.875 	 2022-06-29	 Hoje_A_14     	 875    	 876    	 0     	 mature	 infuscans         	 I             	 122     	 22x875 	 P36454_229	 E:4 	 P36454P2   	  38.27	   92.89	 modern	 high
+2022.876 	 2022-06-29	 Hoje_A_14     	 876    	 875    	 1     	 mature	                   	 NA            	 NA      	 22x876 	 P36454_230	 F:4 	 P36454P2   	  30.86	   94.01	 modern	 high
+2022.922 	 2022-06-30	 Genarp        	 922    	 921    	 0     	 mature	 androchrome       	 A             	 121     	 22x922 	 P36454_232	 H:4 	 P36454P2   	  42.38	   94.7 	 modern	 high
+2022.972 	 2022-06-30	 Genarp        	 972    	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x972 	 P36454_294	 F:12	 P36454P2   	  47.18	   94.53	 modern	 high
+2022.975 	 2022-06-30	 Genarp        	 975    	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x975 	 P36454_393	 E:12	 P36454P3   	  36.14	   93.53	 modern	 high
+2022.921 	 2022-06-30	 Genarp        	 921    	 922    	 1     	 mature	                   	 NA            	 NA      	 22x921 	 P36454_231	 G:4 	 P36454P2   	  44.96	   94.25	 modern	 high
+2022.1239	 2022-07-03	 Lomma         	 1239   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 22x1239	 P36454_302	 B:1 	 P36454P3   	  46.8 	   94.85	 modern	 high
+2022.1235	 2022-07-03	 Lomma         	 1235   	 1234   	 0     	 mature	 androchrome       	 A             	 201     	 22x1235	 P36454_301	 A:1 	 P36454P3   	  43.3 	   94.66	 modern	 high
+2022.1252	 2022-07-03	 Lomma         	 1252   	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x1252	 P36454_303	 C:1 	 P36454P3   	  55.24	   95.24	 modern	 high
+2022.1234	 2022-07-03	 Lomma         	 1234   	 1235   	 1     	 mature	                   	 NA            	 NA      	 22x1234	 P36454_394	 F:12	 P36454P3   	  57.16	   95.47	 modern	 high
+2022.1443	 2022-07-08	 Hoje_A_14     	 1443   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 22x1443	 P36454_307	 G:1 	 P36454P3   	  48.81	   95.38	 modern	 high
+2022.1435	 2022-07-08	 Hoje_A_14     	 1435   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 22x1435	 P36454_306	 F:1 	 P36454P3   	  46.1 	   95.46	 modern	 high
+2022.1449	 2022-07-08	 Hoje_A_14     	 1449   	 1450   	 0     	 mature	 androchrome       	 A             	 314     	 22x1449	 P36454_308	 H:1 	 P36454P3   	  45.43	   94.41	 modern	 high
+2022.1425	 2022-07-08	 Hoje_A_14     	 1425   	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x1425	 P36454_304	 D:1 	 P36454P3   	  39.45	   94.32	 modern	 high
+2022.1430	 2022-07-08	 Hoje_A_14     	 1430   	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x1430	 P36454_305	 E:1 	 P36454P3   	  35.77	   94.65	 modern	 high
+2022.1450	 2022-07-08	 Hoje_A_14     	 1450   	 1449   	 1     	 mature	                   	 NA            	 NA      	 22x1450	 P36454_309	 A:2 	 P36454P3   	  37.14	   94.81	 modern	 high
+2022.1500	 2022-07-10	 Genarp        	 1500   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 22x1500	 P36454_310	 B:2 	 P36454P3   	  37.36	   94.6 	 modern	 high
+2022.1800	 2022-07-17	 Lomma         	 1800   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 22x1800	 P36454_312	 D:2 	 P36454P3   	  41.28	   94.73	 modern	 high
+2022.1799	 2022-07-17	 Lomma         	 1799   	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x1799	 P36454_311	 C:2 	 P36454P3   	  47.13	   94.81	 modern	 high
+2022.1789	 2022-07-17	 Lomma         	 1789   	 1788   	 1     	 mature	                   	 NA            	 NA      	 22x1789	 P36454_388	 H:11	 P36454P3   	  51.76	   94.76	 modern	 high
+2022.1852	 2022-07-19	 Genarp        	 1852   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 22x1852	 P36454_349	 A:7 	 P36454P3   	  44.6 	   94.38	 modern	 high
+2022.1856	 2022-07-19	 Genarp        	 1856   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 22x1856	 P36454_350	 B:7 	 P36454P3   	  33.58	   93.75	 modern	 high
+2022.1833	 2022-07-19	 Genarp        	 1833   	 1832   	 0     	 mature	 androchrome       	 A             	 22      	 22x1833	 P36454_314	 F:2 	 P36454P3   	  40.36	   92.3 	 modern	 high
+2022.1839	 2022-07-19	 Genarp        	 1839   	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x1839	 P36454_315	 G:2 	 P36454P3   	  38.54	   94.39	 modern	 high
+2022.1844	 2022-07-19	 Genarp        	 1844   	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x1844	 P36454_316	 H:2 	 P36454P3   	  33.34	   93.98	 modern	 high
+2022.1832	 2022-07-19	 Genarp        	 1832   	 1833   	 1     	 mature	                   	 NA            	 NA      	 22x1832	 P36454_313	 E:2 	 P36454P3   	  32.34	   94.15	 modern	 high
+2022.1876	 2022-07-19	 Hoje_A_14     	 1876   	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x1876	 P36454_351	 C:7 	 P36454P3   	  44.04	   94.17	 modern	 high
+2022.2132	 2022-07-24	 Hoje_A_14     	 2132   	 2131   	 0     	 mature	 androchrome       	 A             	 62      	 22x2132	 P36454_353	 E:7 	 P36454P3   	  53.25	   95.24	 modern	 high
+2022.2144	 2022-07-24	 Hoje_A_14     	 2144   	 NA     	 1     	 mature	                   	 NA            	 NA      	 22x2144	 P36454_354	 F:7 	 P36454P3   	  43.45	   94.59	 modern	 high
+2022.2131	 2022-07-24	 Hoje_A_14     	 2131   	 2132   	 1     	 mature	                   	 NA            	 NA      	 22x2131	 P36454_352	 D:7 	 P36454P3   	  47.38	   94.04	 modern	 high
+NA       	 2023-05-16	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x6  	 P36454_181	 A:11	 P36454P1   	  44.14	   94.57	 modern	 high
+NA       	 2023-05-16	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x4  	 P36454_187	 G:11	 P36454P1   	  39.08	   94.12	 modern	 high
+NA       	 2023-05-25	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x112	 P36454_101	 A:1 	 P36454P1   	  48.8 	   95.57	 modern	 high
+NA       	 2023-05-25	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x115	 P36454_102	 B:1 	 P36454P1   	  38.75	   95.15	 modern	 high
+NA       	 2023-05-25	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x120	 P36454_103	 C:1 	 P36454P1   	  52.54	   94.95	 modern	 high
+NA       	 2023-05-25	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x129	 P36454_104	 D:1 	 P36454P1   	  43.78	   95.1 	 modern	 high
+NA       	 2023-05-25	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x134	 P36454_116	 H:2 	 P36454P1   	  38.89	   94.2 	 modern	 high
+NA       	 2023-05-25	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x146	 P36454_105	 E:1 	 P36454P1   	  30.86	   95.05	 modern	 high
+NA       	 2023-05-25	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x121	 P36454_112	 D:2 	 P36454P1   	  45.09	   94.48	 modern	 high
+NA       	 2023-05-25	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x141	 P36454_113	 E:2 	 P36454P1   	  47.31	   94.91	 modern	 high
+NA       	 2023-05-25	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x105	 P36454_188	 H:11	 P36454P1   	  42.1 	   94.68	 modern	 high
+NA       	 2023-05-27	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x163	 P36454_106	 F:1 	 P36454P1   	  53.77	   95.77	 modern	 high
+NA       	 2023-05-27	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x190	 P36454_107	 G:1 	 P36454P1   	  51.55	   95.46	 modern	 high
+NA       	 2023-05-27	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x155	 P36454_109	 A:2 	 P36454P1   	  48.55	   94.82	 modern	 high
+NA       	 2023-05-27	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x178	 P36454_110	 B:2 	 P36454P1   	  39.96	   94.13	 modern	 high
+2023.33  	 2023-05-30	 Lomma         	 33     	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 23x33  	 P36454_151	 C:7 	 P36454P1   	  33.52	   93.62	 modern	 high
+2023.31  	 2023-05-30	 Lomma         	 31     	 32     	 0     	 mature	 androchrome       	 A             	 234     	 23x31  	 P36454_149	 A:7 	 P36454P1   	  47.63	   93.96	 modern	 high
+2023.32  	 2023-05-30	 Lomma         	 32     	 31     	 1     	 mature	                   	 NA            	 NA      	 23x32  	 P36454_150	 B:7 	 P36454P1   	  41.42	   93.34	 modern	 high
+NA       	 2023-05-30	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x319	 P36454_265	 A:9 	 P36454P2   	  49.61	   94.04	 modern	 high
+NA       	 2023-05-30	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x329	 P36454_266	 B:9 	 P36454P2   	  22.98	   91.7 	 modern	 high
+NA       	 2023-05-30	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x332	 P36454_280	 H:10	 P36454P2   	  37.93	   94.35	 modern	 high
+NA       	 2023-05-30	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x314	 P36454_272	 H:9 	 P36454P2   	  41.03	   94.53	 modern	 high
+NA       	 2023-05-30	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x323	 P36454_273	 A:10	 P36454P2   	  53.56	   90.98	 modern	 high
+NA       	 2023-06-01	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x379	 P36454_182	 B:11	 P36454P1   	  38.6 	   94.24	 modern	 high
+NA       	 2023-06-01	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x371	 P36454_189	 A:12	 P36454P1   	  50.92	   94.94	 modern	 high
+NA       	 2023-06-01	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x376	 P36454_190	 B:12	 P36454P1   	  36.21	   93.61	 modern	 high
+2023.117 	 2023-06-04	 Genarp        	 117    	 116    	 0     	 mature	 androchrome       	 A             	 0       	 23x117 	 P36454_153	 E:7 	 P36454P1   	  36.13	   94.17	 modern	 high
+2023.123 	 2023-06-04	 Genarp        	 123    	 122    	 0     	 mature	 androchrome       	 A             	 0       	 23x123 	 P36454_155	 G:7 	 P36454P1   	  50.93	   94.43	 modern	 high
+2023.116 	 2023-06-04	 Genarp        	 116    	 117    	 1     	 mature	                   	 NA            	 NA      	 23x116 	 P36454_152	 D:7 	 P36454P1   	  39.43	   93.8 	 modern	 high
+2023.122 	 2023-06-04	 Genarp        	 122    	 123    	 1     	 mature	                   	 NA            	 NA      	 23x122 	 P36454_154	 F:7 	 P36454P1   	  36.37	   93.99	 modern	 high
+NA       	 2023-06-04	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x349	 P36454_108	 H:1 	 P36454P1   	  37.51	   94.55	 modern	 high
+NA       	 2023-06-04	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x345	 P36454_114	 F:2 	 P36454P1   	  41   	   94.25	 modern	 high
+NA       	 2023-06-04	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x388	 P36454_267	 C:9 	 P36454P2   	  29.37	   94.72	 modern	 high
+NA       	 2023-06-04	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x392	 P36454_268	 D:9 	 P36454P2   	  32.16	   94.54	 modern	 high
+NA       	 2023-06-04	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x397	 P36454_274	 B:10	 P36454P2   	  43.19	   95.06	 modern	 high
+NA       	 2023-06-04	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x399	 P36454_275	 C:10	 P36454P2   	  24.76	   94.31	 modern	 high
+NA       	 2023-06-04	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x404	 P36454_276	 D:10	 P36454P2   	  32.24	   94.86	 modern	 high
+NA       	 2023-06-09	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x453	 P36454_193	 E:12	 P36454P1   	  38.29	   93.88	 modern	 high
+NA       	 2023-06-09	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x461	 P36454_191	 C:12	 P36454P1   	  37.08	   94.69	 modern	 high
+NA       	 2023-06-09	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x435	 P36454_269	 E:9 	 P36454P2   	  27.51	   92.99	 modern	 high
+NA       	 2023-06-09	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x439	 P36454_270	 F:9 	 P36454P2   	  69.47	   91.76	 modern	 high
+NA       	 2023-06-09	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x423	 P36454_277	 E:10	 P36454P2   	 153.49	   92.79	 modern	 high
+NA       	 2023-06-09	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x432	 P36454_278	 F:10	 P36454P2   	  30.12	   94.75	 modern	 high
+2023.307 	 2023-06-11	 Hoje_A_14     	 307    	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 23x307 	 P36454_164	 H:8 	 P36454P1   	  40.51	   94.67	 modern	 high
+2023.273 	 2023-06-11	 Hoje_A_14     	 273    	 272    	 0     	 mature	 androchrome       	 A             	 41      	 23x273 	 P36454_157	 A:8 	 P36454P1   	  53.87	   94.38	 modern	 high
+2023.280 	 2023-06-11	 Hoje_A_14     	 280    	 281    	 0     	 mature	 androchrome       	 A             	 49      	 23x280 	 P36454_160	 D:8 	 P36454P1   	  43.16	   94.03	 modern	 high
+2023.274 	 2023-06-11	 Hoje_A_14     	 274    	 275    	 0     	 mature	 infuscans         	 I             	 120     	 23x274 	 P36454_158	 B:8 	 P36454P1   	  36.9 	   93.55	 modern	 high
+2023.303 	 2023-06-11	 Hoje_A_14     	 303    	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x303 	 P36454_162	 F:8 	 P36454P1   	  29.85	   92.43	 modern	 high
+2023.304 	 2023-06-11	 Hoje_A_14     	 304    	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x304 	 P36454_163	 G:8 	 P36454P1   	  43.54	   93.69	 modern	 high
+2023.272 	 2023-06-11	 Hoje_A_14     	 272    	 273    	 1     	 mature	                   	 NA            	 NA      	 23x272 	 P36454_156	 H:7 	 P36454P1   	  37.69	   93.03	 modern	 high
+2023.275 	 2023-06-11	 Hoje_A_14     	 275    	 274    	 1     	 mature	                   	 NA            	 NA      	 23x275 	 P36454_159	 C:8 	 P36454P1   	  36.27	   93.76	 modern	 high
+2023.281 	 2023-06-11	 Hoje_A_14     	 281    	 280    	 1     	 mature	                   	 NA            	 NA      	 23x281 	 P36454_161	 E:8 	 P36454P1   	  42.31	   94.44	 modern	 high
+NA       	 2023-06-11	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x499	 P36454_183	 C:11	 P36454P1   	  52.47	   94.34	 modern	 high
+NA       	 2023-06-11	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x484	 P36454_194	 F:12	 P36454P1   	  32.15	   93.91	 modern	 high
+NA       	 2023-06-11	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x494	 P36454_192	 D:12	 P36454P1   	  46.77	   93.35	 modern	 high
+NA       	 2023-06-12	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x530	 P36454_111	 C:2 	 P36454P1   	  45.89	   94.81	 modern	 high
+2023.477 	 2023-06-13	 Lomma         	 477    	 NA     	 0     	 mature	                   	 I             	 NA      	 23x477 	 P36454_237	 E:5 	 P36454P2   	  42.29	   94.76	 modern	 high
+2023.454 	 2023-06-13	 Lomma         	 454    	 455    	 0     	 mature	 androchrome       	 A             	 159     	 23x454 	 P36454_233	 A:5 	 P36454P2   	  23.96	   90.8 	 modern	 high
+2023.463 	 2023-06-13	 Lomma         	 463    	 462    	 0     	 mature	 androchrome       	 A             	 133     	 23x463 	 P36454_236	 D:5 	 P36454P2   	  40.31	   93.75	 modern	 high
+2023.486 	 2023-06-13	 Lomma         	 486    	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x486 	 P36454_238	 F:5 	 P36454P2   	  32.61	   93.47	 modern	 high
+2023.489 	 2023-06-13	 Lomma         	 489    	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x489 	 P36454_239	 G:5 	 P36454P2   	  37.75	   94.49	 modern	 high
+2023.455 	 2023-06-13	 Lomma         	 455    	 454    	 1     	 mature	                   	 NA            	 NA      	 23x455 	 P36454_235	 C:5 	 P36454P2   	  38.14	   93.67	 modern	 high
+2023.462 	 2023-06-13	 Lomma         	 462    	 463    	 1     	 mature	                   	 NA            	 NA      	 23x462 	 P36454_234	 B:5 	 P36454P2   	  32.74	   93.22	 modern	 high
+2023.520 	 2023-06-14	 Genarp        	 520    	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 23x520 	 P36454_244	 D:6 	 P36454P2   	  27.3 	   92.3 	 modern	 high
+2023.526 	 2023-06-14	 Genarp        	 526    	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 23x526 	 P36454_245	 E:6 	 P36454P2   	  39.26	   94.13	 modern	 high
+2023.506 	 2023-06-14	 Genarp        	 506    	 507    	 0     	 mature	 androchrome       	 A             	 274     	 23x506 	 P36454_240	 H:5 	 P36454P2   	  61.52	   95.13	 modern	 high
+2023.516 	 2023-06-14	 Genarp        	 516    	 517    	 0     	 mature	 infuscans         	 I             	 419     	 23x516 	 P36454_242	 B:6 	 P36454P2   	  41.74	   93.22	 modern	 high
+2023.539 	 2023-06-14	 Genarp        	 539    	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x539 	 P36454_246	 F:6 	 P36454P2   	  34.85	   93.76	 modern	 high
+2023.544 	 2023-06-14	 Genarp        	 544    	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x544 	 P36454_247	 G:6 	 P36454P2   	  39.3 	   94.02	 modern	 high
+2023.507 	 2023-06-14	 Genarp        	 507    	 506    	 1     	 mature	                   	 NA            	 NA      	 23x507 	 P36454_241	 A:6 	 P36454P2   	  37.53	   94.18	 modern	 high
+2023.517 	 2023-06-14	 Genarp        	 517    	 516    	 1     	 mature	                   	 NA            	 NA      	 23x517 	 P36454_243	 C:6 	 P36454P2   	  41.18	   94.38	 modern	 high
+NA       	 2023-06-17	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x581	 P36454_391	 C:12	 P36454P3   	  34.31	   94.43	 modern	 high
+NA       	 2023-06-17	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x584	 P36454_186	 F:11	 P36454P1   	  29.5 	   94.13	 modern	 high
+NA       	 2023-06-19	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x595	 P36454_271	 G:9 	 P36454P2   	  53.39	   95.02	 modern	 high
+NA       	 2023-06-19	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L23x601	 P36454_279	 G:10	 P36454P2   	  28.41	   94.09	 modern	 high
+NA       	 2023-06-20	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x617	 P36454_184	 D:11	 P36454P1   	  40.26	   93.35	 modern	 high
+NA       	 2023-06-20	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x630	 P36454_392	 D:12	 P36454P3   	  20.25	   94.84	 modern	 high
+NA       	 2023-06-20	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L23x631	 P36454_185	 E:11	 P36454P1   	  57.07	   94.13	 modern	 high
+2023.818 	 2023-06-26	 Hoje_A_14     	 818    	 819    	 0     	 mature	 androchrome       	 A             	 171     	 23x818 	 P36454_324	 H:3 	 P36454P3   	  36.93	   94.83	 modern	 high
+2023.875 	 2023-06-26	 Hoje_A_14     	 875    	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x875 	 P36454_326	 B:4 	 P36454P3   	  39.07	   93.87	 modern	 high
+2023.819 	 2023-06-26	 Hoje_A_14     	 819    	 818    	 1     	 mature	                   	 NA            	 NA      	 23x819 	 P36454_325	 A:4 	 P36454P3   	  33.37	   94.02	 modern	 high
+2023.773 	 2023-06-26	 Lomma         	 773    	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 23x773 	 P36454_248	 H:6 	 P36454P2   	  47.49	   94.12	 modern	 high
+2023.799 	 2023-06-26	 Lomma         	 799    	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 23x799 	 P36454_320	 D:3 	 P36454P3   	  46.9 	   94.7 	 modern	 high
+2023.802 	 2023-06-26	 Lomma         	 802    	 NA     	 0     	 mature	                   	 I             	 NA      	 23x802 	 P36454_321	 E:3 	 P36454P3   	  32.01	   94.09	 modern	 high
+2023.778 	 2023-06-26	 Lomma         	 778    	 779    	 0     	 mature	 infuscans         	 I             	 165     	 23x778 	 P36454_317	 A:3 	 P36454P3   	  42.62	   94.83	 modern	 high
+2023.806 	 2023-06-26	 Lomma         	 806    	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x806 	 P36454_322	 F:3 	 P36454P3   	  36.5 	   94.45	 modern	 high
+2023.809 	 2023-06-26	 Lomma         	 809    	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x809 	 P36454_323	 G:3 	 P36454P3   	  44.95	   94.43	 modern	 high
+2023.779 	 2023-06-26	 Lomma         	 779    	 778    	 1     	 mature	                   	 NA            	 NA      	 23x779 	 P36454_318	 B:3 	 P36454P3   	  40.55	   94.61	 modern	 high
+2023.798 	 2023-06-26	 Lomma         	 798    	 797    	 1     	 mature	                   	 NA            	 NA      	 23x798 	 P36454_319	 C:3 	 P36454P3   	  41.65	   94.63	 modern	 high
+2023.978 	 2023-07-09	 Genarp        	 978    	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x978 	 P36454_327	 C:4 	 P36454P3   	  39.42	   94.55	 modern	 high
+2023.1080	 2023-07-15	 Hoje_A_14     	 1080   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 23x1080	 P36454_332	 H:4 	 P36454P3   	  35.84	   94.58	 modern	 high
+2023.1064	 2023-07-15	 Hoje_A_14     	 1064   	 1065   	 0     	 mature	 androchrome       	 A             	 290     	 23x1064	 P36454_328	 D:4 	 P36454P3   	  44.5 	   94.48	 modern	 high
+2023.1073	 2023-07-15	 Hoje_A_14     	 1073   	 1072   	 0     	 mature	 infuscans         	 I             	 0       	 23x1073	 P36454_331	 G:4 	 P36454P3   	  43.52	   94.56	 modern	 high
+2023.1065	 2023-07-15	 Hoje_A_14     	 1065   	 1064   	 1     	 mature	                   	 NA            	 NA      	 23x1065	 P36454_329	 E:4 	 P36454P3   	  39.13	   94.61	 modern	 high
+2023.1072	 2023-07-15	 Hoje_A_14     	 1072   	 1073   	 1     	 mature	                   	 NA            	 NA      	 23x1072	 P36454_330	 F:4 	 P36454P3   	  28.4 	   93.01	 modern	 high
+2023.1102	 2023-07-18	 Genarp        	 1102   	 1103   	 0     	 mature	 infuscans         	 I             	 333     	 23x1102	 P36454_355	 G:7 	 P36454P3   	  38.1 	   94.39	 modern	 high
+2023.1103	 2023-07-18	 Genarp        	 1103   	 1102   	 1     	 mature	                   	 NA            	 NA      	 23x1103	 P36454_356	 H:7 	 P36454P3   	  35.25	   94.29	 modern	 high
+2023.1190	 2023-07-24	 Hoje_A_14     	 1190   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 23x1190	 P36454_360	 D:8 	 P36454P3   	  42.43	   94.41	 modern	 high
+2023.1188	 2023-07-24	 Hoje_A_14     	 1188   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 23x1188	 P36454_359	 C:8 	 P36454P3   	  47.59	   94.16	 modern	 high
+2023.1193	 2023-07-24	 Hoje_A_14     	 1193   	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x1193	 P36454_390	 B:12	 P36454P3   	  38.84	   93.91	 modern	 high
+2023.1196	 2023-07-24	 Hoje_A_14     	 1196   	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x1196	 P36454_361	 E:8 	 P36454P3   	  40.56	   93.93	 modern	 high
+2023.1181	 2023-07-24	 Lomma         	 1181   	 1180   	 0     	 mature	 infuscans         	 I             	 6       	 23x1181	 P36454_358	 B:8 	 P36454P3   	  44.75	   94.17	 modern	 high
+2023.1180	 2023-07-24	 Lomma         	 1180   	 1181   	 1     	 mature	                   	 NA            	 NA      	 23x1180	 P36454_357	 A:8 	 P36454P3   	  41.58	   95.06	 modern	 high
+2023.1258	 2023-07-27	 Genarp        	 1258   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 23x1258	 P36454_362	 F:8 	 P36454P3   	  55.24	   94.52	 modern	 high
+2023.1261	 2023-07-27	 Genarp        	 1261   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 23x1261	 P36454_364	 H:8 	 P36454P3   	  36.39	   93.76	 modern	 high
+2023.1259	 2023-07-27	 Genarp        	 1259   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 23x1259	 P36454_363	 G:8 	 P36454P3   	  31.71	   94.25	 modern	 high
+2023.1264	 2023-07-27	 Genarp        	 1264   	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x1264	 P36454_365	 A:9 	 P36454P3   	  46.72	   94.59	 modern	 high
+2023.1275	 2023-07-29	 Hoje_A_14     	 1275   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 23x1275	 P36454_367	 C:9 	 P36454P3   	  40.01	   94.99	 modern	 high
+2023.1270	 2023-07-29	 Hoje_A_14     	 1270   	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x1270	 P36454_389	 A:12	 P36454P3   	  35.96	   94.79	 modern	 high
+2023.1271	 2023-07-29	 Hoje_A_14     	 1271   	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x1271	 P36454_366	 B:9 	 P36454P3   	  36.61	   93.76	 modern	 high
+2023.1318	 2023-08-05	 Lomma         	 1318   	 NA     	 1     	 mature	                   	 NA            	 NA      	 23x1318	 P36454_368	 D:9 	 P36454P3   	  42.51	   95.07	 modern	 high
+NA       	 2024-05-20	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x18 	 P36454_209	 A:2 	 P36454P2   	  23.67	   91.92	 modern	 high
+NA       	 2024-05-20	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x6  	 P36454_201	 A:1 	 P36454P2   	  52.74	   95.65	 modern	 high
+NA       	 2024-05-20	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x10 	 P36454_206	 F:1 	 P36454P2   	  37.95	   95.07	 modern	 high
+NA       	 2024-05-21	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x49 	 P36454_117	 A:3 	 P36454P1   	  41.73	   95.85	 modern	 high
+NA       	 2024-05-21	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x45 	 P36454_124	 H:3 	 P36454P1   	  38.69	   94.75	 modern	 high
+2024.103 	 2024-05-27	 Lomma         	 103    	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 24x103 	 P36454_169	 E:9 	 P36454P1   	  37.36	   93.62	 modern	 high
+2024.100 	 2024-05-27	 Lomma         	 100    	 101    	 0     	 mature	 infuscans         	 I             	 183     	 24x100 	 P36454_167	 C:9 	 P36454P1   	  42.08	   94.57	 modern	 high
+2024.99  	 2024-05-27	 Lomma         	 99     	 98     	 0     	 mature	 infuscans-obsoleta	 O             	 421     	 24x99  	 P36454_166	 B:9 	 P36454P1   	  46.2 	   93.89	 modern	 high
+2024.104 	 2024-05-27	 Lomma         	 104    	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x104 	 P36454_170	 F:9 	 P36454P1   	  35.99	   90.63	 modern	 high
+2024.101 	 2024-05-27	 Lomma         	 101    	 100    	 1     	 mature	                   	 NA            	 NA      	 24x101 	 P36454_168	 D:9 	 P36454P1   	  44.08	   94.12	 modern	 high
+2024.98  	 2024-05-27	 Lomma         	 98     	 99     	 1     	 mature	                   	 NA            	 NA      	 24x98  	 P36454_165	 A:9 	 P36454P1   	  47.66	   94.74	 modern	 high
+NA       	 2024-05-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x51 	 P36454_214	 F:2 	 P36454P2   	  42.78	   93.67	 modern	 high
+NA       	 2024-05-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x71 	 P36454_215	 G:2 	 P36454P2   	  33.01	   94.38	 modern	 high
+NA       	 2024-05-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x91 	 P36454_216	 H:2 	 P36454P2   	  49.43	   95.45	 modern	 high
+NA       	 2024-05-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x55 	 P36454_285	 E:11	 P36454P2   	  40.28	   94.44	 modern	 high
+NA       	 2024-05-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x69 	 P36454_286	 F:11	 P36454P2   	  34.63	   93.53	 modern	 high
+NA       	 2024-05-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x87 	 P36454_293	 E:12	 P36454P2   	  29.78	   91.09	 modern	 high
+NA       	 2024-05-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x93 	 P36454_288	 H:11	 P36454P2   	  40.17	   95.19	 modern	 high
+2024.153 	 2024-05-29	 Hoje_A_14     	 153    	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 24x153 	 P36454_174	 B:10	 P36454P1   	  43.33	   93.94	 modern	 high
+2024.151 	 2024-05-29	 Hoje_A_14     	 151    	 150    	 0     	 mature	 androchrome       	 A             	 38      	 24x151 	 P36454_172	 H:9 	 P36454P1   	  48.87	   94.42	 modern	 high
+2024.152 	 2024-05-29	 Hoje_A_14     	 152    	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x152 	 P36454_173	 A:10	 P36454P1   	  45.67	   94.08	 modern	 high
+2024.150 	 2024-05-29	 Hoje_A_14     	 150    	 151    	 1     	 mature	                   	 NA            	 NA      	 24x150 	 P36454_171	 G:9 	 P36454P1   	  47.88	   94.43	 modern	 high
+NA       	 2024-05-29	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x111	 P36454_210	 B:2 	 P36454P2   	  37.2 	   94.89	 modern	 high
+NA       	 2024-05-29	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x137	 P36454_202	 B:1 	 P36454P2   	  30.4 	   94.71	 modern	 high
+NA       	 2024-05-29	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x106	 P36454_207	 G:1 	 P36454P2   	  23.26	   94.55	 modern	 high
+NA       	 2024-05-29	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x113	 P36454_213	 E:2 	 P36454P2   	  42.33	   94.59	 modern	 high
+NA       	 2024-05-29	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x132	 P36454_208	 H:1 	 P36454P2   	  57.29	   96.09	 modern	 high
+NA       	 2024-05-31	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x179	 P36454_118	 B:3 	 P36454P1   	  82.46	   95.54	 modern	 high
+NA       	 2024-05-31	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x177	 P36454_125	 A:4 	 P36454P1   	  42.82	   95.1 	 modern	 high
+2024.454 	 2024-06-04	 Lomma         	 454    	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 24x454 	 P36454_177	 E:10	 P36454P1   	  55.01	   94.65	 modern	 high
+2024.447 	 2024-06-04	 Lomma         	 447    	 448    	 0     	 mature	 androchrome       	 A             	 0       	 24x447 	 P36454_175	 C:10	 P36454P1   	  31.61	   94.2 	 modern	 high
+2024.458 	 2024-06-04	 Lomma         	 458    	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x458 	 P36454_178	 F:10	 P36454P1   	  20.49	   91.61	 modern	 high
+2024.448 	 2024-06-04	 Lomma         	 448    	 447    	 1     	 mature	                   	 NA            	 NA      	 24x448 	 P36454_176	 D:10	 P36454P1   	  33.54	   94.31	 modern	 high
+NA       	 2024-06-04	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x207	 P36454_281	 A:11	 P36454P2   	  34.41	   94.92	 modern	 high
+NA       	 2024-06-04	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x211	 P36454_287	 G:11	 P36454P2   	  32.83	   94.23	 modern	 high
+NA       	 2024-06-07	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x244	 P36454_203	 C:1 	 P36454P2   	  38.26	   94.36	 modern	 high
+NA       	 2024-06-07	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x256	 P36454_204	 D:1 	 P36454P2   	  45.86	   94.97	 modern	 high
+2024.620 	 2024-06-10	 Genarp        	 620    	 628    	 0     	 mature	 androchrome       	 A             	 387     	 24x620 	 P36454_249	 A:7 	 P36454P2   	  35.2 	   93.78	 modern	 high
+2024.606 	 2024-06-10	 Genarp        	 606    	 604    	 0     	 mature	 infuscans         	 I             	 244     	 24x606 	 P36454_180	 H:10	 P36454P1   	  45.86	   93.94	 modern	 high
+2024.640 	 2024-06-10	 Genarp        	 640    	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x640 	 P36454_251	 C:7 	 P36454P2   	  44.44	   94.04	 modern	 high
+2024.655 	 2024-06-10	 Genarp        	 655    	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x655 	 P36454_252	 D:7 	 P36454P2   	  41.67	   94.7 	 modern	 high
+2024.659 	 2024-06-10	 Genarp        	 659    	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x659 	 P36454_253	 E:7 	 P36454P2   	  31.01	   94.32	 modern	 high
+2024.604 	 2024-06-10	 Genarp        	 604    	 606    	 1     	 mature	                   	 NA            	 NA      	 24x604 	 P36454_179	 G:10	 P36454P1   	  34.13	   93.33	 modern	 high
+2024.628 	 2024-06-10	 Genarp        	 628    	 620    	 1     	 mature	                   	 NA            	 NA      	 24x628 	 P36454_250	 B:7 	 P36454P2   	  35.55	   94.22	 modern	 high
+NA       	 2024-06-10	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x259	 P36454_115	 G:2 	 P36454P1   	  42.04	   94.82	 modern	 high
+NA       	 2024-06-10	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x264	 P36454_119	 C:3 	 P36454P1   	  41.19	   95.33	 modern	 high
+NA       	 2024-06-10	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x275	 P36454_126	 B:4 	 P36454P1   	  42.18	   94.85	 modern	 high
+NA       	 2024-06-12	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x327	 P36454_120	 D:3 	 P36454P1   	  31.87	   94.88	 modern	 high
+NA       	 2024-06-12	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x341	 P36454_121	 E:3 	 P36454P1   	  48.17	   94.84	 modern	 high
+NA       	 2024-06-12	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x345	 P36454_132	 H:4 	 P36454P1   	  44.39	   95.05	 modern	 high
+NA       	 2024-06-12	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x350	 P36454_122	 F:3 	 P36454P1   	 127.16	   95.44	 modern	 high
+NA       	 2024-06-12	 Genarp        	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x357	 P36454_123	 G:3 	 P36454P1   	  33.04	   93.92	 modern	 high
+NA       	 2024-06-12	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x335	 P36454_127	 C:4 	 P36454P1   	  41.44	   93.28	 modern	 high
+NA       	 2024-06-12	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x352	 P36454_128	 D:4 	 P36454P1   	 104.77	   95.4 	 modern	 high
+NA       	 2024-06-12	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x277	 P36454_211	 C:2 	 P36454P2   	  36.91	   94.14	 modern	 high
+2024.970 	 2024-06-17	 Lomma         	 970    	 971    	 0     	 mature	 androchrome       	 A             	 324     	 24x970 	 P36454_254	 F:7 	 P36454P2   	  37.84	   94.43	 modern	 high
+2024.980 	 2024-06-17	 Lomma         	 980    	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x980 	 P36454_257	 A:8 	 P36454P2   	  38.32	   94.04	 modern	 high
+2024.971 	 2024-06-17	 Lomma         	 971    	 970    	 1     	 mature	                   	 NA            	 NA      	 24x971 	 P36454_255	 G:7 	 P36454P2   	  37.53	   93.68	 modern	 high
+2024.979 	 2024-06-17	 Lomma         	 979    	 978    	 1     	 mature	                   	 NA            	 NA      	 24x979 	 P36454_256	 H:7 	 P36454P2   	  40.95	   94.44	 modern	 high
+NA       	 2024-06-17	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x371	 P36454_289	 A:12	 P36454P2   	  49.7 	   94.87	 modern	 high
+NA       	 2024-06-17	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x385	 P36454_290	 B:12	 P36454P2   	  43.76	   95.03	 modern	 high
+2024.1029	 2024-06-18	 Genarp        	 1029   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 24x1029	 P36454_262	 F:8 	 P36454P2   	  28.78	   93.77	 modern	 high
+2024.1014	 2024-06-18	 Genarp        	 1014   	 1015   	 0     	 mature	 androchrome       	 A             	 230     	 24x1014	 P36454_258	 B:8 	 P36454P2   	  30.15	   93.28	 modern	 high
+2024.1031	 2024-06-18	 Genarp        	 1031   	 1032   	 0     	 mature	 androchrome       	 A             	 1       	 24x1031	 P36454_263	 G:8 	 P36454P2   	  36.61	   93.29	 modern	 high
+2024.1020	 2024-06-18	 Genarp        	 1020   	 1021   	 0     	 mature	 infuscans-obsoleta	 O             	 344     	 24x1020	 P36454_260	 D:8 	 P36454P2   	  29.49	   93.75	 modern	 high
+2024.1040	 2024-06-18	 Genarp        	 1040   	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x1040	 P36454_333	 A:5 	 P36454P3   	  45.46	   95.21	 modern	 high
+2024.1046	 2024-06-18	 Genarp        	 1046   	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x1046	 P36454_334	 B:5 	 P36454P3   	  38.45	   94.35	 modern	 high
+2024.1015	 2024-06-18	 Genarp        	 1015   	 1014   	 1     	 mature	                   	 NA            	 NA      	 24x1015	 P36454_259	 C:8 	 P36454P2   	  44.3 	   93.86	 modern	 high
+2024.1021	 2024-06-18	 Genarp        	 1021   	 1020   	 1     	 mature	                   	 NA            	 NA      	 24x1021	 P36454_261	 E:8 	 P36454P2   	  35.15	   93.85	 modern	 high
+2024.1032	 2024-06-18	 Genarp        	 1032   	 1031   	 1     	 mature	                   	 NA            	 NA      	 24x1032	 P36454_264	 H:8 	 P36454P2   	  39.41	   94.05	 modern	 high
+NA       	 2024-06-18	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x411	 P36454_129	 E:4 	 P36454P1   	  44.74	   95.02	 modern	 high
+NA       	 2024-06-18	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x420	 P36454_130	 F:4 	 P36454P1   	  43.34	   93.1 	 modern	 high
+2024.1119	 2024-06-20	 Hoje_A_14     	 1119   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 24x1119	 P36454_337	 E:5 	 P36454P3   	  45.43	   95.01	 modern	 high
+2024.1126	 2024-06-20	 Hoje_A_14     	 1126   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 24x1126	 P36454_338	 F:5 	 P36454P3   	  36.89	   95.17	 modern	 high
+2024.1075	 2024-06-20	 Hoje_A_14     	 1075   	 1074   	 0     	 mature	 androchrome       	 A             	 1       	 24x1075	 P36454_336	 D:5 	 P36454P3   	  50.22	   95.41	 modern	 high
+2024.1150	 2024-06-20	 Hoje_A_14     	 1150   	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x1150	 P36454_339	 G:5 	 P36454P3   	  37.68	   93.74	 modern	 high
+2024.1157	 2024-06-20	 Hoje_A_14     	 1157   	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x1157	 P36454_340	 H:5 	 P36454P3   	  43.05	   94.57	 modern	 high
+2024.1074	 2024-06-20	 Hoje_A_14     	 1074   	 1075   	 1     	 mature	                   	 NA            	 NA      	 24x1074	 P36454_335	 C:5 	 P36454P3   	  48.79	   95.09	 modern	 high
+NA       	 2024-06-20	 Hoje_A_14     	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x425	 P36454_205	 E:1 	 P36454P2   	  39.3 	   95.34	 modern	 high
+NA       	 2024-06-20	 Hoje_A_14     	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x433	 P36454_212	 D:2 	 P36454P2   	  45.03	   93.43	 modern	 high
+NA       	 2024-06-23	 Genarp        	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x480	 P36454_131	 G:4 	 P36454P1   	  25.81	   94.89	 modern	 high
+2024.1386	 2024-06-27	 Lomma         	 1386   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 24x1386	 P36454_345	 E:6 	 P36454P3   	  35.55	   94.34	 modern	 high
+2024.1388	 2024-06-27	 Lomma         	 1388   	 NA     	 0     	 mature	                   	 I             	 NA      	 24x1388	 P36454_346	 F:6 	 P36454P3   	  40.08	   94.79	 modern	 high
+2024.1385	 2024-06-27	 Lomma         	 1385   	 1384   	 0     	 mature	 androchrome       	 A             	 202     	 24x1385	 P36454_344	 D:6 	 P36454P3   	  35.66	   94.39	 modern	 high
+2024.1383	 2024-06-27	 Lomma         	 1383   	 1382   	 0     	 mature	 infuscans         	 I             	 254     	 24x1383	 P36454_342	 B:6 	 P36454P3   	  54.64	   94.09	 modern	 high
+2024.1382	 2024-06-27	 Lomma         	 1382   	 1383   	 1     	 mature	                   	 NA            	 NA      	 24x1382	 P36454_341	 A:6 	 P36454P3   	  31.66	   94.29	 modern	 high
+2024.1384	 2024-06-27	 Lomma         	 1384   	 1385   	 1     	 mature	                   	 NA            	 NA      	 24x1384	 P36454_343	 C:6 	 P36454P3   	  43.33	   95.06	 modern	 high
+NA       	 2024-06-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x574	 P36454_282	 B:11	 P36454P2   	  44.47	   95.01	 modern	 high
+NA       	 2024-06-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x588	 P36454_283	 C:11	 P36454P2   	  21.43	   94.14	 modern	 high
+NA       	 2024-06-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Female	 NA    	 NA                	 NA            	 NA      	 L24x603	 P36454_284	 D:11	 P36454P2   	  47.46	   94.21	 modern	 high
+NA       	 2024-06-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x595	 P36454_291	 C:12	 P36454P2   	 119.16	   94.49	 modern	 high
+NA       	 2024-06-27	 Lomma_Kyrkdamm	 NA     	 NA     	 Male  	 NA    	 NA                	 NA            	 NA      	 L24x615	 P36454_292	 D:12	 P36454P2   	  30.61	   94.28	 modern	 high
+2024.1407	 2024-06-28	 Genarp        	 1407   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 24x1407	 P36454_347	 G:6 	 P36454P3   	  43.1 	   94.79	 modern	 high
+2024.1446	 2024-07-01	 Hoje_A_14     	 1446   	 1445   	 0     	 mature	 androchrome       	 A             	 0       	 24x1446	 P36454_369	 E:9 	 P36454P3   	  61.69	   95.84	 modern	 high
+2024.1458	 2024-07-01	 Hoje_A_14     	 1458   	 1457   	 0     	 mature	 infuscans         	 I             	 0       	 24x1458	 P36454_371	 G:9 	 P36454P3   	  48.88	   94.37	 modern	 high
+2024.1475	 2024-07-01	 Hoje_A_14     	 1475   	 1476   	 0     	 mature	 infuscans         	 I             	 97      	 24x1475	 P36454_372	 H:9 	 P36454P3   	  44.41	   95.1 	 modern	 high
+2024.1493	 2024-07-01	 Hoje_A_14     	 1493   	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x1493	 P36454_374	 B:10	 P36454P3   	  55.88	   95.34	 modern	 high
+2024.1445	 2024-07-01	 Hoje_A_14     	 1445   	 1446   	 1     	 mature	                   	 NA            	 NA      	 24x1445	 P36454_348	 H:6 	 P36454P3   	  29.6 	   94.43	 modern	 high
+2024.1457	 2024-07-01	 Hoje_A_14     	 1457   	 1458   	 1     	 mature	                   	 NA            	 NA      	 24x1457	 P36454_370	 F:9 	 P36454P3   	  48.75	   95.09	 modern	 high
+2024.1476	 2024-07-01	 Hoje_A_14     	 1476   	 1475   	 1     	 mature	                   	 NA            	 NA      	 24x1476	 P36454_373	 A:10	 P36454P3   	  43.84	   95.22	 modern	 high
+2024.1726	 2024-07-08	 Genarp        	 1726   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 24x1726	 P36454_377	 E:10	 P36454P3   	  44.16	   94.73	 modern	 high
+2024.1719	 2024-07-08	 Genarp        	 1719   	 1720   	 0     	 mature	 infuscans         	 I             	 23      	 24x1719	 P36454_375	 C:10	 P36454P3   	  30.72	   93.73	 modern	 high
+2024.1720	 2024-07-08	 Genarp        	 1720   	 1719   	 1     	 mature	                   	 NA            	 NA      	 24x1720	 P36454_376	 D:10	 P36454P3   	  40.57	   94.68	 modern	 high
+2024.1734	 2024-07-09	 Lomma         	 1734   	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x1734	 P36454_378	 F:10	 P36454P3   	  35.8 	   94.8 	 modern	 high
+2024.1804	 2024-07-12	 Hoje_A_14     	 1804   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 24x1804	 P36454_381	 A:11	 P36454P3   	  42.44	   94.76	 modern	 high
+2024.1799	 2024-07-12	 Hoje_A_14     	 1799   	 1800   	 0     	 mature	 infuscans-obsoleta	 O             	 127     	 24x1799	 P36454_379	 G:10	 P36454P3   	  36.13	   94.62	 modern	 high
+2024.1821	 2024-07-12	 Hoje_A_14     	 1821   	 NA     	 1     	 mature	                   	 NA            	 NA      	 24x1821	 P36454_382	 B:11	 P36454P3   	  37.55	   94.45	 modern	 high
+2024.1800	 2024-07-12	 Hoje_A_14     	 1800   	 1799   	 1     	 mature	                   	 NA            	 NA      	 24x1800	 P36454_380	 H:10	 P36454P3   	  38.37	   93.39	 modern	 high
+2024.1894	 2024-07-18	 Genarp        	 1894   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 24x1894	 P36454_383	 C:11	 P36454P3   	  45.71	   94.44	 modern	 high
+2024.1899	 2024-07-18	 Lomma         	 1899   	 NA     	 0     	 mature	 androchrome       	 A             	 NA      	 24x1899	 P36454_384	 D:11	 P36454P3   	  41.25	   94.61	 modern	 high
+2024.2109	 2024-07-25	 Genarp        	 2109   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 24x2109	 P36454_385	 E:11	 P36454P3   	  41.85	   95.1 	 modern	 high
+2024.2163	 2024-07-29	 Hoje_A_14     	 2163   	 NA     	 0     	 mature	 infuscans         	 I             	 NA      	 24x2163	 P36454_386	 F:11	 P36454P3   	  41.21	   94.45	 modern	 high
