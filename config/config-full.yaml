@@ -4,15 +4,15 @@ samples: config/samples.tsv
 
 units: config/units.tsv
 
-dataset: "popglen-test-slurm"
+dataset: "init-test"
 
 #===================== Reference Configuration ========================#
 
-chunk_size: 4000000
+chunk_size: 170575982
 
 reference:
   name: "ioIscEleg" 
-  fasta: "/cfs/klemming/projects/supr/snic2020-6-170/RawData/RefGenome/DToL_REF/ioIscEleg1.2/GCA_921293095.2.fasta"
+  fasta: "ref-genome/GCA_921293095.2.clean.fasta"
   mito: ["mitochondrion"]
   sex-linked: ["X"]
   exclude: []
@@ -24,7 +24,7 @@ ancestral:
 
 exclude_ind: []
 
-excl_pca-admix: ["MZLU153216", "MZLU107497"]
+excl_pca-admix: []
 
 #====================== Analysis Selection ============================#
 

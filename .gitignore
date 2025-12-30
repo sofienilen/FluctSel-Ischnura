@@ -13,3 +13,4 @@ benchmarks/
 logs/
 initial_qc/
 slurm-logs/
+ref-genome/

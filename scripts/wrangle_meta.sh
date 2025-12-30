@@ -17,10 +17,12 @@ echo -e "sample\tunit\tlib\tplatform\tfq1\tfq2" > doc/units.tsv
 
 for file in $(echo $FSTQ | tr " " "\n" | grep "_R1_"); do
     
-    LIB=$(echo $file | cut -f 7 -d "/")
+    UNIT=$(echo $file | cut -f 7 -d "/")
+    LANE=$(echo $file | cut -f 9 -d "_" | sed s/L00//g)
+    UNIT_FIN=${UNIT}.$LANE
     R2=$(echo $file | tr " " "\n" | sed s/_R1_/_R2_/g)
-    UNIT=$(cat doc/MetaData_bioinfo.tsv | grep $LIB | cut -f14)
-    SAMP=$(cat tmp.2.tsv | grep $LIB | cut -f 1)
+    LIB=$(cat doc/MetaData_bioinfo.tsv | grep $UNIT | cut -f14)
+    SAMP=$(cat tmp.2.tsv | grep $UNIT | cut -f 1)
 
-    echo -e "$SAMP\t$UNIT\t$LIB\tILLUMINA\t$file\t$R2" | grep -f tmp.2.samp >> doc/units.tsv
+    echo -e "$SAMP\t$UNIT_FIN\t$LIB\tILLUMINA\t$file\t$R2" | grep -f tmp.2.samp >> doc/units.tsv
 done
