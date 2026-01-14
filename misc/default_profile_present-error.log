@@ -1,0 +1,55 @@
+Even though i updated the profile so that nothing would be 7d runtime, it still keept being overwritten.
+After multiple tries, i noticed this.
+
+```
+(popglen) FluctSel-Ischnura @login1 (init_test_run): snakemake --profile profiles/dardel-andbou --configfile config/config-test.yaml
+Using profiles profiles/dardel-andbou and workflow specific profile profiles/default for setting default command line arguments.
+localrules directive specifies rules that are not present in the Snakefile:
+        link_anc_ref
+host: login1
+Building DAG of jobs...
+```
+
+Changing the name of the default profile to original-default solved it.
+
+
+This is how i found the running times and which rule was setting what.
+```bash
+(base) FluctSel-Ischnura @login1 (init_test_run): squeue -u andbou -l
+Wed Jan 14 19:06:38 2026
+             JOBID PARTITION     NAME     USER    STATE       TIME TIME_LIMI  NODES NODELIST(REASON)
+          15929182    shared 4263ee59   andbou  PENDING       0:00 7-01:00:00      1 (PartitionTimeLimit)
+          15929184    shared 4263ee59   andbou  RUNNING      52:22  12:00:00      1 nid001035
+          
+(base) FluctSel-Ischnura @login1 (init_test_run): grep "15929182" .snakemake/*/*.log
+.snakemake/log/2026-01-14T181306.559550.snakemake.log:Job 4e1968ca-b077-5524-8d61-80be8d0c1fb9 has been submitted with SLURM jobid 15929182 (log: /cfs/klemming/projects/supr/snic2020-6-170/Sofie_N/FluctSel-Ischnura/.snakemake/slurm_logs/group_repeatmod_repeat_builddatabase_repeatmodeler/15929182.log).
+
+[Wed Jan 14 18:14:04 2026]
+
+    rule repeatmodeler:
+
+        input: results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nhr, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nin, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nnd, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nni, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nog, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nsq, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.translation
+
+        output: results/ref/ioIscEleg/repeatmodeler/ioIscEleg-families.fa, results/ref/ioIscEleg/repeatmodeler/ioIscEleg-families.stk, results/ref/ioIscEleg/repeatmodeler/ioIscEleg-rmod.log
+
+        log: logs/ref/repeatmodeler/repeatmodeler/ioIscEleg.log
+
+        jobid: 948
+
+        benchmark: benchmarks/ref/repeatmodeler/repeatmodeler/ioIscEleg.log
+
+        reason: Missing output files: results/ref/ioIscEleg/repeatmodeler/ioIscEleg-families.fa; Input files updated by another job: results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nin, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nog, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nsq, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.translation, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nnd, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nni, results/ref/ioIscEleg/repeatmodeler/ioIscEleg.nhr
+
+        wildcards: ref=ioIscEleg
+
+        threads: 10
+
+        resources: mem_mb=17000, mem_mib=16213, disk_mb=<TBD>, tmpdir=<TBD>, runtime=10080, slurm_account=naiss2025-22-1413, slurm_partition=shared, nodes=1, threads=4
+
+Shell command:
+
+        RepeatModeler -database results/ref/ioIscEleg/repeatmodeler/ioIscEleg -threads 10 &> logs/ref/repeatmodeler/repeatmodeler/ioIscEleg.log
+
+Job 4e1968ca-b077-5524-8d61-80be8d0c1fb9 has been submitted with SLURM jobid 15929182 (log: /cfs/klemming/projects/supr/snic2020-6-170/Sofie_N/FluctSel-Ischnura/.snakemake/slurm_logs/group_repeatmod_repeat_builddatabase_repeatmodeler/15929182.log).
+
+```
