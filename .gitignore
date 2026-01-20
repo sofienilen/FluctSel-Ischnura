@@ -15,3 +15,5 @@ initial_qc/
 slurm-logs/
 ref-genome/
 core
+.cache/
+.java/

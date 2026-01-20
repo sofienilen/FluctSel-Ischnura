@@ -1,10 +1,12 @@
-# Configuration for snakemake
+#################################
+## Configuration for snakemake ##
+#################################
 restart-times: 3
 local-cores: 2
 printshellcmds: true
 use-conda: true
 use-singularity: true
-jobs: 999
+jobs: 120
 keep-going: true
 max-threads: 128
 executor: slurm
@@ -26,7 +28,7 @@ default-resources:
   tmpdir: /cfs/klemming/scratch/a/andbou
   
 
-# Threads for each rule 
+###### Threads for each rule 
 set-threads:
   # Reference Prep
   link_ref: 1
@@ -50,8 +52,8 @@ set-threads:
 
   ## Repeat filtering
   repeat_builddatabase: 1
-  repeatmodeler: 10
-  repeatmasker: 5
+  repeatmodeler: 28
+  repeatmasker: 8
   repeat_sum: 1
 
   ## Depth filtering
@@ -96,9 +98,9 @@ set-threads:
 
   # Sample QC
   samtools_flagstat: 1
-  qualimap: 1
-  qualimap_userprovided: 1
-  qualimap_multiqc: 1
+  qualimap: 4
+  qualimap_userprovided: 4
+  qualimap_multiqc: 2
   endo_cont: 1
   compile_endo_cont: 1
   ind_unfiltered_depth: "attempt"
@@ -200,7 +202,9 @@ set-threads:
   # Identity by state matrix
   angsd_doIBS: 8
 
-# Runtime and memory for each rule
+
+
+######### Runtime and memory for each rule
 set-resources:
   # Reference Prep
   link_ref:
@@ -209,14 +213,14 @@ set-resources:
     runtime: "5m"
   bwa_index:
     runtime: "2h"
-    mem_mb: 100000
+    mem_mb: 50000
   samtools_faidx:
     runtime: "1h"
   ref_chunking:
     runtime: "5m"
   picard_dict:
     runtime: "2h"
-    mem_mb: 100000
+    mem_mb: 10000
 
   # Site filtering
   genome_bed:
@@ -234,7 +238,7 @@ set-resources:
   windowgen:
     runtime: "12h"
   pileup_mappability:
-    runtime: "8h"
+    runtime: 3000
   genmap_filt_bed:
     runtime: "1h"
 
@@ -242,9 +246,11 @@ set-resources:
   repeat_builddatabase:
     runtime: "1h"
   repeatmodeler:
-    runtime: "8640m"
+    runtime: "6d12h"
+    mem_mb: 120000
   repeatmasker:
-    runtime: "12h"
+    runtime: "1d8h"
+    mem_mb: 30000
   repeat_sum:
     runtime: "1h"
 
@@ -257,11 +263,13 @@ set-resources:
     runtime: "15m"
   depth_bed:
     runtime: "1h"
+
   ## Site-based missing data filtering
   angsd_missdata:
     runtime: "attempt * 360"
   missdata_bed:
     runtime: "1h"
+
   ## Generate combined filter files
   combine_beds:
     runtime: "4h"
@@ -269,6 +277,7 @@ set-resources:
     runtime: "4h"
   filter_summary_table:
     runtime: "10m"
+
   # Raw sequencing data processing
   ncbi_download:
     runtime: "6h"
@@ -278,6 +287,7 @@ set-resources:
     runtime: "3h"
   fastp_multiqc:
     runtime: "1h"
+
   # Mapping
   bwa_aln_merged:
     runtime: "6d"
@@ -293,6 +303,7 @@ set-resources:
     runtime: "attempt * 720"
   mark_duplicates:
     runtime: "attempt * 1440"
+    mem_mb: "attempt * 15000"
   samtools_merge_dedup:
     runtime: "attempt * 1440"
   realignertargetcreator:
@@ -311,13 +322,16 @@ set-resources:
     runtime: "5m"
   samtools_subsample:
     runtime: "attempt * 720"
+
   # Sample QC
   samtools_flagstat:
     runtime: "1h"
   qualimap:
     runtime: "6h"
+    mem_mb: 25000
   qualimap_userprovided:
     runtime: "6h"
+    mem_mb: 25000
   qualimap_multiqc:
     runtime: "1h"
   endo_cont:
@@ -356,6 +370,7 @@ set-resources:
     runtime: "1d"
   dna_damage_multiqc:
     runtime: "1h"
+
   # ANGSD input file preparation
   angsd_makeBamlist:
     runtime: "15m"
@@ -363,6 +378,7 @@ set-resources:
     runtime: "15m"
   angsd_sites_index:
     runtime: "1h"
+
   # ANGSD -doSaf
   angsd_doSaf_pop:
     runtime: "attempt * 180"
@@ -370,6 +386,7 @@ set-resources:
     runtime: "attempt * 60"
   angsd_doSaf_sample:
     runtime: "120m"
+
   # ANGSD -doGlf2/-doMaf (Beagle/MAFs)
   angsd_doGlf2:
     runtime: "attempt * 720"
@@ -383,6 +400,7 @@ set-resources:
     runtime: "1h"
   angsd_doMaf:
     runtime: "attempt * 720"
+
   # Linkage disequilibrium (LD) calculation, decay, and pruning
   ngsLD_estLD:
     runtime: "attempt * 720"
@@ -398,6 +416,7 @@ set-resources:
     runtime: "1h"
   fit_LD_decay:
     runtime: "8h"
+
   # Kinship/relatedness
   est_kinship_stats_sfs:
     runtime: "1h"
@@ -419,6 +438,7 @@ set-resources:
     runtime: "15m"
   ngsrelate_summary:
     runtime: "15m"
+
   # PCA/Admixture
   remove_excl_pca_admix:
     runtime: "1h"
@@ -434,6 +454,7 @@ set-resources:
     runtime: "1h"
   plot_evalAdmix:
     runtime: "15m"
+
   # Site frequency spectra (SFS)
   realSFS_1dSFS:
     runtime: "attempt * 720"
@@ -443,6 +464,7 @@ set-resources:
     runtime: "attempt * 720"
   realSFS_2dSFS_bootstrap:
     runtime: "6d"
+
   # Thetas (nucleotide diversity, Watterson's theta, Tajima's D)
   realSFS_saf2theta:
     runtime: "4h"
@@ -452,6 +474,7 @@ set-resources:
     runtime: "1h"
   theta_tables:
     runtime: "15m"
+
   # FST
   realSFS_fst_index:
     runtime: "2h"
@@ -465,11 +488,13 @@ set-resources:
     runtime: "1h"
   plot_fst:
     runtime: "1h"
+
   # Heterozygosity
   heterozygosity:
     runtime: "1h"
   heterozygosity_table:
     runtime: "15m"
+
   # Inbreeding/Runs of homozygosity
   ngsf_hmm:
     runtime: "1d"
@@ -479,6 +504,7 @@ set-resources:
     runtime: "1h"
   froh_table:
     runtime: "15m"
+
   # Identity by state matrix
   angsd_doIBS:
     runtime: "1d"

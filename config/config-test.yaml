@@ -47,7 +47,7 @@ analyses:
   # quality control
   qualimap: true
   ibs_ref_bias: true
-  damageprofiler: true
+  damageprofiler: true      ## <- should be set to false for modern, causes errors
   mapdamage_rescale:
   # population genomic analyses
   estimate_ld: false  ## <- for now
