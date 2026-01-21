@@ -87,8 +87,8 @@ set-threads:
   mark_duplicates: "attempt * 4"
   dedup_merged: "attempt * 2"
   samtools_merge_dedup: "attempt * 4"
-  realignertargetcreator: "attempt * 2"
-  indelrealigner: "attempt * 4"
+  realignertargetcreator: "attempt * 8"
+  indelrealigner: "attempt * 16"
   bam_clipoverlap: "attempt * 2"
   symlink_userbams: 1
   bam_clipoverlap_userbams: "attempt * 2"
@@ -258,11 +258,12 @@ set-resources:
   angsd_depth:
     runtime: "attempt * 720"
   combine_depths:
-    runtime: "10m"
+    runtime: "6h"
   summarize_depths:
-    runtime: "15m"
+    runtime: "6h"
   depth_bed:
-    runtime: "1h"
+    runtime: "6h"
+    mem_mb: 12000
 
   ## Site-based missing data filtering
   angsd_missdata:
@@ -272,7 +273,8 @@ set-resources:
 
   ## Generate combined filter files
   combine_beds:
-    runtime: "4h"
+    runtime: "6h"
+    mem_mb: 12000
   user_sites:
     runtime: "4h"
   filter_summary_table:

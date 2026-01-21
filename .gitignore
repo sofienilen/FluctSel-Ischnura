@@ -17,3 +17,7 @@ ref-genome/
 core
 .cache/
 .java/
+Rplots.pdf
+HANDOVER_README.md
+workflow-snakedeploy_style/
+01-reports/

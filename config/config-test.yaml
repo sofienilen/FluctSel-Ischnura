@@ -42,8 +42,8 @@ analyses:
     local_lib:
     build_lib: true
   extreme_depth: true
-  dataset_missing_data:
-  population_missing_data:
+  dataset_missing_data:         # <- keep false and filter missingness within ANGSD
+  population_missing_data:      # <- keep false and filter missingness within ANGSD
   # quality control
   qualimap: true
   ibs_ref_bias: true
@@ -57,7 +57,7 @@ analyses:
   relatedness:
     ibsrelate_ibs: false
     ibsrelate_sfs: false
-    ngsrelate_ibsrelate-only: false  ## <- for now (better /quicker than pca (kinship looks like what we expect)) (OBS! kinship ~ 0.3)
+    ngsrelate_ibsrelate-only: true  ## <- for now (better /quicker than pca (kinship looks like what we expect)) (OBS! kinship ~ 0.3)
     ngsrelate_freqbased: false
   1dsfs:
   1dsfs_boot:

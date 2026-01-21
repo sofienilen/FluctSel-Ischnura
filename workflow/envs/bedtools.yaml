@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - bedtools =2.30
+  - gawk
+  - coreutils
+  - gzip
+  - grep
