@@ -1,0 +1,20 @@
+restart-times: 3
+local-cores: 2
+printshellcmds: true
+use-conda: true
+use-singularity: true
+jobs: 999
+keep-going: true
+max-threads: 128
+executor: slurm
+# shadow-prefix: /cfs/klemming/scratch/a/andbou # Location of shadow directory where some rules are executed.
+conda-prefix: /cfs/klemming/projects/supr/snic2020-6-170/snakemake/conda-share
+singularity-prefix: /cfs/klemming/projects/supr/snic2020-6-170/snakemake/singularity-share
+singularity-args: '-B /cfs/klemming'
+default-resources:
+  - "mem_mb=(threads*1700)"
+  - "runtime=60"
+  - "slurm_account=naiss2025-22-1413"
+  - "slurm_partition=shared"
+  - "nodes=1"
+  - "tmpdir='/cfs/klemming/scratch/s/sofie'"

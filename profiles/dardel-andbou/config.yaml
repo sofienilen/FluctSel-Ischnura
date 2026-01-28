@@ -1,66 +1,65 @@
 #################################
 ## Configuration for snakemake ##
 #################################
-restart-times: 3
-local-cores: 2
-printshellcmds: true
-use-conda: true
-use-singularity: true
-jobs: 120
-keep-going: true
-max-threads: 128
-executor: slurm
-shadow-prefix: /cfs/klemming/scratch/a/andbou
+restart-times: 3                               # Retry failed jobs up to 3 times (legacy syntax for 'retries')
+local-cores: 2                                 # Max CPU cores for LOCAL rules (not submitted to SLURM)
+printshellcmds: true                           # Print the actual shell commands being executed
+use-conda: true                                # Enable conda environment management
+use-singularity: true                          # Enable singularity container support
+jobs: 120                                      # Max 120 concurrent SLURM jobs at once
+keep-going: true                               # Continue running other jobs if one fails
+max-threads: 128                               # Maximum threads any single job can request
+executor: slurm                                # Use SLURM for job submission
+shadow-prefix: /cfs/klemming/scratch/a/andbou  # Directory for shadow rules (isolated temp directories)
 
 # Conda and singularity configuration
-conda-prefix: /cfs/klemming/projects/supr/snic2020-6-170/snakemake/conda-share
-singularity-prefix: /cfs/klemming/projects/supr/snic2020-6-170/snakemake/singularity-share
-singularity-args: '-B /cfs/klemming'
+conda-prefix: /cfs/klemming/projects/supr/snic2020-6-170/snakemake/conda-share     # Shared conda env location
+singularity-prefix: /cfs/klemming/projects/supr/snic2020-6-170/snakemake/singularity-share  # Shared container location
+singularity-args: '-B /cfs/klemming'           # Bind-mount this path inside containers
 
 # slurm resources applied to all jobs
 default-resources:
-  mem_mb: "threads*1700"
-  runtime: 60                              # In minutes
-  slurm_account: naiss2025-22-1413
-  slurm_partition: shared
-  nodes: 1
-  threads: 4
-  tmpdir: /cfs/klemming/scratch/a/andbou
-  
+  mem_mb: "threads*1700"                       # Dynamic: memory scales with threads (e.g., 4 threads = 6800 MB)
+  runtime: 60                                  # Default 60 minutes walltime
+  slurm_account: naiss2025-22-1413             # SLURM billing account
+  slurm_partition: shared                      # Submit to 'shared' partition
+  nodes: 1                                     # Request 1 node per job
+  threads: 4                                   # Default 4 threads per job
+  tmpdir: /cfs/klemming/scratch/a/andbou       # Temp directory for jobs
 
 ###### Threads for each rule 
 set-threads:
   # Reference Prep
-  link_ref: 1
+  link_ref:   1
   link_anc_ref: 1
-  bwa_index: 8
-  samtools_faidx: 3
+  bwa_index: 1                          # <- single threaded
+  samtools_faidx: 1                     # <- single threaded
   ref_chunking: 1
-  picard_dict: 8
+  picard_dict: 1                        # <- single threaded
 
   # Site filtering
-  genome_bed: 1
-  smallscaff_bed: 1
-  sexlink_bed: 1
+  genome_bed: 1                         # <- single threaded
+  smallscaff_bed: 1                     # <- single threaded
+  sexlink_bed: 1                        # <- single threaded
 
   ## Mappability filtering
-  genmap_index: "attempt"
+  genmap_index: "attempt"               
   genmap_map: 8
   windowgen: 1
   pileup_mappability: 1
   genmap_filt_bed: 1
 
   ## Repeat filtering
-  repeat_builddatabase: 1
-  repeatmodeler: 28
-  repeatmasker: 8
-  repeat_sum: 1
+  repeat_builddatabase: 1								# <- single threaded
+  repeatmodeler: 28							
+  repeatmasker: 1
+  repeat_sum: 1													# <- single threaded
 
   ## Depth filtering
-  angsd_depth: "attempt * 2"
-  combine_depths: 1
+  angsd_depth: "attempt * 2"        
+  combine_depths: 1                     # <- single threaded
   summarize_depths: 1
-  depth_bed: "attempt"
+  depth_bed: "attempt"									# <- single threaded
 
   ## Site-based missing data filtering
   angsd_missdata: "attempt * 2"
@@ -156,7 +155,7 @@ set-threads:
   ibsrelate: "attempt * 10" # This is due to high RAM usage in cluster environments where RAM is tied to threads. If it is not in yours, you can set the mem_mb resource for this below and lower this
   est_kinship_stats_ibs: 1
   kinship_table_html: 1
-  ngsrelate_ibsrelate_only: "attempt * 4"
+  ngsrelate_ibsrelate_only: "attempt * 12"
   ngsrelate_freqbased: "attempt * 4"
   ngsrelate_freqbased_merge: 1
   ngsrelate_summary: 1
@@ -216,6 +215,7 @@ set-resources:
     mem_mb: 50000
   samtools_faidx:
     runtime: "1h"
+    mem_mb: 10000
   ref_chunking:
     runtime: "5m"
   picard_dict:
@@ -261,6 +261,7 @@ set-resources:
     runtime: "6h"
   summarize_depths:
     runtime: "6h"
+    mem_mb: "attempt * 4000"
   depth_bed:
     runtime: "6h"
     mem_mb: 12000
@@ -268,6 +269,7 @@ set-resources:
   ## Site-based missing data filtering
   angsd_missdata:
     runtime: "attempt * 360"
+    mem_mb: "attempt * 4000"
   missdata_bed:
     runtime: "1h"
 
@@ -392,6 +394,7 @@ set-resources:
   # ANGSD -doGlf2/-doMaf (Beagle/MAFs)
   angsd_doGlf2:
     runtime: "attempt * 720"
+    mem_mb: 12000
   merge_beagle:
     runtime: "4h"
   merge_maf:
@@ -433,7 +436,8 @@ set-resources:
   kinship_table_html:
     runtime: "15m"
   ngsrelate_ibsrelate_only:
-    runtime: "attempt * 360"
+    runtime: "attempt * 720"
+    mem_mb: 82000
   ngsrelate_freqbased:
     runtime: "attempt * 360"
   ngsrelate_freqbased_merge:
