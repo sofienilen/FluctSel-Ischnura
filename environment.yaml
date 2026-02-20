@@ -1,0 +1,13 @@
+name: popglen
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  # core packages for workflow
+  - snakemake =8.25.0
+  - python =3.12
+  - singularity
+  - snakemake-executor-plugin-slurm
+  - snakedeploy

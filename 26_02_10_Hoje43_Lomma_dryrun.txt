@@ -1,0 +1,20 @@
+Using profile profiles/dardel-sofie for setting default command line arguments.
+localrules directive specifies rules that are not present in the Snakefile:
+	link_anc_ref
+
+host: login1
+Building DAG of jobs...
+Singularity image docker://ghcr.io/zjnolen/popglen-r:develop-241016 will be pulled.
+Singularity image docker://quay.io/biocontainers/repeatmodeler:2.0.5--pl5321hdfd78af_0 will be pulled.
+Singularity image docker://quay.io/biocontainers/qualimap:2.3--hdfd78af_0 will be pulled.
+Singularity image docker://quay.io/biocontainers/samtools:1.20--h50ea8bc_1 will be pulled.
+Singularity image docker://ghcr.io/zjnolen/ngsrelate:20220925-ec95c8f will be pulled.
+Singularity image docker://quay.io/biocontainers/angsd:0.940--hf5e1c6e_3 will be pulled.
+Singularity image docker://ghcr.io/zjnolen/popglen-shell:0.4.0 will be pulled.
+Singularity image docker://quay.io/biocontainers/bedtools:2.31.1--hf5e1c6e_2 will be pulled.
+Singularity image docker://quay.io/biocontainers/bamutil:1.0.15--h43eeafb_5 will be pulled.
+Singularity image docker://quay.io/biocontainers/multiqc:1.23--pyhdfd78af_0 will be pulled.
+Singularity image docker://quay.io/biocontainers/pandas:2.2.1 will be pulled.
+/usr/bin/bash: conda: command not found
+WorkflowError:
+Error running conda info. Is conda installed and accessible? Error: Command 'conda info --json' returned non-zero exit status 127.
