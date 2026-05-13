@@ -1,0 +1,28 @@
+Using profile profiles/dardel-sofie for setting default command line arguments.
+localrules directive specifies rules that are not present in the Snakefile:
+	link_anc_ref
+
+host: login1
+Building DAG of jobs...
+Singularity image docker://quay.io/biocontainers/samtools:1.20--h50ea8bc_1 will be pulled.
+Singularity image docker://ghcr.io/zjnolen/popglen-r:develop-241016 will be pulled.
+Singularity image docker://quay.io/biocontainers/pandas:2.2.1 will be pulled.
+Singularity image docker://quay.io/biocontainers/angsd:0.940--hf5e1c6e_3 will be pulled.
+Singularity image docker://quay.io/biocontainers/qualimap:2.3--hdfd78af_0 will be pulled.
+Singularity image docker://quay.io/biocontainers/bamutil:1.0.15--h43eeafb_5 will be pulled.
+Singularity image docker://quay.io/biocontainers/repeatmodeler:2.0.5--pl5321hdfd78af_0 will be pulled.
+Singularity image docker://ghcr.io/zjnolen/ngsrelate:20220925-ec95c8f will be pulled.
+Singularity image docker://quay.io/biocontainers/multiqc:1.23--pyhdfd78af_0 will be pulled.
+Singularity image docker://quay.io/biocontainers/bedtools:2.31.1--hf5e1c6e_2 will be pulled.
+Singularity image docker://ghcr.io/zjnolen/popglen-shell:0.4.0 will be pulled.
+Conda environment https://github.com/snakemake/snakemake-wrappers/raw/v4.0.0/bio/samtools/merge/environment.yaml will be created.
+Conda environment https://github.com/snakemake/snakemake-wrappers/raw/v4.0.0/bio/fastp/environment.yaml will be created.
+Conda environment https://github.com/snakemake/snakemake-wrappers/raw/v4.0.0/bio/picard/markduplicates/environment.yaml will be created.
+Conda environment https://github.com/snakemake/snakemake-wrappers/raw/v4.0.0/bio/bwa/index/environment.yaml will be created.
+Conda environment https://github.com/snakemake/snakemake-wrappers/raw/v4.0.0/bio/gatk3/indelrealigner/environment.yaml will be created.
+Conda environment https://github.com/snakemake/snakemake-wrappers/raw/v4.0.0/bio/gatk3/realignertargetcreator/environment.yaml will be created.
+Conda environment https://github.com/snakemake/snakemake-wrappers/raw/v4.0.0/bio/bwa/mem/environment.yaml will be created.
+Conda environment https://github.com/snakemake/snakemake-wrappers/raw/v4.0.0/bio/picard/createsequencedictionary/environment.yaml will be created.
+Nothing to be done (all requested files are present and up to date).
+1260 jobs have missing provenance/metadata so that it in part cannot be used to trigger re-runs.
+Rules with missing metadata: angsd_depth angsd_doGlf2 angsd_makeBamlist angsd_sites_index bam_clipoverlap bwa_index bwa_mem_paired combine_beds combine_depths combine_sample_qc compile_endo_cont depth_bed endo_cont fastp_multiqc fastp_pairedout filter_summary_table genome_bed ibs_ref_bias_filts ibs_ref_bias_nofilts ibs_ref_bias_table_html ind_filtered_depth ind_mapQ_baseQ_depth ind_unfiltered_depth indelrealigner link_ref mark_duplicates merge_beagle merge_ibs_ref_bias merge_ind_depth ngsrelate_ibsrelate_only ngsrelate_summary picard_dict plot_ibs_ref_bias popfile qualimap qualimap_multiqc realignertargetcreator ref_chunking repeat_builddatabase repeat_sum repeatmasker repeatmodeler sample_qc_summary samtools_faidx samtools_flagstat samtools_index samtools_merge_dedup samtools_merge_paired_units sexlink_bed smallscaff_bed summarize_depths summarize_ind_depth symlink_bams
