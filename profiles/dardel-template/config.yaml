@@ -1,0 +1,516 @@
+#################################
+## Configuration for snakemake ##
+#################################
+restart-times: 3                                # Retry failed jobs up to 3 times (legacy syntax for 'retries')
+local-cores: 2                                  # Max CPU cores for LOCAL rules (not submitted to SLURM)
+printshellcmds: true                            # Print the actual shell commands being executed
+use-conda: true                                 # Enable conda environment management
+use-singularity: true                           # Enable singularity container support
+jobs: 120                                       # Max 120 concurrent SLURM jobs at once
+keep-going: true                                # Continue running other jobs if one fails
+max-threads: 128                                # Maximum threads any single job can request
+executor: slurm                                 # Use SLURM for job submission
+shadow-prefix: /cfs/klemming/scratch/u/username # Directory for shadow rules (isolated temp directories)
+
+# Conda and singularity configuration
+conda-prefix: /cfs/klemming/projects/supr/snic2020-6-170/snakemake/conda-share     # Shared conda env location
+singularity-prefix: /cfs/klemming/projects/supr/snic2020-6-170/snakemake/singularity-share  # Shared container location
+singularity-args: '-B /cfs/klemming'           # Bind-mount this path inside containers
+
+# slurm resources applied to all jobs
+default-resources:
+  mem_mb: "threads*1700"                       # Dynamic: memory scales with threads (e.g., 4 threads = 6800 MB)
+  runtime: 60                                  # Default 60 minutes walltime
+  slurm_account: naiss2025-22-1413             # SLURM billing account
+  slurm_partition: shared                      # Submit to 'shared' partition
+  nodes: 1                                     # Request 1 node per job
+  threads: 4                                   # Default 4 threads per job
+  tmpdir: /cfs/klemming/scratch/u/username       # Temp directory for jobs
+
+###### Threads for each rule 
+set-threads:
+  # Reference Prep
+  link_ref:   1
+  link_anc_ref: 1
+  bwa_index: 1                          # <- single threaded
+  samtools_faidx: 1                     # <- single threaded
+  ref_chunking: 1
+  picard_dict: 1                        # <- single threaded
+
+  # Site filtering
+  genome_bed: 1                         # <- single threaded
+  smallscaff_bed: 1                     # <- single threaded
+  sexlink_bed: 1                        # <- single threaded
+
+  ## Mappability filtering
+  genmap_index: "attempt"               
+  genmap_map: 8
+  windowgen: 1
+  pileup_mappability: 1
+  genmap_filt_bed: 1
+
+  ## Repeat filtering
+  repeat_builddatabase: 1								# <- single threaded
+  repeatmodeler: 28							
+  repeatmasker: 1
+  repeat_sum: 1													# <- single threaded
+
+  ## Depth filtering
+  angsd_depth: "attempt * 2"        
+  combine_depths: 1                     # <- single threaded
+  summarize_depths: 1
+  depth_bed: "attempt"									# <- single threaded
+
+  ## Site-based missing data filtering
+  angsd_missdata: "attempt * 2"
+  missdata_bed: 1
+
+  ## Generate combined filter files
+  combine_beds: "attempt * 2"
+  user_sites: "attempt * 2"
+  filter_summary_table: 1
+
+  # Raw sequencing data processing
+  ncbi_download: 6
+  fastp_mergedout: "attempt * 2"
+  fastp_pairedout: "attempt * 2"
+  fastp_multiqc: 1
+
+  # Mapping
+  bwa_aln_merged: 20
+  bwa_samse_merged: "attempt"
+  bwa_mem_paired: "attempt * 10"
+  bwa_mem_merged: "attempt * 10"
+  samtools_merge_collapsed_libs: "attempt * 4"
+  samtools_merge_paired_units: "attempt * 4"
+  mark_duplicates: "attempt * 4"
+  dedup_merged: "attempt * 2"
+  samtools_merge_dedup: "attempt * 4"
+  realignertargetcreator: "attempt * 8"
+  indelrealigner: "attempt * 16"
+  bam_clipoverlap: "attempt * 2"
+  symlink_userbams: 1
+  bam_clipoverlap_userbams: "attempt * 2"
+  samtools_index: 1
+  symlink_bams: 1
+  samtools_subsample: 1
+
+  # Sample QC
+  samtools_flagstat: 1
+  qualimap: 4
+  qualimap_userprovided: 4
+  qualimap_multiqc: 2
+  endo_cont: 1
+  compile_endo_cont: 1
+  ind_unfiltered_depth: "attempt"
+  ind_mapQ_baseQ_depth: "attempt"
+  ind_filtered_depth: "attempt"
+  summarize_ind_depth: 1
+  merge_ind_depth: 1
+  combine_sample_qc: 1
+  sample_qc_summary: 1
+  ibs_ref_bias_nofilts: "attempt"
+  ibs_ref_bias_filts: "attempt"
+  merge_ibs_ref_bias: 1
+  plot_ibs_ref_bias: 1
+  ibs_ref_bias_table_html: 1
+
+  # Post-mortem DNA damage
+  damageprofiler: "attempt"
+  damageprofiler_userbam: "attempt"
+  mapDamage2_rescaling: 1
+  dna_damage_multiqc: 1
+
+  # ANGSD input file preparation
+  angsd_makeBamlist: 1
+  popfile: 1
+  angsd_sites_index: 1
+
+  # ANGSD -doSaf
+  angsd_doSaf_pop: "attempt * 2"
+  realSFS_catsaf: 1
+  angsd_doSaf_sample: 1
+
+  # ANGSD -doGlf2/-doMaf (Beagle/MAFs)
+  angsd_doGlf2: "attempt"
+  merge_beagle: 1
+  merge_maf: 1
+  snpset: 1
+  link_mafs: 1
+  angsd_doMaf: "attempt"
+
+  # Linkage disequilibrium (LD) calculation, decay, and pruning
+  ngsLD_estLD: "attempt"
+  combine_LD_files: 1
+  ngsLD_prune_sites: 4
+  prune_chunk_beagle: "attempt"
+  merge_pruned_beagles: 1
+  combine_LDdecay_files: 1
+  fit_LD_decay: "attempt"
+
+  # Kinship/relatedness
+  est_kinship_stats_sfs: 1
+  compile_kinship_stats_sfs: 1
+  doGlf1_ibsrelate: "attempt * 2"
+  ibsrelate: "attempt * 10" # This is due to high RAM usage in cluster environments where RAM is tied to threads. If it is not in yours, you can set the mem_mb resource for this below and lower this
+  est_kinship_stats_ibs: 1
+  kinship_table_html: 1
+  ngsrelate_ibsrelate_only: "attempt * 12"
+  ngsrelate_freqbased: "attempt * 4"
+  ngsrelate_freqbased_merge: 1
+  ngsrelate_summary: 1
+
+  # PCA/Admixture
+  remove_excl_pca_admix: 1
+  pca_pcangsd: "attempt"
+  plot_pca: 1
+  ngsAdmix: 4
+  plot_admix: 1
+  evalAdmix: 1
+  plot_evalAdmix: 1
+
+  # Site frequency spectra (SFS)
+  realSFS_1dSFS: "attempt * 2"
+  realSFS_1dSFS_bootstrap: "attempt * 2"
+  realSFS_2dSFS: "attempt * 2"
+  realSFS_2dSFS_bootstrap: "attempt * 2"
+
+  # Thetas (nucleotide diversity, Watterson's theta, Tajima's D)
+  realSFS_saf2theta: 1
+  thetaStat: 1
+  plot_thetas: 1
+  theta_tables: 1
+
+  # FST
+  realSFS_fst_index: 1
+  realSFS_fst_stats: 1
+  realSFS_fst_stats2: 1
+  aggregate_fst_global: 1
+  aggregate_fst_window: 1
+  plot_fst: 1
+
+  # Heterozygosity
+  heterozygosity: 1
+  heterozygosity_table: 1
+
+  # Inbreeding/Runs of homozygosity
+  # ngsf_hmm: 4 # By default sets 1 thread per individual, only uncomment this if you want to override this
+  convert_ibd: 1
+  plot_froh: 1
+
+  # Identity by state matrix
+  angsd_doIBS: 8
+
+
+
+######### Runtime and memory for each rule
+set-resources:
+  # Reference Prep
+  link_ref:
+    runtime: "5m"
+  link_anc_ref:
+    runtime: "5m"
+  bwa_index:
+    runtime: "2h"
+    mem_mb: 50000
+  samtools_faidx:
+    runtime: "1h"
+    mem_mb: 10000
+  ref_chunking:
+    runtime: "5m"
+  picard_dict:
+    runtime: "2h"
+    mem_mb: 10000
+
+  # Site filtering
+  genome_bed:
+    runtime: "10m"
+  smallscaff_bed:
+    runtime: "10m"
+  sexlink_bed:
+    runtime: "10m"
+
+  ## Mappability filtering
+  genmap_index:
+    runtime: "1h"
+  genmap_map:
+    runtime: "attempt * 360"
+  windowgen:
+    runtime: "12h"
+  pileup_mappability:
+    runtime: 3000
+  genmap_filt_bed:
+    runtime: "1h"
+
+  ## Repeat filtering
+  repeat_builddatabase:
+    runtime: "1h"
+  repeatmodeler:
+    runtime: "6d12h"
+    mem_mb: 120000
+  repeatmasker:
+    runtime: "1d8h"
+    mem_mb: 30000
+  repeat_sum:
+    runtime: "1h"
+
+  ## Depth filtering
+  angsd_depth:
+    runtime: "attempt * 720"
+  combine_depths:
+    runtime: "6h"
+  summarize_depths:
+    runtime: "6h"
+    mem_mb: "attempt * 4000"
+  depth_bed:
+    runtime: "6h"
+    mem_mb: 12000
+
+  ## Site-based missing data filtering
+  angsd_missdata:
+    runtime: "attempt * 360"
+    mem_mb: "attempt * 4000"
+  missdata_bed:
+    runtime: "1h"
+
+  ## Generate combined filter files
+  combine_beds:
+    runtime: "6h"
+    mem_mb: 12000
+  user_sites:
+    runtime: "4h"
+  filter_summary_table:
+    runtime: "10m"
+
+  # Raw sequencing data processing
+  ncbi_download:
+    runtime: "6h"
+  fastp_mergedout:
+    runtime: "3h"
+  fastp_pairedout:
+    runtime: "3h"
+  fastp_multiqc:
+    runtime: "1h"
+
+  # Mapping
+  bwa_aln_merged:
+    runtime: "6d"
+  bwa_samse_merged:
+    runtime: "6h"
+  bwa_mem_paired:
+    runtime: "attempt * 2880"
+  bwa_mem_merged:
+    runtime: "attempt * 2880"
+  samtools_merge_collapsed_libs:
+    runtime: "attempt * 720"
+  samtools_merge_paired_units:
+    runtime: "attempt * 720"
+  mark_duplicates:
+    runtime: "attempt * 1440"
+    mem_mb: "attempt * 15000"
+  samtools_merge_dedup:
+    runtime: "attempt * 1440"
+  realignertargetcreator:
+    runtime: "attempt * 720"
+  indelrealigner:
+    runtime: "attempt * 1440"
+  bam_clipoverlap:
+    runtime: "attempt * 720"
+  symlink_userbams:
+    runtime: "5m"
+  bam_clipoverlap_userbams:
+    runtime: "attempt * 720"
+  samtools_index:
+    runtime: "1h"
+  symlink_bams:
+    runtime: "5m"
+  samtools_subsample:
+    runtime: "attempt * 720"
+
+  # Sample QC
+  samtools_flagstat:
+    runtime: "1h"
+  qualimap:
+    runtime: "6h"
+    mem_mb: 25000
+  qualimap_userprovided:
+    runtime: "6h"
+    mem_mb: 25000
+  qualimap_multiqc:
+    runtime: "1h"
+  endo_cont:
+    runtime: "15m"
+  compile_endo_cont:
+    runtime: "15m"
+  ind_unfiltered_depth:
+    runtime: "attempt * 120"
+  ind_mapQ_baseQ_depth:
+    runtime: "attempt * 120"
+  ind_filtered_depth:
+    runtime: "attempt * 60"
+  summarize_ind_depth:
+    runtime: "15m"
+  merge_ind_depth:
+    runtime: "15m"
+  combine_sample_qc:
+    runtime: "15m"
+  sample_qc_summary:
+    runtime: "15m"
+  ibs_ref_bias_nofilts:
+    runtime: "attempt * 720"
+  ibs_ref_bias_filts:
+    runtime: "attempt * 720"
+  merge_ibs_ref_bias:
+    runtime: "15m"
+  plot_ibs_ref_bias:
+    runtime: "30m"
+  ibs_ref_bias_table_html:
+    runtime: "15m"
+  damageprofiler:
+    runtime: "attempt * 60"
+  damageprofiler_userbam:
+    runtime: "attempt * 60"
+  mapDamage2_rescaling:
+    runtime: "1d"
+  dna_damage_multiqc:
+    runtime: "1h"
+
+  # ANGSD input file preparation
+  angsd_makeBamlist:
+    runtime: "15m"
+  popfile:
+    runtime: "15m"
+  angsd_sites_index:
+    runtime: "1h"
+
+  # ANGSD -doSaf
+  angsd_doSaf_pop:
+    runtime: "attempt * 180"
+  realSFS_catsaf:
+    runtime: "attempt * 60"
+  angsd_doSaf_sample:
+    runtime: "120m"
+
+  # ANGSD -doGlf2/-doMaf (Beagle/MAFs)
+  angsd_doGlf2:
+    runtime: "attempt * 720"
+    mem_mb: 12000
+  merge_beagle:
+    runtime: "4h"
+  merge_maf:
+    runtime: "4h"
+  snpset:
+    runtime: "1h"
+  link_mafs:
+    runtime: "1h"
+  angsd_doMaf:
+    runtime: "attempt * 720"
+
+  # Linkage disequilibrium (LD) calculation, decay, and pruning
+  ngsLD_estLD:
+    runtime: "attempt * 720"
+  combine_LD_files:
+    runtime: "1h"
+  ngsLD_prune_sites:
+    runtime: "1d"
+  prune_chunk_beagle:
+    runtime: "6h"
+  merge_pruned_beagles:
+    runtime: "4h"
+  combine_LDdecay_files:
+    runtime: "1h"
+  fit_LD_decay:
+    runtime: "8h"
+
+  # Kinship/relatedness
+  est_kinship_stats_sfs:
+    runtime: "1h"
+  compile_kinship_stats_sfs:
+    runtime: "15m"
+  doGlf1_ibsrelate:
+    runtime: "attempt * 360"
+  ibsrelate:
+    runtime: "6d"
+  est_kinship_stats_ibs:
+    runtime: "1h"
+  kinship_table_html:
+    runtime: "15m"
+  ngsrelate_ibsrelate_only:
+    runtime: "attempt * 720"
+    mem_mb: 82000
+  ngsrelate_freqbased:
+    runtime: "attempt * 360"
+  ngsrelate_freqbased_merge:
+    runtime: "15m"
+  ngsrelate_summary:
+    runtime: "15m"
+
+  # PCA/Admixture
+  remove_excl_pca_admix:
+    runtime: "1h"
+  pca_pcangsd:
+    runtime: "4h"
+  plot_pca:
+    runtime: "1h"
+  ngsAdmix:
+    runtime: "6d"
+  plot_admix:
+    runtime: "1h"
+  evalAdmix:
+    runtime: "1h"
+  plot_evalAdmix:
+    runtime: "15m"
+
+  # Site frequency spectra (SFS)
+  realSFS_1dSFS:
+    runtime: "attempt * 720"
+  realSFS_1dSFS_bootstrap:
+    runtime: "6d"
+  realSFS_2dSFS:
+    runtime: "attempt * 720"
+  realSFS_2dSFS_bootstrap:
+    runtime: "6d"
+
+  # Thetas (nucleotide diversity, Watterson's theta, Tajima's D)
+  realSFS_saf2theta:
+    runtime: "4h"
+  thetaStat:
+    runtime: "4h"
+  plot_thetas:
+    runtime: "1h"
+  theta_tables:
+    runtime: "15m"
+
+  # FST
+  realSFS_fst_index:
+    runtime: "2h"
+  realSFS_fst_stats:
+    runtime: "2h"
+  realSFS_fst_stats2:
+    runtime: "2h"
+  aggregate_fst_global:
+    runtime: "1h"
+  aggregate_fst_window:
+    runtime: "1h"
+  plot_fst:
+    runtime: "1h"
+
+  # Heterozygosity
+  heterozygosity:
+    runtime: "1h"
+  heterozygosity_table:
+    runtime: "15m"
+
+  # Inbreeding/Runs of homozygosity
+  ngsf_hmm:
+    runtime: "1d"
+  convert_ibd:
+    runtime: "1h"
+  plot_froh:
+    runtime: "1h"
+  froh_table:
+    runtime: "15m"
+
+  # Identity by state matrix
+  angsd_doIBS:
+    runtime: "1d"

@@ -27,7 +27,7 @@ while [[ "$#" -gt 0 ]]; do
             echo "  -h, --help    Show this help message and exit"
             echo ""
             echo "Example:"
-            echo "  bash scripts/generate_units_tsv.sh \\"
+            echo "  bash scripts/generate_units.sh \\"
             echo "      --seq-path /cfs/klemming/projects/supr/snic2020-6-170/RawData/lcNGS_2025/files/P36454 \\"
             echo "      --samples doc/test_samples_NGI_id.txt \\"
             echo "      --meta doc/MetaData_bioinfo.tsv \\"

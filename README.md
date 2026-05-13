@@ -1,172 +1,101 @@
-# FluctSel-Ischnura
+<img align="right" src="images/nice_damsel.jpg" alt="A nice damselfly" width="15%">
 
+# FluctSel-Ischnura
 Bioinformatics pipeline for analyzing fluctuating selection in the Common Bluetail Damselfly (*Ischnura elegans*). This project uses low-coverage whole-genome sequencing (lcWGS) to investigate how selection operates across life stages (aquatic nymphs vs. terrestrial adults) and across generations to maintain genetic diversity in natural populations.
 
+
 ## Setup
+This analyses uses [PopGLen v0.4.3](https://github.com/zjnolen/PopGLen) as its main tool and its documentation can be found here: https://zjnolen.github.io/PopGLen/v0.4.3/.
 
 ### Environment Setup
-
-This environment uses Snakemake v9.13.7 and Singularity v3.8.6. For complete environment specifications, see `doc/popglen-environment.yml`.
-
+Create mamba environment (-n names the environment, -c channels to use, -y auto selects yes to all prompts)
 ```bash
-# Create mamba environment (-n names the environment, -c channels to use, -y auto selects yes to all prompts). If using conda, switch mamba to conda.
-mamba create -n popglen -c conda-forge -c bioconda \
-    snakemake=9.13.7 \
-    snakedeploy \
-    singularity \
-    snakemake-executor-plugin-slurm \
-    -y
-
-# Activate environment
-mamba activate popglen
-
-# Download the PopGLen workflow
-snakedeploy deploy-workflow https://github.com/zjnolen/PopGLen . --tag v0.4.2
+mamba create -n popglen -c conda-forge -c bioconda snakemake snakedeploy singularity snakemake-executor-plugin-slurm -y
 ```
-
-### Known Issues & Fixes
-
-#### Snakemake Version Issue
-**As of 2025-12-15:** There is an error with the newest version of either `snakemake` or `snakemake-executor-plugin-slurm` that prevents job submission to SLURM. 
-
-**Solution:** Downgrade to Snakemake v9.13.7 (from v9.14.4)
-
-**References:**
-- [Job submission with scheduler broken by #3850 · Issue #3853](https://github.com/snakemake/snakemake/issues/3853)
-- [assert self.workflow.is_main_process AssertionError · Issue #3874](https://github.com/snakemake/snakemake/issues/3874)
-
-#### Singularity/Apptainer Issue
-**As of 2025-12-15:** The newest Singularity/Apptainer does not support the `--tmp-sandbox` flag.
-
-**Solution:** Remove `--tmp-sandbox` from `singularity-args` in the Dardel profile.
-
-**Before:**
-```yaml
-singularity-args: '--tmp-sandbox -B /cfs/klemming'
-```
-
-**After:**
-```yaml
-singularity-args: '-B /cfs/klemming'
-```
-
 
 ## Configuration
 
 ### Dardel Profile Setup
 
-Edit `profiles/dardel/config.v8+.yaml`:
+The configuratons in `profiles/` and `config` specify paths, resources, and which snakemake rules are to be run. 
 
-```yaml
-restart-times: 3
-local-cores: 2
-printshellcmds: true
-use-conda: true
-use-singularity: true
-jobs: 999
-keep-going: true
-max-threads: 128
-executor: slurm
-singularity-args: '-B /cfs/klemming'
-default-resources:
-  - "mem_mb=(threads*1700)"
-  - "runtime=60"
-  - "slurm_account=naiss2025-22-1413"           # <-- Change this
-  - "slurm_partition=shared"
-  - "nodes=1"
-  - "tmpdir='/cfs/klemming/scratch/a/andbou'"   # <-- Change this
+Each unique user has to make their own `profiles/<username>/config.yaml` and specify it while running snakemake to avoid permission conflicts.
+
+Each unique analysis would ideally require their own unique `config/config.yml` to avoid continously changing the `dataset` yaml option. The `config` tells snakemake which rules to run using which data (`samples.tsv` and `units.tsv`).
+
+```bash
+# Copy the template and customize them to your system
+cp -r profiles/dardel-template profiles/dardel-<username>
+cp -r config/config-template.yaml config/config-<dataset>.yaml
 ```
-
-**Note:** Update `slurm_account` and `tmpdir` paths for your system.
 
 ## Running the Pipeline
 
-### Option 1: Interactive Node (Recommended for Testing)
-
 ```bash
-# Request interactive job
-salloc -n 1 -c 64 -t 02:30:00 -A naiss2025-22-1413 -p shared
+# Load the module
+module load tmux/3.4
 
-# Activate environment
+# Start a new session with a name
+tmux new -s snakemake
+
+# Make sure you are in the FluctSel-Ischnura directory
+cd /path/FluctSel-Ischnura
+
+# Activate popglen
 mamba activate popglen
 
-# Run workflow
-snakemake \
-    --configfile config/config-full.yaml \
-    --use-conda \
-    --use-singularity \
-    --default-resources "mem_mb=threads*1700" \
-    --cores 64
+# Run this command with YOUR profile and config. Example is using mine.
+snakemake --profile profiles/dardel-<username> --configfile config/config-<dataset>.yaml
 ```
+You can now detach from screen and have snakemake run in the background even if you close your connection/terminal.
 
-### Option 2: Login Node with Screen (Recommended for Production)
+- Detach from screen: Press `Ctrl+B`, then press `D`
+- Check if it's still running: `tmux ls`
+- Reattach to check progress: `tmux attach -t snakemake`
+- Kill the session: `kill-session -t snakemake`
 
-```bash
-# Start screen session (to run in background if terminal closes)
-screen -S snakemake
+## References
+> Nolen ZJ, PopGLen—a Snakemake pipeline for performing population genomic analyses using genotype likelihood-based methods, Bioinformatics, Volume 41, Issue 3, March 2025, btaf105, https://doi.org/10.1093/bioinformatics/btaf105
 
-# Activate environment
-mamba activate popglen
+> Chen, S., Zhou, Y., Chen, Y., & Gu, J. (2018). fastp: An ultra-fast all-in-one FASTQ preprocessor. Bioinformatics, 34(17), i884–i890. <https://doi.org/10.1093/bioinformatics/bty560>
 
-# Run the pipeline
-snakemake --profile profiles/dardel --configfile config/config-full.yaml
+> Li, H., & Durbin, R. (2009). Fast and accurate short read alignment with Burrows–Wheeler transform. Bioinformatics, 25(14), 1754–1760. <https://doi.org/10.1093/bioinformatics/btp324>
 
-# Detach from screen: Ctrl+A, then D
-# Reattach later: screen -r snakemake
-```
+> Danecek, P., Bonfield, J. K., Liddle, J., Marshall, J., Ohan, V., Pollard, M. O., Whitwham, A., Keane, T., McCarthy, S. A., Davies, R. M., & Li, H. (2021). Twelve years of SAMtools and BCFtools. GigaScience, 10(2). <https://doi.org/10.1093/gigascience/giab008>
 
-### Option 3: SLURM Job Submission (Not Recommended)
+> Picard toolkit. (2019). Broad Institute, GitHub Repository. <https://broadinstitute.github.io/picard/>
 
-Running Snakemake from within a SLURM job is not recommended and may lead to unexpected behavior such as failing to submit jobs.
+> Peltzer, A., Jäger, G., Herbig, A., Seitz, A., Kniep, C., Krause, J., & Nieselt, K. (2016). EAGER: Efficient ancient genome reconstruction. Genome Biology, 17(1), Article 1. <https://doi.org/10.1186/s13059-016-0918-z>
 
+> Auwera, G. A. V. der, & O’Connor, B. D. (2020). Genomics in the Cloud: Using Docker, GATK, and WDL in Terra. O’Reilly Media, Inc.
 
-> "You are running snakemake in a SLURM job context. This is not recommended, as it may lead to unexpected behavior. If possible, please run Snakemake directly on the login node."
+> Jónsson, H., Ginolhac, A., Schubert, M., Johnson, P. L. F., & Orlando, L. (2013). mapDamage2.0: Fast approximate Bayesian estimates of ancient DNA damage parameters. Bioinformatics, 29(13), 1682–1684. <https://doi.org/10.1093/bioinformatics/btt193>
 
-> "Select jobs to execute... Failed to solve scheduling problem with ILP solver, falling back to greedy scheduler. You likely have to fix your ILP solver installation. Error message: PULP_CBC_CMD: Not Available (check permissions on cbc)"
+> Neukamm, J., Peltzer, A., & Nieselt, K. (2021). DamageProfiler: Fast damage pattern calculation for ancient DNA. Bioinformatics, 37(20), 3652–3653. <https://doi.org/10.1093/bioinformatics/btab190>
 
-**If you must use this approach:**
+> Jun, G., Wing, M. K., Abecasis, G. R., & Kang, H. M. (2015). An efficient and scalable analysis framework for variant extraction and refinement from population scale DNA sequence data. Genome Research, gr.176552.114. <https://doi.org/10.1101/gr.176552.114>
 
-```bash
-#!/bin/bash
-#SBATCH --job-name=snakemake
-#SBATCH -A naiss2025-22-1413
-#SBATCH -p shared
-#SBATCH -n 1
-#SBATCH -c 4
-#SBATCH --mem=8GB
-#SBATCH -t 04:30:00
-#SBATCH --output=SLURM-%j.out
-#SBATCH --error=SLURM-%j.err
+> García-Alcalde, F., Okonechnikov, K., Carbonell, J., Cruz, L. M., Götz, S., Tarazona, S., Dopazo, J., Meyer, T. F., & Conesa, A. (2012). Qualimap: Evaluating next-generation sequencing alignment data. Bioinformatics, 28(20), 2678–2679. <https://doi.org/10.1093/bioinformatics/bts503>
 
-# Source .bashrc to init mamba
-source /cfs/klemming/home/a/andbou/.bashrc
-mamba activate popglen
+> Fox, E. A., Wright, A. E., Fumagalli, M., & Vieira, F. G. (2019). ngsLD: Evaluating linkage disequilibrium using genotype likelihoods. Bioinformatics, 35(19), 3855–3856. <https://doi.org/10.1093/bioinformatics/btz200>
 
-snakemake --profile profiles/dardel --configfile config/config-full.yaml
-```
+> Meisner, J., & Albrechtsen, A. (2018). Inferring Population Structure and Admixture Proportions in Low-Depth NGS Data. Genetics, 210(2), 719–731. <https://doi.org/10.1534/genetics.118.301336>
 
-## Useful Commands
+> Skotte, L., Korneliussen, T. S., & Albrechtsen, A. (2013). Estimating Individual Admixture Proportions from Next Generation Sequencing Data. Genetics, 195(3), 693–702. <https://doi.org/10.1534/genetics.113.154138>
 
-### Check Pipeline Status
+> Waples, R. K., Albrechtsen, A., & Moltke, I. (2019). Allele frequency-free inference of close familial relationships from genotypes or low-depth sequencing data. Molecular Ecology, 28(1), 35–48. <https://doi.org/10.1111/mec.14954>
 
-```bash
-# Dry run (see what will be executed)
-snakemake -n --profile profiles/dardel --configfile config/config-full.yaml
+> Hanghøj, K., Moltke, I., Andersen, P. A., Manica, A., & Korneliussen, T. S. (2019). Fast and accurate relatedness estimation from high-throughput sequencing data in the presence of inbreeding. GigaScience, 8(5), giz034. <https://doi.org/10.1093/gigascience/giz034>
 
-# Unlock directory after failed run
-snakemake --unlock
+> Korneliussen, T. S., Albrechtsen, A., & Nielsen, R. (2014). ANGSD: Analysis of Next Generation Sequencing Data. BMC Bioinformatics, 15(1), Article 1. <https://doi.org/10.1186/s12859-014-0356-4>
 
-# Rerun incomplete files (resume job)
-snakemake --rerun-incomplete --profile profiles/dardel --configfile config/config-full.yaml
-```
+> Vieira, F. G., Albrechtsen, A., & Nielsen, R. (2016). Estimating IBD tracts from low coverage NGS data. Bioinformatics, 32(14), 2096–2102. <https://doi.org/10.1093/bioinformatics/btw212>
 
-### Monitor Jobs
+> Flynn, J. M., Hubley, R., Goubert, C., Rosen, J., Clark, A. G., Feschotte, C., & Smit, A. F. (2020). RepeatModeler2 for automated genomic discovery of transposable element families. Proceedings of the National Academy of Sciences, 117(17), 9451–9457. <https://doi.org/10.1073/pnas.1921046117>
 
-```bash
-# Check SLURM logs
-ls -lh .snakemake/slurm_logs/
+> Smit, A., Hubley, R., & Green, P. (2013). RepeatMasker Open-4.0 (4.1.2) [Computer software]. <http://www.repeatmasker.org>
 
-# Monitor screen session
-screen -ls
-screen -r snakemake
-```
+> Pockrandt, C., Alzamel, M., Iliopoulos, C. S., & Reinert, K. (2020). GenMap: Ultra-fast computation of genome mappability. Bioinformatics, 36(12), 3687–3692. <https://doi.org/10.1093/bioinformatics/btaa222>
+
+> Quinlan, A. R. & Hall, I. M. (2010). BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics, 26(6), 841-842. <https://doi.org/10.1093/bioinformatics/btq033>
+

@@ -17,4 +17,4 @@ default-resources:
   - "slurm_account=naiss2025-22-1413"
   - "slurm_partition=shared"
   - "nodes=1"
-  - "tmpdir='/cfs/klemming/scratch/s/sofie'"
+  - "tmpdir='/cfs/klemming/scratch/s/snilen'"
