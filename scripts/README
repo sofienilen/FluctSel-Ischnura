@@ -1,0 +1,101 @@
+Generating samples.tsv and units.tsv
+
+### Setting up the required input `.tsv` files
+
+Two helper scripts generate the required input files. Both scripts pull values from your metadata file, so if the metadata file structure changes, you'll need to update the column numbers in the scripts.
+
+**OBS!:** These `.tsv` input files are specified in the `config/config.yaml` file. Make sure the paths in the config matches the path of the output you choose.
+
+```bash
+
+Usage: FluctSel-Ischnura/scripts/generate_samples.sh --samples SAMPLES_FILE --meta METADATA_FILE --outfile OUTPUT_TSV --time TIME_VALUE --depth DEPTH_VALUE
+
+  
+
+Arguments:
+
+  --samples     File containing sample IDs (one per line, NGI format e.g., P36454_209)
+
+  --meta        Metadata TSV file with sample and population information
+
+  --outfile     Output samples.tsv file path
+
+  --time        Time category for all samples (e.g., modern, historical)
+
+  --depth       Sequencing depth category for all samples (e.g., mean, high, low)
+
+  -h, --help    Show this help message and exit
+
+  
+
+Example:
+
+bash scripts/generate_samples.sh \
+    --samples doc/NGI_ID_282samp.txt \
+    --meta doc/MetaData_bioinfo.tsv \
+    --outfile doc/samples_NGI_ID_282samp.tsv \
+    --time modern \
+    --depth lc
+
+
+# Units.tsv
+
+# Arguments:
+  --seq-path    Path to the sequencing directory containing sample folders
+  --samples     File containing sample IDs (one per line)
+  --meta        Metadata TSV file with sample and library information
+  --outfile     Output units.tsv file path
+  -h, --help    Show this help message and exit
+
+
+# Script that works      
+bash scripts/generate_units.sh \
+  --seq-path /cfs/klemming/projects/supr/snic2020-6-170/RawData/lcNGS_2025/files/P36454 \
+  --samples doc/NGI_ID_282samp.txt \
+  --meta doc/MetaData_bioinfo.tsv \
+  --outfile doc/units_282.tsv \
+  &> doc/units.log
+
+
+# RunInfo.sh
+
+RunInfo.sh converts a benchmark log file into a simple, human-readable resource-usage report.
+
+Usage
+
+Print the report to the terminal:
+scripts/RunInfo.sh <benchmark.log>
+
+For example:
+scripts/RunInfo.sh /cfs/klemming/projects/supr/snic2020-6-170/Sofie_N/FluctSel-Ischnura/benchmarks/mapping/ind_depth/mapq-baseq-filtered/Hoje-43samp-test.ioIscEleg_24.1475_allsites-mapq20-baseq20-filt.log
+
+To print the report and save it to a text file:
+scripts/RunInfo.sh <benchmark.log> <output.txt>
+
+For example:
+scripts/RunInfo.sh \
+/cfs/klemming/projects/supr/snic2020-6-170/Sofie_N/FluctSel-Ischnura/benchmarks/mapping/ind_depth/mapq-baseq-filtered/Hoje-43samp-test.ioIscEleg_24.1475_allsites-mapq20-baseq20-filt.log \
+01-reports/info.txt
+Input
+
+The script expects a benchmark log containing the following columns:
+s  h:m:s  max_rss  max_vms  max_uss  max_pss  io_in  io_out  mean_load  cpu_time
+
+For example:
+s         h:m:s    max_rss  max_vms  max_uss  max_pss  io_in   io_out  mean_load  cpu_time
+647.9317  0:10:47  160.62   6374.32  162.35   163.95   268.54  0.77    95.78      620.98
+Output
+
+The script converts the benchmark values into a more readable report:
+# Benchmark report: /path/to/benchmark.log
+
+Wall clock time                  647.9317 seconds
+Wall clock time                  0:10:47
+Maximum RSS memory               160.62 MB
+Maximum VMS memory               6374.32 MB
+Maximum USS memory               162.35 MB
+Maximum PSS memory               163.95 MB
+I/O read                         268.54
+I/O written                      0.77
+Mean CPU load                    95.78
+CPU time (user + system)         620.98 seconds
