@@ -22,3 +22,5 @@ HANDOVER_README.md
 workflow-snakedeploy_style/
 01-reports/
 misc/snakemake-feb20.pdf
+doc/*log
+doc/*out
