@@ -24,3 +24,4 @@ workflow-snakedeploy_style/
 misc/snakemake-feb20.pdf
 doc/*log
 doc/*out
+tutorial/
