@@ -1,0 +1,1035 @@
+Genus	Species	Year_LifeStage_Loc	Season	Date	ID	Scan.id	Sex	Morph	All_ages_morph	Tube_ID	NGI.ID	Age	NGI_plateID	Season.id	Locale	Copula	Part.id	Eggcount	LifeStage	Colour	Locale_Sex	Locale_Morph	Locale_LifeStage
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68383	100	Male		NA	22.100	P41108_488	mature	P41108P4	2022.100	Hoje_A_7	1	99	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68384	101	Female	infuscans	I	22.101	P41108_478	mature	P41108P4	2022.101	Hoje_A_7	1	102	0	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68385	102	Male		NA	22.102	P41108_489	mature	P41108P4	2022.102	Hoje_A_7	1	101	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68386	103	Female	infuscans	I	22.103	P41108_479	mature	P41108P4	2022.103	Hoje_A_7	1	104	105	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-03	71147	1231	Female	infuscans-obsoleta	O	22.1231	P41109_462	immature	P41109P4	2022.1231	Lomma	1	1230	347	Adult	NA	Lomma_F	Lomma_O	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-03	71154	1238	Female	androchrome	A	22.1238	P41109_388	immature	P41109P3	2022.1238	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-03	71164	1245	Male		NA	22.1245	P41109_133	mature	P41109P1	2022.1245	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-03	71166	1247	Male		NA	22.1247	P41109_134	mature	P41109P1	2022.1247	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-03	71168	1249	Male		NA	22.1249	P41109_135	mature	P41109P1	2022.1249	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68408	125	Male		NA	22.125	P41109_142	mature	P41109P1	2022.125	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68409	126	Male		NA	22.126	P41109_143	mature	P41109P1	2022.126	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68415	132	Male		NA	22.132	P41109_347	mature	P41109P3	2022.132	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68416	133	Male		NA	22.133	P41109_348	mature	P41109P3	2022.133	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71638	1385	Female	androchrome	A	22.1385	P41108_336	mature	P41108P3	2022.1385	Hoje_A_7	1	1386	413	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71639	1386	Male		NA	22.1386	P41108_340	mature	P41108P3	2022.1386	Hoje_A_7	1	1385	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71644	1391	Female	infuscans-obsoleta	O	22.1391	P41109_403	mature	P41109P4	2022.1391	Hoje_A_7	1	1392	0	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71646	1393	Female	androchrome	A	22.1393	P41108_337	mature	P41108P3	2022.1393	Hoje_A_7	1	1394	335	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71647	1394	Male		NA	22.1394	P41109_407	mature	P41109P4	2022.1394	Hoje_A_7	1	1393	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71648	1395	Female	androchrome	A	22.1395	P41108_338	mature	P41108P3	2022.1395	Hoje_A_7	1	1396	10	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71649	1396	Male		NA	22.1396	P41108_341	mature	P41108P3	2022.1396	Hoje_A_7	1	1395	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71650	1397	Male		NA	22.1397	P41109_408	mature	P41109P4	2022.1397	Hoje_A_7	1	1398	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71651	1398	Female	androchrome	A	22.1398	P41109_406	mature	P41109P4	2022.1398	Hoje_A_7	1	1397	164	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68423	140	Female	androchrome	A	22.140	P41109_336	immature	P41109P3	2022.140	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71656	1403	Male		NA	22.1403	P41109_404	mature	P41109P4	2022.1403	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71658	1405	Male		NA	22.1405	P41109_405	mature	P41109P4	2022.1405	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71666	1413	Female	infuscans	I	22.1413	P41108_334	mature	P41108P3	2022.1413	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71667	1414	Female	infuscans	I	22.1414	P41108_335	mature	P41108P3	2022.1414	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71669	1416	Female	androchrome	A	22.1416	P41108_331	mature	P41108P3	2022.1416	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-06	71672	1419	Female	androchrome	A	22.1419	P41108_332	mature	P41108P3	2022.1419	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71707	1421	Male		NA	22.1421	P41108_374	mature	P41108P3	2022.1421	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71708	1422	Male		NA	22.1422	P41109_172	mature	P41109P1	2022.1422	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71710	1424	Male		NA	22.1424	P41109_173	mature	P41109P1	2022.1424	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68426	143	Female	infuscans	I	22.143	P41109_141	mature	P41109P1	2022.143	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71720	1434	Female	androchrome	A	22.1434	P41108_366	mature	P41108P3	2022.1434	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71722	1436	Female	androchrome	A	22.1436	P41108_367	mature	P41108P3	2022.1436	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71724	1438	Female	androchrome	A	22.1438	P41108_368	mature	P41108P3	2022.1438	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71725	1439	Female	androchrome	A	22.1439	P41108_369	mature	P41108P3	2022.1439	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71726	1440	Female	androchrome	A	22.1440	P41109_170	mature	P41109P1	2022.1440	Hoje_A_14	NA	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71727	1441	Female	androchrome	A	22.1441	P41108_370	mature	P41108P3	2022.1441	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71728	1442	Female	androchrome	A	22.1442	P41109_171	mature	P41109P1	2022.1442	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71730	1444	Female	androchrome	A	22.1444	P41108_371	mature	P41108P3	2022.1444	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71738	1445	Male		NA	22.1445	P41109_234	mature	P41109P2	2022.1445	Hoje_A_14	1	1446	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71739	1446	Female	androchrome	A	22.1446	P41109_235	mature	P41109P2	2022.1446	Hoje_A_14	1	1445	26	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71740	1447	Female	infuscans	I	22.1447	P41109_174	mature	P41109P1	2022.1447	Hoje_A_14	1	1448	116	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71741	1448	Male		NA	22.1448	P41109_228	mature	P41109P2	2022.1448	Hoje_A_14	1	1447	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71752	1459	Female	androchrome	A	22.1459	P41109_181	mature	P41109P1	2022.1459	Hoje_A_14	1	1460	0	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68429	146	Female	infuscans-obsoleta	O	22.146	P41108_255	immature	P41108P2	2022.146	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71753	1460	Male		NA	22.1460	P41109_233	mature	P41109P2	2022.1460	Hoje_A_14	1	1459	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-10	71895	1497	Male		NA	22.1497	P41109_366	mature	P41109P3	2022.1497	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-10	71896	1498	Male		NA	22.1498	P41109_367	mature	P41109P3	2022.1498	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-10	71889	1503	Female	androchrome	A	22.1503	P41109_155	mature	P41109P1	2022.1503	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-08	68545	169	Female	infuscans	I	22.169	P41109_184	mature	P41109P1	2022.169	Genarp	1	170	0	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-08	68546	170	Male		NA	22.170	P41108_118	mature	P41108P1	2022.170	Genarp	1	169	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-17	72442	1788	Female	infuscans	I	22.1788	P41108_464	mature	P41108P4	2022.1788	Lomma	1	1789	127	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-17	72444	1790	Female	infuscans	I	22.1790	P41108_465	mature	P41108P4	2022.1790	Lomma	1	1791	376	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-17	72446	1792	Male		NA	22.1792	P41108_471	mature	P41108P4	2022.1792	Lomma	1	1793	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-17	72447	1793	Female	androchrome	A	22.1793	P41108_472	mature	P41108P4	2022.1793	Lomma	1	1792	0	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-17	72450	1796	Male		NA	22.1796	P41109_136	mature	P41109P1	2022.1796	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-17	72451	1797	Male		NA	22.1797	P41109_137	mature	P41109P1	2022.1797	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72608	1816	Female	androchrome	A	22.1816	P41109_350	mature	P41109P3	2022.1816	Genarp	1	1817	243	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72609	1817	Male		NA	22.1817	P41109_470	mature	P41109P4	2022.1817	Genarp	1	1816	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72618	1826	Female	androchrome	A	22.1826	P41109_188	mature	P41109P1	2022.1826	Genarp	1	1827	245	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72619	1827	Male		NA	22.1827	P41109_425	mature	P41109P4	2022.1827	Genarp	1	1826	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72626	1834	Female	infuscans-obsoleta	O	22.1834	P41109_349	mature	P41109P3	2022.1834	Genarp	1	1835	2	Adult	NA	Genarp_F	Genarp_O	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72627	1835	Male		NA	22.1835	P41109_487	mature	P41109P4	2022.1835	Genarp	1	1834	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72632	1840	Male		NA	22.1840	P41109_273	mature	P41109P2	2022.1840	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72633	1841	Male		NA	22.1841	P41108_117	mature	P41108P1	2022.1841	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72661	1849	Female	androchrome	A	22.1849	P41109_156	mature	P41109P1	2022.1849	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72665	1853	Female	androchrome	A	22.1853	P41109_157	mature	P41109P1	2022.1853	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72671	1859	Female	androchrome	A	22.1859	P41109_468	mature	P41109P4	2022.1859	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-19	72680	1867	Female	androchrome	A	22.1867	P41109_180	mature	P41109P1	2022.1867	Hoje_A_14	1	1868	153	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-19	72681	1868	Male		NA	22.1868	P41109_232	mature	P41109P2	2022.1868	Hoje_A_14	1	1867	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-19	72684	1871	Female	androchrome	A	22.1871	P41109_179	mature	P41109P1	2022.1871	Hoje_A_14	1	1872	329	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-19	72685	1872	Male		NA	22.1872	P41109_231	mature	P41109P2	2022.1872	Hoje_A_14	1	1871	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-19	72686	1873	Female	androchrome	A	22.1873	P41109_178	mature	P41109P1	2022.1873	Hoje_A_14	1	1874	4	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-19	72687	1874	Male		NA	22.1874	P41109_230	mature	P41109P2	2022.1874	Hoje_A_14	1	1873	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-19	72692	1879	Male		NA	22.1879	P41108_375	mature	P41108P3	2022.1879	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68896	191	Female	infuscans-obsoleta	O	22.191	P41108_462	mature	P41108P4	2022.191	Lomma	1	192	181	Adult	NA	Lomma_F	Lomma_O	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68897	192	Male		NA	22.192	P41108_463	mature	P41108P4	2022.192	Lomma	1	191	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68905	200	Male		NA	22.200	P41109_129	mature	P41109P1	2022.200	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68906	201	Male		NA	22.201	P41109_130	mature	P41109P1	2022.201	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68914	208	Female	androchrome	A	22.208	P41108_242	immature	P41108P2	2022.208	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73217	2133	Male		NA	22.2133	P41109_176	mature	P41109P1	2022.2133	Hoje_A_14	1	2134	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73218	2134	Female	androchrome	A	22.2134	P41109_177	mature	P41109P1	2022.2134	Hoje_A_14	1	2133	0	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73219	2135	Male		NA	22.2135	P41109_229	mature	P41109P2	2022.2135	Hoje_A_14	1	2136	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73220	2136	Female	androchrome	A	22.2136	P41109_175	mature	P41109P1	2022.2136	Hoje_A_14	1	2135	118	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73227	2143	Female	infuscans	I	22.2143	P41109_475	immature	P41109P4	2022.2143	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73229	2145	Male		NA	22.2145	P41108_376	mature	P41108P3	2022.2145	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73230	2146	Male		NA	22.2146	P41108_377	mature	P41108P3	2022.2146	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73231	2147	Male		NA	22.2147	P41108_378	mature	P41108P3	2022.2147	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-07-28	73534	2344	Female	androchrome	A	22.2344	P41108_333	mature	P41108P3	2022.2344	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-28	73557	2348	Female	androchrome	A	22.2348	P41109_158	mature	P41109P1	2022.2348	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-28	73558	2349	Female	infuscans	I	22.2349	P41109_183	mature	P41109P1	2022.2349	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-28	73562	2352	Male		NA	22.2352	P41109_274	mature	P41109P2	2022.2352	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-31	73843	2536	Female	infuscans-obsoleta	O	22.2536	P41108_407	immature	P41108P4	2022.2536	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_O	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-31	73845	2538	Female	infuscans-obsoleta	O	22.2538	P41108_408	immature	P41108P4	2022.2538	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_O	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-16	69473	289	Female	androchrome	A	22.289	P41108_434	mature	P41108P4	2022.289	Hoje_A_7	1	290	325	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-16	69474	290	Male		NA	22.290	P41108_436	mature	P41108P4	2022.290	Hoje_A_7	1	289	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-16	69477	293	Male		NA	22.293	P41108_256	mature	P41108P2	2022.293	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-16	69479	295	Male		NA	22.295	P41108_257	mature	P41108P2	2022.295	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-16	69481	297	Male		NA	22.297	P41108_258	mature	P41108P2	2022.297	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-16	69517	320	Male		NA	22.320	P41108_372	mature	P41108P3	2022.320	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-16	69520	323	Female	androchrome	A	22.323	P41109_387	immature	P41109P3	2022.323	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-16	69521	324	Male		NA	22.324	P41108_373	mature	P41108P3	2022.324	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69637	401	Female	androchrome	A	22.401	P41108_119	mature	P41108P1	2022.401	Genarp	1	402	398	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69638	402	Male		NA	22.402	P41109_276	mature	P41109P2	2022.402	Genarp	1	401	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69655	419	Male		NA	22.419	P41109_469	mature	P41109P4	2022.419	Genarp	1	420	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69656	420	Female	androchrome	A	22.420	P41109_189	mature	P41109P1	2022.420	Genarp	1	419	341	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69665	429	Male		NA	22.429	P41109_275	mature	P41109P2	2022.429	Genarp	1	430	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69666	430	Female	infuscans	I	22.430	P41109_185	mature	P41109P1	2022.430	Genarp	1	429	14	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69671	435	Female	androchrome	A	22.435	P41109_186	mature	P41109P1	2022.435	Genarp	1	436	58	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69672	436	Male		NA	22.436	P41108_120	mature	P41108P1	2022.436	Genarp	1	435	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69694	458	Male		NA	22.458	P41109_159	mature	P41109P1	2022.458	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69695	459	Male		NA	22.459	P41109_363	mature	P41109P3	2022.459	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69709	469	Female	infuscans-obsoleta	O	22.469	P41109_190	mature	P41109P1	2022.469	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_O	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69710	470	Female	androchrome	A	22.470	P41109_153	immature	P41109P1	2022.470	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-03	67863	6	Female	androchrome	A	22.6	P41108_323	immature	P41108P3	2022.6	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70015	613	Female	androchrome	A	22.613	P41108_243	immature	P41108P2	2022.613	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70016	614	Female	androchrome	A	22.614	P41108_244	immature	P41108P2	2022.614	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70018	616	Female	androchrome	A	22.616	P41108_245	immature	P41108P2	2022.616	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70019	617	Female	androchrome	A	22.617	P41108_246	immature	P41108P2	2022.617	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70020	618	Female	androchrome	A	22.618	P41108_247	immature	P41108P2	2022.618	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70029	626	Male		NA	22.626	P41109_131	mature	P41109P1	2022.626	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70030	627	Male		NA	22.627	P41109_132	mature	P41109P1	2022.627	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70051	635	Male		NA	22.635	P41109_138	mature	P41109P1	2022.635	Lomma	1	636	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70052	636	Female	androchrome	A	22.636	P41108_466	mature	P41108P4	2022.636	Lomma	1	635	126	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70059	643	Female	androchrome	A	22.643	P41108_467	mature	P41108P4	2022.643	Lomma	1	6444	224	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70060	644	Male		NA	22.644	P41109_139	mature	P41109P1	2022.644	Lomma	1	643	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70063	647	Male		NA	22.647	P41109_140	mature	P41109P1	2022.647	Lomma	1	648	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70063	648	Female	androchrome	A	22.648	P41108_468	mature	P41108P4	2022.648	Lomma	1	647	24	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70064	649	Male		NA	22.649	P41109_321	immature	P41109P3	2022.649	Lomma	1	650	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70065	650	Female	androchrome	A	22.650	P41108_475	mature	P41108P4	2022.650	Lomma	1	649	251	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70066	651	Female	androchrome	A	22.651	P41108_469	mature	P41108P4	2022.651	Lomma	1	652	490	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70068	653	Male		NA	22.653	P41108_470	mature	P41108P4	2022.653	Lomma	1	654	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70074	659	Male		NA	22.659	P41108_473	mature	P41108P4	2022.659	Lomma	1	660	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70075	660	Female	androchrome	A	22.660	P41108_474	mature	P41108P4	2022.660	Lomma	1	659	343	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70531	841	Female	androchrome	A	22.841	P41108_435	mature	P41108P4	2022.841	Hoje_A_7	1	842	433	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70532	842	Male		NA	22.842	P41108_339	mature	P41108P3	2022.842	Hoje_A_7	1	841	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70545	855	Female	infuscans	I	22.855	P41109_337	mature	P41109P3	2022.855	Hoje_A_7	1	856	581	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70547	857	Male		NA	22.857	P41108_259	mature	P41108P2	2022.857	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70548	858	Male		NA	22.858	P41108_260	mature	P41108P2	2022.858	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70550	860	Male		NA	22.860	P41108_261	mature	P41108P2	2022.860	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70552	861	Male		NA	22.861	P41108_262	mature	P41108P2	2022.861	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70555	864	Male		NA	22.864	P41108_263	mature	P41108P2	2022.864	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70557	866	Female	androchrome	A	22.866	P41108_252	mature	P41108P2	2022.866	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70558	867	Female	androchrome	A	22.867	P41108_253	immature	P41108P2	2022.867	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70559	868	Female	androchrome	A	22.868	P41108_254	immature	P41108P2	2022.868	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70560	869	Female	androchrome	A	22.869	P41108_329	immature	P41108P3	2022.869	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-28	70564	872	Female	androchrome	A	22.872	P41108_330	mature	P41108P3	2022.872	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68372	89	Female	androchrome	A	22.89	P41108_481	mature	P41108P4	2022.89	Hoje_A_7	1	90	135	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68373	90	Male		NA	22.90	P41108_484	mature	P41108P4	2022.90	Hoje_A_7	1	89	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-30	70742	909	Male		NA	22.909	P41109_277	mature	P41109P2	2022.909	Genarp	1	910	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68374	91	Female	infuscans-obsoleta	O	22.91	P41108_480	mature	P41108P4	2022.91	Hoje_A_7	1	92	307	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-30	70743	910	Female	androchrome	A	22.910	P41109_187	mature	P41109P1	2022.910	Genarp	1	909	2	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68375	92	Male		NA	22.92	P41108_487	mature	P41108P4	2022.92	Hoje_A_7	1	91	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68376	93	Male		NA	22.93	P41108_485	mature	P41108P4	2022.93	Hoje_A_7	1	94	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68377	94	Female	androchrome	A	22.94	P41108_482	mature	P41108P4	2022.94	Hoje_A_7	1	93	61	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68378	95	Female	androchrome	A	22.95	P41108_483	mature	P41108P4	2022.95	Hoje_A_7	1	96	419	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-30	70788	956	Female	androchrome	A	22.956	P41109_154	mature	P41109P1	2022.956	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68379	96	Male		NA	22.96	P41108_486	mature	P41108P4	2022.96	Hoje_A_7	1	95	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68380	97	Female	infuscans-obsoleta	O	22.97	P41109_338	mature	P41109P3	2022.97	Hoje_A_7	1	98	291	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-30	70810	976	Male		NA	22.976	P41109_364	mature	P41109P3	2022.976	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-30	70814	979	Male		NA	22.979	P41109_365	mature	P41109P3	2022.979	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68381	98	Male		NA	22.98	P41109_339	mature	P41109P3	2022.98	Hoje_A_7	1	97	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2022_Ad_Hoje_A_7	2022	2022-06-07	68382	99	Female	infuscans	I	22.99	P41108_477	mature	P41108P4	2022.99	Hoje_A_7	1	100	362	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-07-11	76723	1038	Female	infuscans	I	23.1038	P41108_228	mature	P41108P2	2023.1038	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-07-11	76724	1039	Female	infuscans	I	23.1039	P41108_229	mature	P41108P2	2023.1039	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-07-11	76725	1040	Female	infuscans	I	23.1040	P41108_442	mature	P41108P4	2023.1040	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-07-11	76730	1041	Male		NA	23.1041	P41108_279	mature	P41108P2	2023.1041	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-15	76891	1070	Male		NA	23.1070	P41108_238	mature	P41108P2	2023.1070	Hoje_A_14	1	1071	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-15	76892	1071	Female	androchrome	A	23.1071	P41108_239	mature	P41108P2	2023.1071	Hoje_A_14	1	1070	271	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-15	76897	1078	Female	androchrome	A	23.1078	P41108_187	mature	P41108P1	2023.1078	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-15	76898	1079	Female	androchrome	A	23.1079	P41108_188	mature	P41108P1	2023.1079	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-18	77038	1106	Female	infuscans	I	23.1106	P41108_225	mature	P41108P2	2023.1106	Genarp	1	1107	110	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-18	77039	1107	Male		NA	23.1107	P41108_455	mature	P41108P4	2023.1107	Genarp	1	1106	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-18	77041	1109	Female		I	23.1109	P41108_126	mature	P41108P1	2023.1109	Genarp	1	1108	0	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-18	77043	1111	Female		A	23.1111	P41108_122	mature	P41108P1	2023.1111	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-18	77044	1112	Female	androchrome	A	23.1112	P41108_449	mature	P41108P4	2023.1112	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-18	77045	1113	Female	androchrome	A	23.1113	P41108_450	mature	P41108P4	2023.1113	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-18	77049	1114	Male		NA	23.1114	P41108_452	mature	P41108P4	2023.1114	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-18	77050	1115	Male		NA	23.1115	P41108_453	mature	P41108P4	2023.1115	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-04	74582	114	Male		NA	23.114	P41108_457	mature	P41108P4	2023.114	Genarp	1	115	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-04	74583	115	Female	androchrome	A	23.115	P41108_458	mature	P41108P4	2023.115	Genarp	0	114	321	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-07-21	77266	1154	Female	infuscans-obsoleta	O	23.1154	P41109_409	immature	P41109P4	2023.1154	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-07-21	77267	1155	Female	infuscans-obsoleta	O	23.1155	P41109_417	immature	P41109P4	2023.1155	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-07-21	77284	1161	Male		NA	23.1161	P41109_467	mature	P41109P4	2023.1161	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-07-24	77359	1178	Male		NA	23.1178	P41108_250	mature	P41108P2	2023.1178	Lomma	1	1179	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-07-24	77361	1179	Female	androchrome	A	23.1179	P41108_180	mature	P41108P1	2023.1179	Lomma	1	1178	6	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-07-24	77362	1182	Female	androchrome	A	23.1182	P41108_167	mature	P41108P1	2023.1182	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-07-24	77368	1184	Male		NA	23.1184	P41108_177	mature	P41108P1	2023.1184	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-24	77378	1186	Female	androchrome	A	23.1186	P41109_118	mature	P41109P1	2023.1186	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-24	77379	1189	Female	androchrome	A	23.1189	P41108_189	mature	P41108P1	2023.1189	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-24	77399	1197	Male		NA	23.1197	P41108_193	mature	P41108P1	2023.1197	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-27	77554	1262	Male		NA	23.1262	P41108_491	mature	P41108P4	2023.1262	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-27	77555	1263	Male		NA	23.1263	P41108_223	mature	P41108P2	2023.1263	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-04	74596	127	Female		A	23.127	P41109_488	immature	P41109P4	2023.127	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-29	77607	1272	Male		NA	23.1272	P41108_194	mature	P41108P1	2023.1272	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-29	77604	1274	Female	androchrome	A	23.1274	P41109_119	mature	P41109P1	2023.1274	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-04	74597	128	Female	androchrome	A	23.128	P41109_489	mature	P41109P4	2023.128	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-04	74600	130	Male		NA	23.130	P41108_219	mature	P41108P2	2023.130	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-08-05	77796	1316	Female		O	23.1316	P41108_170	immature	P41108P1	2023.1316	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_O	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-08-05	77797	1317	Female		O	23.1317	P41109_389	immature	P41109P3	2023.1317	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_O	Lomma_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-04	74605	134	Male		NA	23.134	P41108_490	mature	P41108P4	2023.134	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-05-29	74076	20	Male		NA	23.20	P41108_230	mature	P41108P2	2023.20	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-05-29	74093	22	Male		NA	23.22	P41108_231	mature	P41108P2	2023.22	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74840	244	Male		NA	23.244	P41108_280	mature	P41108P2	2023.244	Hoje_A_7	1	245	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74842	246	Female	infuscans	I	23.246	P41108_203	mature	P41108P2	2023.246	Hoje_A_7	1	247	0	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74843	247	Male		NA	23.247	P41108_236	mature	P41108P2	2023.247	Hoje_A_7	1	246	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74844	248	Female	infuscans	I	23.248	P41108_287	mature	P41108P2	2023.248	Hoje_A_7	1	249	187	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74845	249	Male		NA	23.249	P41108_237	mature	P41108P2	2023.249	Hoje_A_7	1	248	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74846	250	Female	androchrome	A	23.250	P41108_204	mature	P41108P2	2023.250	Hoje_A_7	1	251	0	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74847	251	Male		NA	23.251	P41108_281	mature	P41108P2	2023.251	Hoje_A_7	1	250	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74850	254	Male		NA	23.254	P41108_282	mature	P41108P2	2023.254	Hoje_A_7	1	255	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74851	255	Female	androchrome	A	23.255	P41108_290	mature	P41108P2	2023.255	Hoje_A_7	1	254	238	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74853	256	Female	infuscans-obsoleta	O	23.256	P41108_443	mature	P41108P4	2023.256	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74855	257	Female		A	23.257	P41108_438	mature	P41108P4	2023.257	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-05-29	74122	26	Male		NA	23.26	P41108_444	mature	P41108P4	2023.26	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74860	260	Female		A	23.260	P41108_181	mature	P41108P1	2023.260	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74871	263	Male		NA	23.263	P41108_232	mature	P41108P2	2023.263	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74873	264	Male		NA	23.264	P41108_233	mature	P41108P2	2023.264	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74874	265	Male		NA	23.265	P41108_234	mature	P41108P2	2023.265	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74875	266	Male		NA	23.266	P41108_235	mature	P41108P2	2023.266	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74877	267	Male		NA	23.267	P41108_276	mature	P41108P2	2023.267	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74880	268	Male		NA	23.268	P41108_277	mature	P41108P2	2023.268	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-07	74883	269	Male		NA	23.269	P41108_278	mature	P41108P2	2023.269	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75023	276	Female	androchrome	A	23.276	P41108_320	mature	P41108P3	2023.276	Hoje_A_14	1	277	20	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75024	277	Male		NA	23.277	P41108_241	mature	P41108P2	2023.277	Hoje_A_14	1	276	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-05-29	74141	28	Male		NA	23.28	P41108_445	mature	P41108P4	2023.28	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75033	286	Female	androchrome	A	23.286	P41109_125	mature	P41109P1	2023.286	Hoje_A_14	1	287	257	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75034	287	Male		NA	23.287	P41109_448	mature	P41109P4	2023.287	Hoje_A_14	1	286	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75042	295	Male		NA	23.295	P41108_191	mature	P41108P1	2023.295	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75043	296	Male		NA	23.296	P41108_192	mature	P41108P1	2023.296	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-05-29	74144	30	Male		NA	23.30	P41108_437	mature	P41108P4	2023.30	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-05-30	74179	34	Male		NA	23.34	P41108_413	mature	P41108P4	2023.34	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-05-30	74192	35	Female		I	23.35	P41108_412	immature	P41108P4	2023.35	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75317	456	Female	androchrome	A	23.456	P41108_420	mature	P41108P4	2023.456	Lomma	1	457	49	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75318	457	Male		NA	23.457	P41108_421	mature	P41108P4	2023.457	Lomma	1	456	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75319	458	Female	androchrome	A	23.458	P41108_422	mature	P41108P4	2023.458	Lomma	1	459	0	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75320	459	Male		NA	23.459	P41108_423	mature	P41108P4	2023.459	Lomma	1	458	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75321	460	Female		A	23.460	P41108_418	mature	P41108P4	2023.460	Lomma	1	461	12	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75322	461	Male		NA	23.461	P41108_419	mature	P41108P4	2023.461	Lomma	1	460	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75329	468	Male		NA	23.468	P41108_416	mature	P41108P4	2023.468	Lomma	1	469	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75330	469	Female		A	23.469	P41108_417	mature	P41108P4	2023.469	Lomma	1	468	6	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75331	470	Female	infuscans-obsoleta	O	23.470	P41108_414	mature	P41108P4	2023.470	Lomma	1	471	56	Adult	NA	Lomma_F	Lomma_O	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75332	471	Male		NA	23.471	P41108_415	mature	P41108P4	2023.471	Lomma	1	470	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75335	474	Female		A	23.474	P41108_409	mature	P41108P4	2023.474	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75337	476	Female		A	23.476	P41108_410	immature	P41108P4	2023.476	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75339	478	Female		A	23.478	P41108_411	immature	P41108P4	2023.478	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75340	479	Female		A	23.479	P41108_166	mature	P41108P1	2023.479	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75342	480	Female		A	23.480	P41108_168	immature	P41108P1	2023.480	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75344	482	Male		NA	23.482	P41108_171	mature	P41108P1	2023.482	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75347	483	Male		NA	23.483	P41108_172	mature	P41108P1	2023.483	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75348	484	Male		NA	23.484	P41108_173	mature	P41108P1	2023.484	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75349	485	Male		NA	23.485	P41108_174	mature	P41108P1	2023.485	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75354	487	Male		NA	23.487	P41108_175	mature	P41108P1	2023.487	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75375	490	Male		NA	23.490	P41108_456	mature	P41108P4	2023.490	Genarp	1	491	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75376	491	Female		I	23.491	P41108_183	mature	P41108P1	2023.491	Genarp	1	490	0	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75377	492	Female	androchrome	A	23.492	P41109_426	mature	P41109P4	2023.492	Genarp	1	493	361	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75378	493	Male		NA	23.493	P41108_459	mature	P41108P4	2023.493	Genarp	1	492	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75379	494	Female	androchrome	A	23.494	P41108_313	mature	P41108P3	2023.494	Genarp	1	495	92	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75380	495	Male		NA	23.495	P41108_492	mature	P41108P4	2023.495	Genarp	1	494	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75383	498	Male		NA	23.498	P41108_460	mature	P41108P4	2023.498	Genarp	1	499	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75384	499	Female		A	23.499	P41108_184	mature	P41108P1	2023.499	Genarp	1	498	2	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75385	500	Male		NA	23.500	P41108_461	mature	P41108P4	2023.500	Genarp	1	501	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75386	501	Female	androchrome	A	23.501	P41108_314	mature	P41108P3	2023.501	Genarp	1	500	0	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75393	508	Male		NA	23.508	P41108_454	mature	P41108P4	2023.508	Genarp	1	509	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75394	509	Female	infuscans-obsoleta	O	23.509	P41108_224	mature	P41108P2	2023.509	Genarp	1	508	379	Adult	NA	Genarp_F	Genarp_O	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75404	519	Female	infuscans-obsoleta	O	23.519	P41108_218	immature	P41108P2	2023. 519	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_O	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75406	521	Female		I	23.521	P41108_123	mature	P41108P1	2023.521	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75409	524	Female		I	23.524	P41108_124	mature	P41108P1	2023.524	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75422	535	Male		NA	23.535	P41108_451	mature	P41108P4	2023.535	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75425	538	Male		NA	23.538	P41108_220	mature	P41108P2	2023.538	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-01	74406	56	Female		A	23.56	P41108_315	mature	P41108P3	2023.56	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-01	74407	57	Male		NA	23.57	P41108_316	mature	P41108P3	2023.57	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-01	74428	58	Male		NA	23.58	P41108_321	mature	P41108P3	2023.58	Hoje_A_14	1	59	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-01	74429	59	Female	androchrome	A	23.59	P41108_322	mature	P41108P3	2023.59	Hoje_A_14	1	58	299	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75755	675	Male		NA	23.675	P41109_411	mature	P41109P4	2023.675	Hoje_A_7	1	676	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75759	676	Female	androchrome	A	23.676	P41109_415	mature	P41109P4	2023.676	Hoje_A_7	1	675	0	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75761	677	Male		NA	23.677	P41109_412	mature	P41109P4	2023.677	Hoje_A_7	1	678	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75764	678	Female	androchrome	A	23.678	P41109_416	mature	P41109P4	2023.678	Hoje_A_7	1	677	242	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75799	696	Male		NA	23.696	P41109_410	mature	P41109P4	2023.696	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75756	699	Male		NA	23.699	P41108_283	mature	P41108P2	2023.699	Hoje_A_7	1	700	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75760	700	Female	androchrome	A	23.700	P41108_291	mature	P41108P2	2023.700	Hoje_A_7	1	699	401	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75777	709	Female		A	23.709	P41108_205	mature	P41108P2	2023.709	Hoje_A_7	1	710	188	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75779	710	Male		NA	23.710	P41108_201	mature	P41108P2	2023.710	Hoje_A_7	1	709	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75781	711	Female	androchrome	A	23.711	P41108_206	mature	P41108P2	2023.711	Hoje_A_7	1	712	13	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75785	712	Male		NA	23.712	P41108_202	mature	P41108P2	2023.712	Hoje_A_7	1	711	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75788	713	Female	infuscans	I	23.713	P41108_288	mature	P41108P2	2023.713	Hoje_A_7	1	714	76	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75792	714	Male		NA	23.714	P41108_285	mature	P41108P2	2023.714	Hoje_A_7	1	713	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75790	715	Female	infuscans-obsoleta	O	23.715	P41108_289	mature	P41108P2	2023.715	Hoje_A_7	1	716	253	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75791	716	Male		NA	23.716	P41108_284	mature	P41108P2	2023.716	Hoje_A_7	1	715	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75795	717	Male		NA	23.717	P41108_286	mature	P41108P2	2023.717	Hoje_A_7	1	718	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75796	718	Female	androchrome	A	23.718	P41108_207	mature	P41108P2	2023.718	Hoje_A_7	1	717	349	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-20	75797	719	Female		A	23.719	P41108_439	mature	P41108P4	2023.719	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76014	795	Female	androchrome	A	23.795	P41108_178	mature	P41108P1	2023.795	Lomma	1	796	22	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76015	796	Male		NA	23.796	P41108_179	mature	P41108P1	2023.796	Lomma	1	795	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76024	800	Female	infuscans-obsoleta	O	23.800	P41108_169	immature	P41108P1	2023.800	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_O	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76028	803	Female	androchrome	A	23.803	P41108_248	immature	P41108P2	2023.803	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76040	804	Male		NA	23.804	P41108_176	mature	P41108P1	2023.804	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76043	807	Male		NA	23.807	P41108_249	mature	P41108P2	2023.807	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76071	810	Female	androchrome	A	23.810	P41108_240	mature	P41108P2	2023.810	Hoje_A_14	1	811	64	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76072	811	Male		NA	23.811	P41108_319	mature	P41108P3	2023.811	Hoje_A_14	1	810	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76073	812	Female	androchrome	A	23.812	P41108_251	mature	P41108P2	2023.812	Lomma	0	813	275	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76081	820	Female	androchrome	A	23.820	P41109_123	mature	P41109P1	2023.820	Hoje_A_14	1	821	0	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76082	821	Male		NA	23.821	P41109_124	mature	P41109P1	2023.821	Hoje_A_14	1	820	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76103	842	Male		NA	23.842	P41108_317	mature	P41108P3	2023.842	Hoje_A_14	1	843	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76104	843	Female	infuscans-obsoleta	O	23.843	P41108_318	mature	P41108P3	2023.843	Hoje_A_14	1	842	319	Adult	NA	Hoje_A_14_F	Hoje_A_14_O	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76109	848	Male		NA	23.848	P41109_121	mature	P41109P1	2023.848	Hoje_A_14	1	849	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76110	849	Female	infuscans	I	23.849	P41109_122	mature	P41109P1	2023.849	Hoje_A_14	1	848	0	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76111	850	Female	infuscans-obsoleta	O	23.850	P41108_190	mature	P41108P1	2023.850	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_O	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76112	851	Female		A	23.851	P41108_185	mature	P41108P1	2023.851	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76113	852	Female	androchrome	A	23.852	P41108_186	mature	P41108P1	2023.852	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76135	870	Male		NA	23.870	P41109_476	mature	P41109P4	2023.870	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76144	877	Male		NA	23.877	P41109_120	mature	P41109P1	2023.877	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-29	76209	894	Female	infuscans	I	23.894	P41109_414	mature	P41109P4	2023.894	Hoje_A_7	1	895	50	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-29	76210	895	Male		NA	23.895	P41109_413	mature	P41109P4	2023.895	Hoje_A_7	1	894	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-29	76214	898	Female	androchrome	A	23.898	P41108_440	mature	P41108P4	2023.898	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-06-29	76216	899	Female	androchrome	A	23.899	P41108_441	mature	P41108P4	2023.899	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-09	76536	975	Male		NA	23.975	P41108_221	mature	P41108P2	2023.975	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-09	76537	976	Male		NA	23.976	P41108_222	mature	P41108P2	2023.976	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-09	76541	979	Female		A	23.979	P41108_121	mature	P41108P1	2023.979	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-09	76544	980	Female		I	23.980	P41108_125	mature	P41108P1	2023.980	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-07-10	76560	985	Female	androchrome	A	23.985	P41108_182	mature	P41108P1	2023.985	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-07-10	76562	988	Female	androchrome	A	23.988	P41108_226	mature	P41108P2	2023.988	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2023_Ad_Hoje_A_7	2023	2023-07-10	76565	989	Female	androchrome	A	23.989	P41108_227	mature	P41108P2	2023.989	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-05-20	77968	10	Male		NA	24.10	P41109_370	mature	P41109P3	2024.10	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80932	1006	Female	infuscans-obsoleta	O	24.1006	P41108_131	mature	P41108P1	2024.1006	Genarp	1	1005	139	Adult	NA	Genarp_F	Genarp_O	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80948	1018	Female	infuscans-obsoleta	O	24.1018	P41109_431	mature	P41109P4	2024.1018	Genarp	1	1019	320	Adult	NA	Genarp_F	Genarp_O	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80949	1019	Male		NA	24.1019	P41109_432	mature	P41109P4	2024.1019	Genarp	1	1018	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-05-27	78420	102	Male		NA	24.102	P41109_325	mature	P41109P3	2024.102	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80941	1022	Female	androchrome	A	24.1022	P41109_435	mature	P41109P4	2024.1022	Genarp	1	1023	279	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80942	1023	Male		NA	24.1023	P41109_114	mature	P41109P1	2024.1023	Genarp	1	1022	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80952	1033	Male		NA	24.1033	P41109_434	mature	P41109P4	2024.1033	Genarp	1	1034	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80950	1034	Female	infuscans	I	24.1034	P41109_433	mature	P41109P4	2024.1034	Genarp	1	1033	393	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80967	1043	Male		NA	24.1043	P41109_428	mature	P41109P4	2024.1043	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80968	1044	Male		NA	24.1044	P41109_429	mature	P41109P4	2024.1044	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-05-27	78424	105	Female	infuscans-obsoleta	O	24.105	P41109_323	immature	P41109P3	2024.105	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_O	Lomma_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81181	1066	Female	infuscans	I	24.1066	P41109_456	mature	P41109P4	2024.1066	Hoje_A_14	1	1067	415	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81182	1067	Male		NA	24.1067	P41109_457	mature	P41109P4	2024.1067	Hoje_A_14	1	1066	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81144	1108	Female	androchrome	A	24.1108	P41108_149	mature	P41108P1	2024.1108	Hoje_A_14	1	1109	396	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81143	1109	Male		NA	24.1109	P41108_150	mature	P41108P1	2024.1109	Hoje_A_14	1	1108	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81146	1111	Female	androchrome	A	24.1111	P41109_490	mature	P41109P4	2024.1111	Hoje_A_14	1	1110	22	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81217	1114	Male		NA	24.1114	P41108_141	mature	P41108P1	2024.1114	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81207	1115	Female	androchrome	A	24.1115	P41108_138	mature	P41108P1	2024.1115	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81210	1121	Female	infuscans	I	24.1121	P41109_452	mature	P41109P4	2024.1121	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81196	1124	Female	androchrome	A	24.1124	P41108_136	mature	P41108P1	2024.1124	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81203	1133	Female		A	24.1133	P41108_137	mature	P41108P1	2024.1133	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81209	1137	Female	androchrome	A	24.1137	P41108_164	mature	P41108P1	2024.1137	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81236	1145	Male		NA	24.1145	P41109_453	mature	P41109P4	2024.1145	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81221	1152	Male		NA	24.1152	P41108_165	mature	P41108P1	2024.1152	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81218	1153	Male		NA	24.1153	P41108_142	mature	P41108P1	2024.1153	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81216	1154	Male		NA	24.1154	P41108_140	mature	P41108P1	2024.1154	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81213	1156	Male		NA	24.1156	P41108_139	mature	P41108P1	2024.1156	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-05-20	77972	12	Male		NA	24.12	P41109_371	mature	P41109P3	2024.12	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-24	81386	1249	Female	androchrome	A	24.1249	P41108_107	mature	P41108P1	2024.1249	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-24	81378	1251	Female	infuscans	I	24.1251	P41108_111	mature	P41108P1	2024.1251	Hoje_A_7	1	1252	200	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-24	81380	1252	Male		NA	24.1252	P41108_216	mature	P41108P2	2024.1252	Hoje_A_7	1	1251	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-24	81566	1254	Male		NA	24.1254	P41108_217	mature	P41108P2	2024.1254	Hoje_A_7	1	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-24	81396	1255	Male		NA	24.1255	P41108_210	mature	P41108P2	2024.1255	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-24	81382	1256	Female	infuscans-obsoleta	O	24.1256	P41109_423	immature	P41109P4	2024.1256	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-24	81398	1257	Male		NA	24.1257	P41108_211	mature	P41108P2	2024.1257	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-05-20	77982	13	Female		A	24.13	P41109_340	mature	P41109P3	2024.13	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81646	1373	Female	infuscans-obsoleta	O	24.1373	P41109_243	immature	P41109P2	2024.1373	Lomma	1	1374	314	Adult	NA	Lomma_F	Lomma_O	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81648	1374	Male		NA	24.1374	P41109_244	immature	P41109P2	2024.1374	Lomma	1	1373	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81645	1378	Female	androchrome	A	24.1378	P41109_245	mature	P41109P2	2024.1378	Lomma	1	1381	374	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81647	1381	Male		NA	24.1381	P41109_246	mature	P41109P2	2024.1381	Lomma	1	1378	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81654	1387	Female	androchrome	A	24.1387	P41109_237	mature	P41109P2	2024.1387	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81656	1389	Female		A	24.1389	P41109_465	immature	P41109P4	2024.1389	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81663	1390	Male		NA	24.1390	P41109_241	mature	P41109P2	2024.1390	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81665	1391	Male		NA	24.1391	P41109_242	mature	P41109P2	2024.1391	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81666	1392	Male		NA	24.1392	P41109_390	mature	P41109P3	2024.1392	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81667	1393	Male		NA	24.1393	P41109_391	mature	P41109P3	2024.1393	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-05-20	77986	14	Female	infuscans-obsoleta	O	24.14	P41109_152	immature	P41109P1	2024.14	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-28	81708	1411	Female		A	24.1411	P41109_427	mature	P41109P4	2024.1411	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81935	1469	Female	androchrome	A	24.1469	P41109_460	mature	P41109P4	2024.1469	Hoje_A_14	1	1470	0	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81938	1470	Male		NA	24.1470	P41109_461	mature	P41109P4	2024.1470	Hoje_A_14	1	1469	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81936	1481	Male		NA	24.1481	P41109_458	mature	P41109P4	2024.1481	Hoje_A_14	1	1482	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81937	1482	Female	androchrome	A	24.1482	P41109_459	mature	P41109P4	2024.1482	Hoje_A_14	1	1481	371	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81950	1484	Male		NA	24.1484	P41109_454	mature	P41109P4	2024.1484	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-05-21	77992	15	Female		A	24.15	P41109_278	immature	P41109P2	2024.15	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81973	1504	Female	androchrome	A	24.1504	P41109_451	mature	P41109P4	2024.1504	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-05-29	78712	154	Female		A	24.154	P41109_341	mature	P41109P3	2024.154	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-05-29	78715	155	Female		A	24.155	P41109_151	immature	P41109P1	2024.155	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-05-29	78723	156	Male		NA	24.156	P41109_145	mature	P41109P1	2024.156	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-03	82166	1566	Female	androchrome	A	24.1566	P41108_208	mature	P41108P2	2024.1566	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-05-29	78724	157	Male		NA	24.157	P41109_146	mature	P41109P1	2024.157	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-03	82168	1575	Male		NA	24.1575	P41108_213	mature	P41108P2	2024.1575	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-03	82163	1576	Female	infuscans-obsoleta	O	24.1576	P41108_209	mature	P41108P2	2024.1576	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-03	82165	1577	Male		NA	24.1577	P41108_212	mature	P41108P2	2024.1577	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-05-31	78742	159	Female	androchrome	A	24.159	P41109_486	immature	P41109P4	2024.159	Genarp	1	158	239	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-05-31	78743	160	Female	androchrome	A	24.160	P41109_279	immature	P41109P2	2024.160	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-05-31	78744	161	Male		NA	24.161	P41109_285	mature	P41109P2	2024.161	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-05-21	77995	17	Male		NA	24.17	P41109_283	mature	P41109P2	2024.17	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-08	82664	1727	Female		A	24.1727	P41109_473	mature	P41109P4	2024.1727	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-08	82667	1729	Male		NA	24.1729	P41108_130	mature	P41108P1	2024.1729	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-08	82666	1730	Male		NA	24.1730	P41108_129	mature	P41108P1	2024.1730	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-07-09	82719	1731	Female	androchrome	A	24.1731	P41109_238	mature	P41109P2	2024.1731	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-05-21	77996	18	Male		NA	24.18	P41109_284	mature	P41109P2	2024.18	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-14	83015	1836	Male		NA	24.1836	P41108_214	mature	P41108P2	2024.1836	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-14	83016	1837	Male		NA	24.1837	P41108_215	mature	P41108P2	2024.1837	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-14	83017	1838	Female	androchrome	A	24.1838	P41109_345	mature	P41109P3	2024.1838	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-14	83021	1839	Female	androchrome	A	24.1839	P41109_346	immature	P41109P3	2024.1839	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-18	83186	1892	Female	androchrome	A	24.1892	P41109_115	mature	P41109P1	2024.1892	Genarp	1	1893	6	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-18	83187	1893	Male		NA	24.1893	P41109_116	mature	P41109P1	2024.1893	Genarp	1	1892	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-18	83189	1895	Male		NA	24.1895	P41109_430	mature	P41109P4	2024.1895	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-18	83196	1896	Female	infuscans-obsoleta	O	24.1896	P41108_127	mature	P41108P1	2024.1896	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_O	Genarp_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-21	83413	2007	Male		NA	24.2007	P41109_455	mature	P41109P4	2024.2007	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-21	83417	2011	Female	androchrome	A	24.2011	P41109_477	mature	P41109P4	2024.2011	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-23	83487	2016	Female	androchrome	A	24.2016	P41108_110	mature	P41108P1	2024.2016	Hoje_A_7	1	2017	311	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Borgeby	2024	2024-07-23	83488	2017	Male		NA	24.2017	P41108_109	mature	P41108P1	2024.2017	Borgeby	1	2016	NA	Adult	NA	Borgeby_M	Borgeby_NA	Borgeby_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-23	83489	2018	Male		NA	24.2018	P41109_420	mature	P41109P4	2024.2018	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-23	83490	2019	Female	infuscans-obsoleta	O	24.2019	P41109_419	mature	P41109P4	2024.2019	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-25	83667	2108	Female	infuscans-obsoleta	O	24.2108	P41108_128	immature	P41108P1	2024.2108	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_O	Genarp_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-07-26	83769	2121	Female		A	24.2121	P41109_239	mature	P41109P2	2024.2121	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-07-26	83770	2122	Female	androchrome	A	24.2122	P41109_240	mature	P41109P2	2024.2122	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-30	83962	2172	Female	infuscans-obsoleta	O	24.2172	P41109_424	immature	P41109P4	2024.2172	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_O	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-30	83959	2173	Male		NA	24.2173	P41109_421	mature	P41109P4	2024.2173	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-07-30	83961	2174	Male		NA	24.2174	P41109_422	mature	P41109P4	2024.2174	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79436	449	Male		NA	24.449	P41109_392	mature	P41109P3	2024.449	Lomma	1	450	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79437	450	Female	infuscans	I	24.450	P41109_401	mature	P41109P4	2024.450	Lomma	1	449	71	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79439	452	Male		NA	24.452	P41109_393	mature	P41109P3	2024.452	Lomma	1	451	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79440	453	Female	infuscans-obsoleta	O	24.453	P41109_324	immature	P41109P3	2024.453	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_O	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79445	455	Female	androchrome	A	24.455	P41109_322	mature	P41109P3	2024.455	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79448	456	Male		NA	24.456	P41109_326	mature	P41109P3	2024.456	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79449	457	Male		NA	24.457	P41109_327	mature	P41109P3	2024.457	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-07	79721	536	Female	androchrome	A	24.536	P41108_143	mature	P41108P1	2024.536	Hoje_A_14	1	537	229	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-07	79725	537	Male		NA	24.537	P41108_144	immature	P41108P1	2024.537	Hoje_A_14	1	536	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-07	79733	552	Male		NA	24.552	P41108_145	immature	P41108P1	2024.552	Hoje_A_14	1	553	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-07	79736	553	Female	androchrome	A	24.553	P41108_146	mature	P41108P1	2024.553	Hoje_A_14	1	552	20	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-07	79737	558	Male		NA	24.558	P41108_147	immature	P41108P1	2024.558	Hoje_A_14	1	559	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-07	79738	559	Female	androchrome	A	24.559	P41108_148	mature	P41108P1	2024.559	Hoje_A_14	1	558	389	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-07	79760	566	Male		NA	24.566	P41109_478	mature	P41109P4	2024.566	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-07	79776	567	Female	androchrome	A	24.567	P41108_135	mature	P41108P1	2024.567	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-07	79773	592	Female	androchrome	A	24.592	P41108_134	mature	P41108P1	2024.592	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79951	602	Female	androchrome	A	24.602	P41109_385	mature	P41109P3	2024.602	Genarp	1	603	134	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79952	603	Male		NA	24.603	P41109_386	mature	P41109P3	2024.603	Genarp	1	602	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79978	617	Female	androchrome	A	24.617	P41109_384	immature	P41109P3	2024.617	Genarp	1	610	165	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79979	626	Male		NA	24.626	P41109_287	mature	P41109P2	2024.626	Genarp	1	627	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79980	627	Female	androchrome	A	24.627	P41109_288	mature	P41109P2	2024.627	Genarp	1	626	311	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79967	638	Female	infuscans	I	24.638	P41108_132	mature	P41108P1	2024.638	Genarp	1	637	97	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	80012	641	Male		NA	24.641	P41109_286	mature	P41109P2	2024.641	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79996	643	Female		A	24.643	P41109_281	immature	P41109P2	2024.643	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79988	644	Female		A	24.644	P41109_280	immature	P41109P2	2024.644	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	80003	653	Female		A	24.653	P41109_282	immature	P41109P2	2024.653	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80178	697	Male		NA	24.697	P41108_272	mature	P41108P2	2024.697	Hoje_A_7	1	698	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80179	698	Female	infuscans	I	24.698	P41108_447	mature	P41108P4	2024.698	Hoje_A_7	1	697	495	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80180	699	Male		NA	24.699	P41108_273	mature	P41108P2	2024.699	Hoje_A_7	1	700	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-05-20	77963	7	Female	infuscans-obsoleta	O	24.7	P41109_308	immature	P41109P3	2024.7	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_O	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80181	700	Female	infuscans	I	24.700	P41108_448	mature	P41108P4	2024.700	Hoje_A_7	1	699	82	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80182	701	Female	androchrome	A	24.701	P41108_446	mature	P41108P4	2024.701	Hoje_A_7	1	702	253	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80183	702	Male		NA	24.702	P41108_274	mature	P41108P2	2024.702	Hoje_A_7	1	701	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80184	703	Male		NA	24.703	P41108_275	mature	P41108P2	2024.703	Hoje_A_7	1	704	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80185	704	Female	androchrome	A	24.704	P41108_389	mature	P41108P3	2024.704	Hoje_A_7	1	703	286	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80186	705	Female	androchrome	A	24.705	P41108_390	immature	P41108P3	2024.705	Hoje_A_7	1	706	293	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80187	706	Male		NA	24.706	P41108_388	mature	P41108P3	2024.706	Hoje_A_7	1	705	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80193	707	Male		NA	24.707	P41108_387	mature	P41108P3	2024.707	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80196	708	Male		NA	24.708	P41109_148	mature	P41109P1	2024.708	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80197	709	Male		NA	24.709	P41109_149	mature	P41109P1	2024.709	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80189	710	Male		NA	24.710	P41109_147	mature	P41109P1	2024.710	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80199	711	Male		NA	24.711	P41109_150	mature	P41109P1	2024.711	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80195	712	Female	infuscans	I	24.712	P41108_108	immature	P41108P1	2024.712	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80191	713	Female	infuscans	I	24.713	P41109_144	mature	P41109P1	2024.713	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_I	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80188	714	Female	androchrome	A	24.714	P41109_342	mature	P41109P3	2024.714	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80190	715	Female	androchrome	A	24.715	P41109_343	mature	P41109P3	2024.715	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Hoje_A_7	2024	2024-06-13	80194	716	Female	androchrome	A	24.716	P41109_344	mature	P41109P3	2024.716	Hoje_A_7	0	NA	NA	Adult	NA	Hoje_A_7_F	Hoje_A_7_A	Hoje_A_7_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80808	972	Male		NA	24.972	P41109_331	mature	P41109P3	2024.972	Lomma	1	973	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80807	973	Female	androchrome	A	24.973	P41109_332	mature	P41109P3	2024.973	Lomma	1	972	579	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80806	975	Male		NA	24.975	P41109_394	immature	P41109P3	2024.975	Lomma	1	974	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80800	976	Male		NA	24.976	P41109_334	immature	P41109P3	2024.976	Lomma	1	977	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80801	977	Female	androchrome	A	24.977	P41109_335	immature	P41109P3	2024.977	Lomma	1	976	183	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80802	978	Female	androchrome	A	24.978	P41109_333	immature	P41109P3	2024.978	Lomma	1	979	119	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80809	981	Male		NA	24.981	P41109_328	mature	P41109P3	2024.981	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80817	982	Male		NA	24.982	P41109_330	mature	P41109P3	2024.982	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80810	983	Male		NA	24.983	P41109_329	mature	P41109P3	2024.983	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80827	985	Female	androchrome	A	24.985	P41109_464	immature	P41109P4	2024.985	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80821	988	Female	androchrome	A	24.988	P41109_236	mature	P41109P2	2024.988	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80823	989	Female		A	24.989	P41109_463	immature	P41109P4	2024.989	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-25	100	NA	Male	NA	NA	L23.100	P41109_443	Larvae	P41109P4	L23.100	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-25	102	NA	Female	NA	NA	L23.102	P41109_104	Larvae	P41109P1	L23.102	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-25	103	NA	Male	NA	NA	L23.103	P41109_444	Larvae	P41109P4	L23.103	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	107	NA	Female	NA	NA	L23.107	P41108_403	Larvae	P41108P4	L23.107	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	108	NA	Male	NA	NA	L23.108	P41108_405	Larvae	P41108P4	L23.108	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	109	NA	Male	NA	NA	L23.109	P41108_406	Larvae	P41108P4	L23.109	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	11	NA	Male	NA	NA	L23.11	P41109_213	Larvae	P41109P2	L23.11	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	110	NA	Female	NA	NA	L23.110	P41108_404	Larvae	P41108P4	L23.110	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	111	NA	Male	NA	NA	L23.111	P41108_494	Larvae	P41108P4	L23.111	Genarp	NA	NA	NA	Larvae	Green	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	113	NA	Male	NA	NA	L23.113	P41109_362	Larvae	P41109P3	L23.113	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	114	NA	Female	NA	NA	L23.114	P41109_351	Larvae	P41109P3	L23.114	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	116	NA	Female	NA	NA	L23.116	P41109_352	Larvae	P41109P3	L23.116	Genarp	NA	NA	NA	Larvae	Green	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	117	NA	Male	NA	NA	L23.117	P41109_160	Larvae	P41109P1	L23.117	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	118	NA	Male	NA	NA	L23.118	P41109_161	Larvae	P41109P1	L23.118	Genarp	NA	NA	NA	Larvae	Green	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	12	NA	Female	NA	NA	L23.12	P41108_342	Larvae	P41108P3	L23.12	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	122	NA	Female	NA	NA	L23.122	P41109_353	Larvae	P41109P3	L23.122	Genarp	NA	NA	NA	Larvae	Green	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	123	NA	Male	NA	NA	L23.123	P41109_162	Larvae	P41109P1	L23.123	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	124	NA	Female	NA	NA	L23.124	P41109_354	Larvae	P41109P3	L23.124	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	125	NA	Male	NA	NA	L23.125	P41109_163	Larvae	P41109P1	L23.125	Genarp	NA	NA	NA	Larvae	Green	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	126	NA	Female	NA	NA	L23.126	P41109_355	Larvae	P41109P3	L23.126	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	127	NA	Male	NA	NA	L23.127	P41109_164	Larvae	P41109P1	L23.127	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	128	NA	Male	NA	NA	L23.128	P41109_101	Larvae	P41109P1	L23.128	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	13	NA	Female	NA	NA	L23.13	P41108_343	Larvae	P41108P3	L23.13	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	130	NA	Male	NA	NA	L23.130	P41109_165	Larvae	P41109P1	L23.130	Genarp	NA	NA	NA	Larvae	Green	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	131	NA	Female	NA	NA	L23.131	P41109_356	Larvae	P41109P3	L23.131	Genarp	NA	NA	NA	Larvae	Green	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	132	NA	Female	NA	NA	L23.132	P41109_357	Larvae	P41109P3	L23.132	Genarp	NA	NA	NA	Larvae	Clear	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	135	NA	Female	NA	NA	L23.135	P41109_358	Larvae	P41109P3	L23.135	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	136	NA	Male	NA	NA	L23.136	P41109_166	Larvae	P41109P1	L23.136	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	137	NA	Male	NA	NA	L23.137	P41109_167	Larvae	P41109P1	L23.137	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	139	NA	Male	NA	NA	L23.139	P41109_168	Larvae	P41109P1	L23.139	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	14	NA	Male	NA	NA	L23.14	P41109_214	Larvae	P41109P2	L23.14	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	140	NA	Female	NA	NA	L23.140	P41109_359	Larvae	P41109P3	L23.140	Genarp	NA	NA	NA	Larvae	Green	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	142	NA	Male	NA	NA	L23.142	P41109_169	Larvae	P41109P1	L23.142	Genarp	NA	NA	NA	Larvae	Green	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	145	NA	Female	NA	NA	L23.145	P41109_360	Larvae	P41109P3	L23.145	Genarp	NA	NA	NA	Larvae	Green	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-27	147	NA	Female	NA	NA	L23.147	P41109_361	Larvae	P41109P3	L23.147	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	15	NA	Female	NA	NA	L23.15	P41108_344	Larvae	P41108P3	L23.15	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	16	NA	Male	NA	NA	L23.16	P41109_215	Larvae	P41109P2	L23.16	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	17	NA	Male	NA	NA	L23.17	P41109_216	Larvae	P41109P2	L23.17	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	18	NA	Male	NA	NA	L23.18	P41109_217	Larvae	P41109P2	L23.18	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	19	NA	Female	NA	NA	L23.19	P41108_345	Larvae	P41108P3	L23.19	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	20	NA	Female	NA	NA	L23.20	P41108_346	Larvae	P41108P3	L23.20	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	21	NA	Male	NA	NA	L23.21	P41109_218	Larvae	P41109P2	L23.21	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	22	NA	Male	NA	NA	L23.22	P41109_219	Larvae	P41109P2	L23.22	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	23	NA	Male	NA	NA	L23.23	P41109_220	Larvae	P41109P2	L23.23	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	24	NA	Male	NA	NA	L23.24	P41109_221	Larvae	P41109P2	L23.24	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	25	NA	Male	NA	NA	L23.25	P41109_222	Larvae	P41109P2	L23.25	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	26	NA	Male	NA	NA	L23.26	P41109_223	Larvae	P41109P2	L23.26	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	27	NA	Female	NA	NA	L23.27	P41108_347	Larvae	P41108P3	L23.27	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	28	NA	Female	NA	NA	L23.28	P41108_348	Larvae	P41108P3	L23.28	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-29	280	NA	Female	NA	NA	L23.280	P41109_418	Larvae	P41109P4	L23.280	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	30	NA	Female	NA	NA	L23.30	P41108_349	Larvae	P41108P3	L23.30	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	31	NA	Male	NA	NA	L23.31	P41109_224	Larvae	P41109P2	L23.31	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	313	NA	Male	NA	NA	L23.313	P41108_101	Larvae	P41108P1	L23.313	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	315	NA	Male	NA	NA	L23.315	P41108_102	Larvae	P41108P1	L23.315	Lomma	NA	NA	NA	Larvae	Green	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	316	NA	Female	NA	NA	L23.316	P41108_104	Larvae	P41108P1	L23.316	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	317	NA	Female	NA	NA	L23.317	P41108_105	Larvae	P41108P1	L23.317	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	318	NA	Female	NA	NA	L23.318	P41108_106	Larvae	P41108P1	L23.318	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	32	NA	Male	NA	NA	L23.32	P41109_225	Larvae	P41109P2	L23.32	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	320	NA	Male	NA	NA	L23.320	P41108_103	Larvae	P41108P1	L23.320	Lomma	NA	NA	NA	Larvae	Green	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	322	NA	Male	NA	NA	L23.322	P41108_424	Larvae	P41108P4	L23.322	Lomma	NA	NA	NA	Larvae	Clear	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	324	NA	Male	NA	NA	L23.324	P41108_425	Larvae	P41108P4	L23.324	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	325	NA	Male	NA	NA	L23.325	P41108_426	Larvae	P41108P4	L23.325	Lomma	NA	NA	NA	Larvae	Green	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	326	NA	Male	NA	NA	L23.326	P41108_427	Larvae	P41108P4	L23.326	Lomma	NA	NA	NA	Larvae	Green	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	33	NA	Female	NA	NA	L23.33	P41108_350	Larvae	P41108P3	L23.33	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	330	NA	Female	NA	NA	L23.330	P41108_264	Larvae	P41108P2	L23.330	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	333	NA	Female	NA	NA	L23.333	P41108_265	Larvae	P41108P2	L23.333	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	34	NA	Female	NA	NA	L23.34	P41108_351	Larvae	P41108P3	L23.34	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	35	NA	Female	NA	NA	L23.35	P41108_352	Larvae	P41108P3	L23.35	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	36	NA	Female	NA	NA	L23.36	P41108_353	Larvae	P41108P3	L23.36	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-01	368	NA	Male	NA	NA	L23.368	P41109_445	Larvae	P41109P4	L23.368	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-01	369	NA	Male	NA	NA	L23.369	P41109_446	Larvae	P41109P4	L23.369	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	37	NA	Male	NA	NA	L23.37	P41109_226	Larvae	P41109P2	L23.37	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-01	370	NA	Male	NA	NA	L23.370	P41109_447	Larvae	P41109P4	L23.370	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-01	377	NA	Female	NA	NA	L23.377	P41109_105	Larvae	P41109P1	L23.377	Hoje_A_14	NA	NA	NA	Larvae	BrownGreen	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	38	NA	Male	NA	NA	L23.38	P41109_227	Larvae	P41109P2	L23.38	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	385	NA	Female	NA	NA	L23.385	P41108_266	Larvae	P41108P2	L23.385	Lomma	NA	NA	NA	Larvae	Green	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	39	NA	Female	NA	NA	L23.39	P41108_354	Larvae	P41108P3	L23.39	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	390	NA	Female	NA	NA	L23.390	P41108_267	Larvae	P41108P2	L23.390	Lomma	NA	NA	NA	Larvae	Green	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	391	NA	Female	NA	NA	L23.391	P41108_268	Larvae	P41108P2	L23.391	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	393	NA	Female	NA	NA	L23.393	P41108_269	Larvae	P41108P2	L23.393	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	395	NA	Male	NA	NA	L23.395	P41108_428	Larvae	P41108P4	L23.395	Lomma	NA	NA	NA	Larvae	Green	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	396	NA	Male	NA	NA	L23.396	P41108_324	Larvae	P41108P3	L23.396	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	40	NA	Male	NA	NA	L23.40	P41108_379	Larvae	P41108P3	L23.40	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	400	NA	Male	NA	NA	L23.400	P41108_325	Larvae	P41108P3	L23.400	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	401	NA	Male	NA	NA	L23.401	P41108_429	Larvae	P41108P4	L23.401	Lomma	NA	NA	NA	Larvae	Green	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	402	NA	Male	NA	NA	L23.402	P41108_430	Larvae	P41108P4	L23.402	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	403	NA	Male	NA	NA	L23.403	P41108_431	Larvae	P41108P4	L23.403	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	405	NA	Male	NA	NA	L23.405	P41108_432	Larvae	P41108P4	L23.405	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	41	NA	Female	NA	NA	L23.41	P41108_355	Larvae	P41108P3	L23.41	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	42	NA	Male	NA	NA	L23.42	P41108_380	Larvae	P41108P3	L23.42	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-09	420	NA	Male	NA	NA	L23.420	P41108_433	Larvae	P41108P4	L23.420	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-09	425	NA	Female	NA	NA	L23.425	P41108_270	Larvae	P41108P2	L23.425	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-09	426	NA	Female	NA	NA	L23.426	P41108_271	Larvae	P41108P2	L23.426	Lomma	NA	NA	NA	Larvae	Green	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-09	428	NA	Female	NA	NA	L23.428	P41108_326	Larvae	P41108P3	L23.428	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	43	NA	Female	NA	NA	L23.43	P41108_356	Larvae	P41108P3	L23.43	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-09	433	NA	Female	NA	NA	L23.433	P41108_327	Larvae	P41108P3	L23.433	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-09	434	NA	Female	NA	NA	L23.434	P41108_328	Larvae	P41108P3	L23.434	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	44	NA	Male	NA	NA	L23.44	P41108_381	Larvae	P41108P3	L23.44	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	442	NA	Male	NA	NA	L23.442	P41109_126	Larvae	P41109P1	L23.442	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	443	NA	Male	NA	NA	L23.443	P41109_127	Larvae	P41109P1	L23.443	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	446	NA	Female	NA	NA	L23.446	P41109_106	Larvae	P41109P1	L23.446	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	448	NA	Female	NA	NA	L23.448	P41109_107	Larvae	P41109P1	L23.448	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	45	NA	Male	NA	NA	L23.45	P41108_382	Larvae	P41108P3	L23.45	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	454	NA	Female	NA	NA	L23.454	P41109_108	Larvae	P41109P1	L23.454	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	455	NA	Female	NA	NA	L23.455	P41109_109	Larvae	P41109P1	L23.455	Hoje_A_14	NA	NA	NA	Larvae	BrownGreen	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	456	NA	Female	NA	NA	L23.456	P41109_110	Larvae	P41109P1	L23.456	Hoje_A_14	NA	NA	NA	Larvae	Clear	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	46	NA	Male	NA	NA	L23.46	P41108_383	Larvae	P41108P3	L23.46	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	474	NA	Female	NA	NA	L23.474	P41109_111	Larvae	P41109P1	L23.474	Hoje_A_14	NA	NA	NA	Larvae	BrownGreen	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	475	NA	Female	NA	NA	L23.475	P41109_112	Larvae	P41109P1	L23.475	Hoje_A_14	NA	NA	NA	Larvae	Clear	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	48	NA	Male	NA	NA	L23.48	P41108_384	Larvae	P41108P3	L23.48	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	49	NA	Female	NA	NA	L23.49	P41108_357	Larvae	P41108P3	L23.49	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-11	498	NA	Male	NA	NA	L23.498	P41109_128	Larvae	P41109P1	L23.498	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-16	5	NA	Male	NA	NA	L23.5	P41109_182	Larvae	P41109P1	L23.5	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-11	503	NA	Female	NA	NA	L23.503	P41109_113	Larvae	P41109P1	L23.503	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	51	NA	Male	NA	NA	L23.51	P41108_385	Larvae	P41108P3	L23.51	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	52	NA	Male	NA	NA	L23.52	P41108_386	Larvae	P41108P3	L23.52	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	53	NA	Female	NA	NA	L23.53	P41108_358	Larvae	P41108P3	L23.53	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	55	NA	Female	NA	NA	L23.55	P41108_359	Larvae	P41108P3	L23.55	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-06-12	558	NA	Male	NA	NA	L23.558	P41109_471	Larvae	P41109P4	L23.558	Genarp	NA	NA	NA	Larvae	Clear	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-06-12	559	NA	Male	NA	NA	L23.559	P41109_472	Larvae	P41109P4	L23.559	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-06-12	570	NA	Female	NA	NA	L23.570	P41108_493	Larvae	P41108P4	L23.570	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-17	587	NA	Female	NA	NA	L23.587	P41109_436	Larvae	P41109P4	L23.587	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-17	588	NA	Female	NA	NA	L23.588	P41109_437	Larvae	P41109P4	L23.588	Hoje_A_14	NA	NA	NA	Larvae	Clear	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	59	NA	Female	NA	NA	L23.59	P41108_360	Larvae	P41108P3	L23.59	Hoje_A_7	NA	NA	NA	Larvae	Clear	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-19	592	NA	Female	NA	NA	L23.592	P41108_476	Larvae	P41108P4	L23.592	Lomma	NA	NA	NA	Larvae	Green	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	60	NA	Female	NA	NA	L23.60	P41109_210	Larvae	P41109P2	L23.60	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	63	NA	Female	NA	NA	L23.63	P41109_211	Larvae	P41109P2	L23.63	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_7	2023	2023-05-18	64	NA	Female	NA	NA	L23.64	P41109_212	Larvae	P41109P2	L23.64	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-20	644	NA	Male	NA	NA	L23.644	P41109_449	Larvae	P41109P4	L23.644	Hoje_A_14	NA	NA	NA	Larvae	Clear	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-20	645	NA	Male	NA	NA	L23.645	P41109_450	Larvae	P41109P4	L23.645	Hoje_A_14	NA	NA	NA	Larvae	BrownGreen	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-16	8	NA	Female	NA	NA	L23.8	P41109_102	Larvae	P41109P1	L23.8	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-25	83	NA	Male	NA	NA	L23.83	P41109_438	Larvae	P41109P4	L23.83	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-25	84	NA	Female	NA	NA	L23.84	P41109_103	Larvae	P41109P1	L23.84	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-25	85	NA	Male	NA	NA	L23.85	P41109_439	Larvae	P41109P4	L23.85	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-25	86	NA	Male	NA	NA	L23.86	P41109_440	Larvae	P41109P4	L23.86	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-25	88	NA	Male	NA	NA	L23.88	P41109_441	Larvae	P41109P4	L23.88	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-25	97	NA	Male	NA	NA	L23.97	P41109_442	Larvae	P41109P4	L23.97	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	11	NA	Female	NA	NA	L24.11	P41109_309	Larvae	P41109P3	L24.11	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	12	NA	Female	NA	NA	L24.12	P41109_310	Larvae	P41109P3	L24.12	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	123	NA	Female	NA	NA	L24.123	P41109_312	Larvae	P41109P3	L24.123	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	124	NA	Female	NA	NA	L24.124	P41109_313	Larvae	P41109P3	L24.124	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	125	NA	Female	NA	NA	L24.125	P41109_314	Larvae	P41109P3	L24.125	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	13	NA	Female	NA	NA	L24.13	P41109_311	Larvae	P41109P3	L24.13	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	139	NA	Male	NA	NA	L24.139	P41109_318	Larvae	P41109P3	L24.139	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	14	NA	Male	NA	NA	L24.14	P41109_315	Larvae	P41109P3	L24.14	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	140	NA	Male	NA	NA	L24.140	P41109_319	Larvae	P41109P3	L24.140	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	141	NA	Male	NA	NA	L24.141	P41109_320	Larvae	P41109P3	L24.141	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	142	NA	Male	NA	NA	L24.142	P41109_492	Larvae	P41109P4	L24.142	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	143	NA	Male	NA	NA	L24.143	P41109_493	Larvae	P41109P4	L24.143	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	144	NA	Male	NA	NA	L24.144	P41109_494	Larvae	P41109P4	L24.144	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	145	NA	Female	NA	NA	L24.145	P41109_377	Larvae	P41109P3	L24.145	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	146	NA	Female	NA	NA	L24.146	P41109_378	Larvae	P41109P3	L24.146	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	147	NA	Female	NA	NA	L24.147	P41109_379	Larvae	P41109P3	L24.147	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	15	NA	Male	NA	NA	L24.15	P41109_316	Larvae	P41109P3	L24.15	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	150	NA	Male	NA	NA	L24.150	P41108_301	Larvae	P41108P3	L24.150	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	151	NA	Male	NA	NA	L24.151	P41108_302	Larvae	P41108P3	L24.151	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	152	NA	Male	NA	NA	L24.152	P41108_303	Larvae	P41108P3	L24.152	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	156	NA	Female	NA	NA	L24.156	P41108_402	Larvae	P41108P4	L24.156	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	157	NA	Female	NA	NA	L24.157	P41109_380	Larvae	P41109P3	L24.157	Hoje_A_7	NA	NA	NA	Larvae	Clear	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	158	NA	Female	NA	NA	L24.158	P41109_381	Larvae	P41109P3	L24.158	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	16	NA	Male	NA	NA	L24.16	P41109_317	Larvae	P41109P3	L24.16	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	162	NA	Female	NA	NA	L24.162	P41109_382	Larvae	P41109P3	L24.162	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	163	NA	Female	NA	NA	L24.163	P41109_383	Larvae	P41109P3	L24.163	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	164	NA	Female	NA	NA	L24.164	P41109_289	Larvae	P41109P2	L24.164	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	165	NA	Female	NA	NA	L24.165	P41109_290	Larvae	P41109P2	L24.165	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-29	169	NA	Female	NA	NA	L24.169	P41109_291	Larvae	P41109P2	L24.169	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	17	NA	Female	NA	NA	L24.17	P41109_481	Larvae	P41109P4	L24.17	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-05-31	170	NA	Female	NA	NA	L24.170	P41109_294	Larvae	P41109P2	L24.170	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-05-31	171	NA	Female	NA	NA	L24.171	P41109_301	Larvae	P41109P3	L24.171	Genarp	NA	NA	NA	Larvae	Clear	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-05-31	172	NA	Female	NA	NA	L24.172	P41109_191	Larvae	P41109P1	L24.172	Genarp	NA	NA	NA	Larvae	Clear	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-05-31	192	NA	Male	NA	NA	L24.192	P41109_206	Larvae	P41109P2	L24.192	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-05-31	193	NA	Male	NA	NA	L24.193	P41109_207	Larvae	P41109P2	L24.193	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-05-31	194	NA	Male	NA	NA	L24.194	P41109_208	Larvae	P41109P2	L24.194	Genarp	NA	NA	NA	Larvae	Green	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	20	NA	Male	NA	NA	L24.20	P41109_485	Larvae	P41109P4	L24.20	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	212	NA	Male	NA	NA	L24.212	P41109_248	Larvae	P41109P2	L24.212	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	213	NA	Male	NA	NA	L24.213	P41109_249	Larvae	P41109P2	L24.213	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	214	NA	Male	NA	NA	L24.214	P41109_250	Larvae	P41109P2	L24.214	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	215	NA	Male	NA	NA	L24.215	P41109_251	Larvae	P41109P2	L24.215	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	216	NA	Male	NA	NA	L24.216	P41109_252	Larvae	P41109P2	L24.216	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	221	NA	Female	NA	NA	L24.221	P41109_263	Larvae	P41109P2	L24.221	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	222	NA	Female	NA	NA	L24.222	P41109_264	Larvae	P41109P2	L24.222	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	223	NA	Female	NA	NA	L24.223	P41109_265	Larvae	P41109P2	L24.223	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	224	NA	Female	NA	NA	L24.224	P41109_266	Larvae	P41109P2	L24.224	Lomma	NA	NA	NA	Larvae	Green	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-07	225	NA	Male	NA	NA	L24.225	P41108_304	Larvae	P41108P3	L24.225	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-07	226	NA	Male	NA	NA	L24.226	P41108_305	Larvae	P41108P3	L24.226	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-07	227	NA	Male	NA	NA	L24.227	P41108_306	Larvae	P41108P3	L24.227	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-07	228	NA	Male	NA	NA	L24.228	P41108_307	Larvae	P41108P3	L24.228	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	23	NA	Female	NA	NA	L24.23	P41108_391	Larvae	P41108P3	L24.23	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-07	235	NA	Female	NA	NA	L24.235	P41109_292	Larvae	P41109P2	L24.235	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-07	236	NA	Female	NA	NA	L24.236	P41109_293	Larvae	P41109P2	L24.236	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	24	NA	Female	NA	NA	L24.24	P41108_392	Larvae	P41108P3	L24.24	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	25	NA	Female	NA	NA	L24.25	P41108_393	Larvae	P41108P3	L24.25	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-10	260	NA	Female	NA	NA	L24.260	P41109_192	Larvae	P41109P1	L24.260	Genarp	NA	NA	NA	Larvae	BrownGreen	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-10	261	NA	Female	NA	NA	L24.261	P41109_193	Larvae	P41109P1	L24.261	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-10	272	NA	Male	NA	NA	L24.272	P41109_209	Larvae	P41109P2	L24.272	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-10	273	NA	Male	NA	NA	L24.273	P41108_361	Larvae	P41108P3	L24.273	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-10	274	NA	Male	NA	NA	L24.274	P41108_362	Larvae	P41108P3	L24.274	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-12	281	NA	Male	NA	NA	L24.281	P41108_158	Larvae	P41108P1	L24.281	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-12	282	NA	Male	NA	NA	L24.282	P41108_159	Larvae	P41108P1	L24.282	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-12	283	NA	Male	NA	NA	L24.283	P41108_160	Larvae	P41108P1	L24.283	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-12	291	NA	Female	NA	NA	L24.291	P41108_151	Larvae	P41108P1	L24.291	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-12	292	NA	Female	NA	NA	L24.292	P41108_152	Larvae	P41108P1	L24.292	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-12	293	NA	Female	NA	NA	L24.293	P41108_153	Larvae	P41108P1	L24.293	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	31	NA	Female	NA	NA	L24.31	P41108_394	Larvae	P41108P3	L24.31	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-12	312	NA	Male	NA	NA	L24.312	P41108_308	Larvae	P41108P3	L24.312	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-12	313	NA	Male	NA	NA	L24.313	P41108_309	Larvae	P41108P3	L24.313	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-12	314	NA	Male	NA	NA	L24.314	P41108_310	Larvae	P41108P3	L24.314	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	34	NA	Male	NA	NA	L24.34	P41108_292	Larvae	P41108P2	L24.34	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-12	343	NA	Female	NA	NA	L24.343	P41109_194	Larvae	P41109P1	L24.343	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-12	344	NA	Female	NA	NA	L24.344	P41109_201	Larvae	P41109P2	L24.344	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	35	NA	Male	NA	NA	L24.35	P41108_293	Larvae	P41108P2	L24.35	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	36	NA	Male	NA	NA	L24.36	P41108_294	Larvae	P41108P2	L24.36	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-17	363	NA	Female	NA	NA	L24.363	P41109_267	Larvae	P41109P2	L24.363	Lomma	NA	NA	NA	Larvae	Clear	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-17	364	NA	Female	NA	NA	L24.364	P41109_268	Larvae	P41109P2	L24.364	Lomma	NA	NA	NA	Larvae	Clear	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	37	NA	Female	NA	NA	L24.37	P41108_401	Larvae	P41108P4	L24.37	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-17	373	NA	Male	NA	NA	L24.373	P41109_253	Larvae	P41109P2	L24.373	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-17	374	NA	Male	NA	NA	L24.374	P41109_254	Larvae	P41109P2	L24.374	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-17	375	NA	Male	NA	NA	L24.375	P41109_255	Larvae	P41109P2	L24.375	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	38	NA	Female	NA	NA	L24.38	P41109_372	Larvae	P41109P3	L24.38	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-17	380	NA	Female	NA	NA	L24.380	P41109_466	Larvae	P41109P4	L24.380	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	39	NA	Female	NA	NA	L24.39	P41109_373	Larvae	P41109P3	L24.39	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-18	396	NA	Male	NA	NA	L24.396	P41109_474	Larvae	P41109P4	L24.396	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	40	NA	Female	NA	NA	L24.40	P41109_374	Larvae	P41109P3	L24.40	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-18	400	NA	Female	NA	NA	L24.400	P41109_202	Larvae	P41109P2	L24.400	Genarp	NA	NA	NA	Larvae	Clear	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-18	401	NA	Female	NA	NA	L24.401	P41109_203	Larvae	P41109P2	L24.401	Genarp	NA	NA	NA	Larvae	Clear	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	41	NA	Female	NA	NA	L24.41	P41109_375	Larvae	P41109P3	L24.41	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-18	416	NA	Male	NA	NA	L24.416	P41108_363	Larvae	P41108P3	L24.416	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-18	417	NA	Male	NA	NA	L24.417	P41108_364	Larvae	P41108P3	L24.417	Genarp	NA	NA	NA	Larvae	Clear	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-18	418	NA	Male	NA	NA	L24.418	P41108_365	Larvae	P41108P3	L24.418	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-05-20	42	NA	Female	NA	NA	L24.42	P41109_376	Larvae	P41109P3	L24.42	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_F	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-20	431	NA	Male	NA	NA	L24.431	P41108_161	Larvae	P41108P1	L24.431	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-20	432	NA	Male	NA	NA	L24.432	P41108_162	Larvae	P41108P1	L24.432	Hoje_A_14	NA	NA	NA	Larvae	BrownGreen	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-20	448	NA	Female	NA	NA	L24.448	P41108_154	Larvae	P41108P1	L24.448	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-20	449	NA	Female	NA	NA	L24.449	P41108_155	Larvae	P41108P1	L24.449	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-20	450	NA	Female	NA	NA	L24.450	P41108_156	Larvae	P41108P1	L24.450	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-20	451	NA	Female	NA	NA	L24.451	P41108_157	Larvae	P41108P1	L24.451	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-20	457	NA	Male	NA	NA	L24.457	P41109_491	Larvae	P41109P4	L24.457	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-23	471	NA	Female	NA	NA	L24.471	P41109_204	Larvae	P41109P2	L24.471	Genarp	NA	NA	NA	Larvae	Clear	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-23	472	NA	Female	NA	NA	L24.472	P41109_205	Larvae	P41109P2	L24.472	Genarp	NA	NA	NA	Larvae	Clear	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-23	481	NA	Male	NA	NA	L24.481	P41109_117	Larvae	P41109P1	L24.481	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-23	482	NA	Female	NA	NA	L24.482	P41108_133	Larvae	P41108P1	L24.482	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-23	484	NA	Male	NA	NA	L24.484	P41109_304	Larvae	P41109P3	L24.484	Genarp	NA	NA	NA	Larvae	Clear	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-23	487	NA	Male	NA	NA	L24.487	P41108_163	Larvae	P41108P1	L24.487	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-23	491	NA	Male	NA	NA	L24.491	P41109_482	Larvae	P41109P4	L24.491	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	5	NA	Male	NA	NA	L24.5	P41109_483	Larvae	P41109P4	L24.5	Hoje_A_14	NA	NA	NA	Larvae	Clear	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-23	509	NA	Male	NA	NA	L24.509	P41108_311	Larvae	P41108P3	L24.509	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-23	510	NA	Male	NA	NA	L24.510	P41108_312	Larvae	P41108P3	L24.510	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-23	511	NA	Male	NA	NA	L24.511	P41108_112	Larvae	P41108P1	L24.511	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-24	553	NA	Male	NA	NA	L24.553	P41108_113	Larvae	P41108P1	L24.553	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-24	554	NA	Male	NA	NA	L24.554	P41108_114	Larvae	P41108P1	L24.554	Hoje_A_7	NA	NA	NA	Larvae	Green	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-24	555	NA	Male	NA	NA	L24.555	P41108_115	Larvae	P41108P1	L24.555	Hoje_A_7	NA	NA	NA	Larvae	BrownGreen	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Hoje_A_7	2024	2024-06-24	556	NA	Male	NA	NA	L24.556	P41108_116	Larvae	P41108P1	L24.556	Hoje_A_7	NA	NA	NA	Larvae	Brown	Hoje_A_7_M	Hoje_A_7_NA	Hoje_A_7_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	565	NA	Female	NA	NA	L24.565	P41109_269	Larvae	P41109P2	L24.565	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	566	NA	Female	NA	NA	L24.566	P41109_270	Larvae	P41109P2	L24.566	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	567	NA	Female	NA	NA	L24.567	P41109_271	Larvae	P41109P2	L24.567	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	568	NA	Female	NA	NA	L24.568	P41109_272	Larvae	P41109P2	L24.568	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	576	NA	Male	NA	NA	L24.576	P41109_256	Larvae	P41109P2	L24.576	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	577	NA	Male	NA	NA	L24.577	P41109_257	Larvae	P41109P2	L24.577	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	600	NA	Male	NA	NA	L24.600	P41109_258	Larvae	P41109P2	L24.600	Lomma	NA	NA	NA	Larvae	Green	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	601	NA	Male	NA	NA	L24.601	P41109_259	Larvae	P41109P2	L24.601	Lomma	NA	NA	NA	Larvae	Clear	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	604	NA	Female	NA	NA	L24.604	P41109_368	Larvae	P41109P3	L24.604	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	605	NA	Female	NA	NA	L24.605	P41109_369	Larvae	P41109P3	L24.605	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-28	626	NA	Female	NA	NA	L24.626	P41109_302	Larvae	P41109P3	L24.626	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-28	627	NA	Female	NA	NA	L24.627	P41109_303	Larvae	P41109P3	L24.627	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-28	630	NA	Male	NA	NA	L24.630	P41109_305	Larvae	P41109P3	L24.630	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-28	631	NA	Male	NA	NA	L24.631	P41109_306	Larvae	P41109P3	L24.631	Genarp	NA	NA	NA	Larvae	BrownGreen	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-28	632	NA	Male	NA	NA	L24.632	P41109_307	Larvae	P41109P3	L24.632	Genarp	NA	NA	NA	Larvae	Green	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	7	NA	Female	NA	NA	L24.7	P41109_479	Larvae	P41109P4	L24.7	Hoje_A_14	NA	NA	NA	Larvae	Clear	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	8	NA	Female	NA	NA	L24.8	P41109_480	Larvae	P41109P4	L24.8	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	9	NA	Male	NA	NA	L24.9	P41109_484	Larvae	P41109P4	L24.9	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	92	NA	Male	NA	NA	L24.92	P41109_247	Larvae	P41109P2	L24.92	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	95	NA	Male	NA	NA	L24.95	P41109_402	Larvae	P41109P4	L24.95	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	96	NA	Female	NA	NA	L24.96	P41109_260	Larvae	P41109P2	L24.96	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	97	NA	Female	NA	NA	L24.97	P41109_261	Larvae	P41109P2	L24.97	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	98	NA	Female	NA	NA	L24.98	P41109_262	Larvae	P41109P2	L24.98	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-03	71150	1234	Male		NA	22.1234	P36454_394	mature	P36454P3	2022.1234	Lomma	1	1235	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-03	71151	1235	Female	androchrome	A	22.1235	P36454_301	mature	P36454P3	2022.1235	Lomma	1	1234	201	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-03	71155	1239	Female	infuscans	I	22.1239	P36454_302	mature	P36454P3	2022.1239	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-03	71171	1252	Male		NA	22.1252	P36454_303	mature	P36454P3	2022.1252	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71711	1425	Male		NA	22.1425	P36454_304	mature	P36454P3	2022.1425	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71716	1430	Male		NA	22.1430	P36454_305	mature	P36454P3	2022.1430	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71721	1435	Female	infuscans	I	22.1435	P36454_306	mature	P36454P3	2022.1435	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71729	1443	Female	androchrome	A	22.1443	P36454_307	mature	P36454P3	2022.1443	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71742	1449	Female	androchrome	A	22.1449	P36454_308	mature	P36454P3	2022.1449	Hoje_A_14	1	1450	314	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-08	71743	1450	Male		NA	22.1450	P36454_309	mature	P36454P3	2022.1450	Hoje_A_14	1	1449	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-10	71886	1500	Female	androchrome	A	22.1500	P36454_310	mature	P36454P3	2022.1500	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-08	68535	159	Male		NA	22.159	P36454_133	mature	P36454P1	2022.159	Genarp	1	160	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-08	68536	160	Female	infuscans	I	22.160	P36454_134	mature	P36454P1	2022.160	Genarp	1	159	0	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-08	68553	176	Female	infuscans	I	22.176	P36454_135	mature	P36454P1	2022.176	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-17	72443	1789	Male		NA	22.1789	P36454_388	mature	P36454P3	2022.1789	Lomma	1	1788	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-17	72453	1799	Male		NA	22.1799	P36454_311	mature	P36454P3	2022.1799	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-07-17	72454	1800	Female	infuscans	I	22.1800	P36454_312	mature	P36454P3	2022.1800	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-08	68559	182	Male		NA	22.182	P36454_136	mature	P36454P1	2022.182	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72624	1832	Male		NA	22.1832	P36454_313	mature	P36454P3	2022.1832	Genarp	1	1833	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72625	1833	Female	androchrome	A	22.1833	P36454_314	mature	P36454P3	2022.1833	Genarp	1	1832	22	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72631	1839	Male		NA	22.1839	P36454_315	mature	P36454P3	2022.1839	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72638	1844	Male		NA	22.1844	P36454_316	mature	P36454P3	2022.1844	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72664	1852	Female	androchrome	A	22.1852	P36454_349	mature	P36454P3	2022.1852	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-07-19	72668	1856	Female	infuscans	I	22.1856	P36454_350	mature	P36454P3	2022.1856	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68892	187	Female	infuscans	I	22.187	P36454_137	mature	P36454P1	2022.187	Lomma	1	188	2	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-19	72689	1876	Male		NA	22.1876	P36454_351	mature	P36454P3	2022.1876	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68893	188	Male		NA	22.188	P36454_138	mature	P36454P1	2022.188	Lomma	1	187	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68900	195	Female	infuscans	I	22.195	P36454_139	mature	P36454P1	2022.195	Lomma	1	196	198	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68901	196	Male		NA	22.196	P36454_140	mature	P36454P1	2022.196	Lomma	1	195	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68908	203	Male		NA	22.203	P36454_141	mature	P36454P1	2022.203	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68910	205	Female	androchrome	A	22.205	P36454_142	mature	P36454P1	2022.205	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-11	68911	206	Female	androchrome	A	22.206	P36454_143	mature	P36454P1	2022.206	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73215	2131	Male		NA	22.2131	P36454_352	mature	P36454P3	2022.2131	Hoje_A_14	1	2132	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73216	2132	Female	androchrome	A	22.2132	P36454_353	mature	P36454P3	2022.2132	Hoje_A_14	1	2131	62	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-07-24	73228	2144	Male		NA	22.2144	P36454_354	mature	P36454P3	2022.2144	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-16	69504	307	Male		NA	22.307	P36454_144	mature	P36454P1	2022.307	Hoje_A_14	1	308	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-16	69505	308	Female	androchrome	A	22.308	P36454_145	mature	P36454P1	2022.308	Hoje_A_14	1	307	75	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-16	69506	309	Female	infuscans	I	22.309	P36454_146	mature	P36454P1	2022.309	Hoje_A_14	1	310	460	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-16	69507	310	Male		NA	22.310	P36454_147	mature	P36454P1	2022.310	Hoje_A_14	1	309	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-16	69514	317	Female	androchrome	A	22.317	P36454_148	mature	P36454P1	2022.317	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-16	69516	319	Female	infuscans	I	22.319	P36454_217	mature	P36454P2	2022.319	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-16	69519	322	Male		NA	22.322	P36454_218	mature	P36454P2	2022.322	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69643	407	Female	androchrome	A	22.407	P36454_219	mature	P36454P2	2022.407	Genarp	1	408	237	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69644	408	Male		NA	22.408	P36454_220	mature	P36454P2	2022.408	Genarp	1	407	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69653	417	Female	infuscans	I	22.417	P36454_221	mature	P36454P2	2022.417	Genarp	1	418	412	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69654	418	Male		NA	22.418	P36454_222	mature	P36454P2	2022.418	Genarp	1	417	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-17	69711	471	Female	androchrome	A	22.471	P36454_223	mature	P36454P2	2022.471	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70031	628	Male		NA	22.628	P36454_224	mature	P36454P2	2022.628	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70036	633	Male		NA	22.633	P36454_225	mature	P36454P2	2022.633	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70053	637	Female	androchrome	A	22.637	P36454_226	mature	P36454P2	2022.637	Lomma	1	638	377	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70054	638	Male		NA	22.638	P36454_227	mature	P36454P2	2022.638	Lomma	1	637	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70067	652	Male		NA	22.652	P36454_387	mature	P36454P3	2022.652	Lomma	1	651	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2022_Ad_Lomma	2022	2022-06-23	70069	654	Female	androchrome	A	22.654	P36454_228	mature	P36454P2	2022.654	Lomma	1	653	269	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-29	70639	875	Female	infuscans	I	22.875	P36454_229	mature	P36454P2	2022.875	Hoje_A_14	1	876	122	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Hoje_A_14	2022	2022-06-29	70640	876	Male		NA	22.876	P36454_230	mature	P36454P2	2022.876	Hoje_A_14	1	875	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-30	70754	921	Male		NA	22.921	P36454_231	mature	P36454P2	2022.921	Genarp	1	922	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-30	70755	922	Female	androchrome	A	22.922	P36454_232	mature	P36454P2	2022.922	Genarp	1	921	121	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-30	70806	972	Male		NA	22.972	P36454_294	mature	P36454P2	2022.972	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2022_Ad_Genarp	2022	2022-06-30	70809	975	Male		NA	22.975	P36454_393	mature	P36454P3	2022.975	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-15	76885	1064	Female	androchrome	A	23.1064	P36454_328	mature	P36454P3	2023.1064	Hoje_A_14	1	1065	290	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-15	76886	1065	Male		NA	23.1065	P36454_329	mature	P36454P3	2023.1065	Hoje_A_14	1	1064	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-15	76893	1072	Male		NA	23.1072	P36454_330	mature	P36454P3	2023.1072	Hoje_A_14	1	1073	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-15	76894	1073	Female	infuscans	I	23.1073	P36454_331	mature	P36454P3	2023.1073	Hoje_A_14	1	1072	0	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-15	76899	1080	Female	infuscans	I	23.1080	P36454_332	mature	P36454P3	2023.1080	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-18	77034	1102	Female	infuscans	I	23.1102	P36454_355	mature	P36454P3	2023.1102	Genarp	1	1103	333	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-18	77035	1103	Male		NA	23.1103	P36454_356	mature	P36454P3	2023.1103	Genarp	1	1102	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-04	74584	116	Male		NA	23.116	P36454_152	mature	P36454P1	2023.116	Genarp	1	117	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-04	74585	117	Female	androchrome	A	23.117	P36454_153	mature	P36454P1	2023.117	Genarp	1	116	0	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-07-24	77358	1180	Male		NA	23.1180	P36454_357	mature	P36454P3	2023.1180	Lomma	1	1181	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-07-24	77360	1181	Female	infuscans	I	23.1181	P36454_358	mature	P36454P3	2023.1181	Lomma	1	1180	6	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-24	77382	1188	Female	infuscans	I	23.1188	P36454_359	mature	P36454P3	2023.1188	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-24	77381	1190	Female	androchrome	A	23.1190	P36454_360	mature	P36454P3	2023.1190	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-24	77394	1193	Male		NA	23.1193	P36454_390	mature	P36454P3	2023.1193	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-24	77397	1196	Male		NA	23.1196	P36454_361	mature	P36454P3	2023.1196	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-04	74590	122	Male		NA	23.122	P36454_154	mature	P36454P1	2023.122	Genarp	1	123	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-04	74591	123	Female	androchrome	A	23.123	P36454_155	mature	P36454P1	2023.123	Genarp	1	122	0	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-27	77550	1258	Female	androchrome	A	23.1258	P36454_362	mature	P36454P3	2023.1258	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-27	77551	1259	Female	infuscans	I	23.1259	P36454_363	mature	P36454P3	2023.1259	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-27	77553	1261	Female	androchrome	A	23.1261	P36454_364	mature	P36454P3	2023.1261	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-27	77556	1264	Male		NA	23.1264	P36454_365	mature	P36454P3	2023.1264	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-29	77603	1270	Male		NA	23.1270	P36454_389	mature	P36454P3	2023.1270	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-29	77605	1271	Male		NA	23.1271	P36454_366	mature	P36454P3	2023.1271	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-07-29	77606	1275	Female	androchrome	A	23.1275	P36454_367	mature	P36454P3	2023.1275	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-08-05	77798	1318	Male		NA	23.1318	P36454_368	mature	P36454P3	2023.1318	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75019	272	Male		NA	23.272	P36454_156	mature	P36454P1	2023.272	Hoje_A_14	1	273	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75020	273	Female	androchrome	A	23.273	P36454_157	mature	P36454P1	2023.273	Hoje_A_14	1	272	41	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75021	274	Female	infuscans	I	23.274	P36454_158	mature	P36454P1	2023.274	Hoje_A_14	1	275	120	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75022	275	Male		NA	23.275	P36454_159	mature	P36454P1	2023.275	Hoje_A_14	1	274	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75027	280	Female	androchrome	A	23.280	P36454_160	mature	P36454P1	2023.280	Hoje_A_14	1	281	49	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75028	281	Male		NA	23.281	P36454_161	mature	P36454P1	2023.281	Hoje_A_14	1	280	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75051	303	Male		NA	23.303	P36454_162	mature	P36454P1	2023.303	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75052	304	Male		NA	23.304	P36454_163	mature	P36454P1	2023.304	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-11	75055	307	Female	androchrome	A	23.307	P36454_164	mature	P36454P1	2023.307	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-05-30	74177	31	Female	androchrome	A	23.31	P36454_149	mature	P36454P1	2023.31	Lomma	1	32	234	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-05-30	74178	32	Male		NA	23.32	P36454_150	mature	P36454P1	2023.32	Lomma	1	31	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-05-30	74180	33	Female	androchrome	A	23.33	P36454_151	mature	P36454P1	2023.33	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75315	454	Female	androchrome	A	23.454	P36454_233	mature	P36454P2	2023.454	Lomma	1	455	159	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75316	455	Male		NA	23.455	P36454_235	mature	P36454P2	2023.455	Lomma	1	454	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75323	462	Male		NA	23.462	P36454_234	mature	P36454P2	2023.462	Lomma	1	463	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75324	463	Female	androchrome	A	23.463	P36454_236	mature	P36454P2	2023.463	Lomma	1	462	133	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75338	477	Female		I	23.477	P36454_237	mature	P36454P2	2023.477	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75350	486	Male		NA	23.486	P36454_238	mature	P36454P2	2023.486	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-13	75362	489	Male		NA	23.489	P36454_239	mature	P36454P2	2023.489	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75391	506	Female	androchrome	A	23.506	P36454_240	mature	P36454P2	2023.506	Genarp	1	507	274	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75392	507	Male		NA	23.507	P36454_241	mature	P36454P2	2023.507	Genarp	1	506	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75401	516	Female	infuscans	I	23.516	P36454_242	mature	P36454P2	2023.516	Genarp	1	517	419	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75402	517	Male		NA	23.517	P36454_243	mature	P36454P2	2023.517	Genarp	1	516	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75405	520	Female	androchrome	A	23.520	P36454_244	mature	P36454P2	2023.520	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75411	526	Female	infuscans	I	23.526	P36454_245	mature	P36454P2	2023.526	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75426	539	Male		NA	23.539	P36454_246	mature	P36454P2	2023.539	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-06-14	75431	544	Male		NA	23.544	P36454_247	mature	P36454P2	2023.544	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76022	773	Female	androchrome	A	23.773	P36454_248	mature	P36454P2	2023.773	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76018	778	Female	infuscans	I	23.778	P36454_317	mature	P36454P3	2023.778	Lomma	1	779	165	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76019	779	Male		NA	23.779	P36454_318	mature	P36454P3	2023.779	Lomma	1	778	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76021	798	Male		NA	23.798	P36454_319	mature	P36454P3	2023.798	Lomma	1	797	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76023	799	Female	androchrome	A	23.799	P36454_320	mature	P36454P3	2023.799	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76027	802	Female		I	23.802	P36454_321	mature	P36454P3	2023.802	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76042	806	Male		NA	23.806	P36454_322	mature	P36454P3	2023.806	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Lomma	2023	2023-06-26	76047	809	Male		NA	23.809	P36454_323	mature	P36454P3	2023.809	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76079	818	Female	androchrome	A	23.818	P36454_324	mature	P36454P3	2023.818	Hoje_A_14	1	819	171	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76080	819	Male		NA	23.819	P36454_325	mature	P36454P3	2023.819	Hoje_A_14	1	818	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Hoje_A_14	2023	2023-06-26	76143	875	Male		NA	23.875	P36454_326	mature	P36454P3	2023.875	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2023_Ad_Genarp	2023	2023-07-09	76539	978	Male		NA	23.978	P36454_327	mature	P36454P3	2023.978	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-05-27	78418	100	Female	infuscans	I	24.100	P36454_167	mature	P36454P1	2024.100	Lomma	1	101	183	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-05-27	78419	101	Male		NA	24.101	P36454_168	mature	P36454P1	2024.101	Lomma	1	100	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80933	1014	Female	androchrome	A	24.1014	P36454_258	mature	P36454P2	2024.1014	Genarp	1	1015	230	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80935	1015	Male		NA	24.1015	P36454_259	mature	P36454P2	2024.1015	Genarp	1	1014	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80943	1020	Female	infuscans-obsoleta	O	24.1020	P36454_260	mature	P36454P2	2024.1020	Genarp	1	1021	344	Adult	NA	Genarp_F	Genarp_O	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80940	1021	Male		NA	24.1021	P36454_261	mature	P36454P2	2024.1021	Genarp	1	1020	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80951	1029	Female	infuscans	I	24.1029	P36454_262	mature	P36454P2	2024.1029	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-05-27	78421	103	Female	androchrome	A	24.103	P36454_169	mature	P36454P1	2024.103	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80946	1031	Female	androchrome	A	24.1031	P36454_263	mature	P36454P2	2024.1031	Genarp	1	1032	1	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80947	1032	Male		NA	24.1032	P36454_264	mature	P36454P2	2024.1032	Genarp	1	1031	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-05-27	78422	104	Male		NA	24.104	P36454_170	mature	P36454P1	2024.104	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80963	1040	Male		NA	24.1040	P36454_333	mature	P36454P3	2024.1040	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-18	80970	1046	Male		NA	24.1046	P36454_334	mature	P36454P3	2024.1046	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81179	1074	Male		NA	24.1074	P36454_335	mature	P36454P3	2024.1074	Hoje_A_14	1	1075	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81180	1075	Female	androchrome	A	24.1075	P36454_336	mature	P36454P3	2024.1075	Hoje_A_14	1	1074	1	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81197	1119	Female	androchrome	A	24.1119	P36454_337	mature	P36454P3	2024.1119	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81191	1126	Female	infuscans	I	24.1126	P36454_338	mature	P36454P3	2024.1126	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81224	1150	Male		NA	24.1150	P36454_339	mature	P36454P3	2024.1150	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-06-20	81212	1157	Male		NA	24.1157	P36454_340	mature	P36454P3	2024.1157	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81651	1382	Male		NA	24.1382	P36454_341	mature	P36454P3	2024.1382	Lomma	1	1383	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81652	1383	Female	infuscans	I	24.1383	P36454_342	mature	P36454P3	2024.1383	Lomma	1	1382	254	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81649	1384	Male		NA	24.1384	P36454_343	mature	P36454P3	2024.1384	Lomma	1	1385	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81650	1385	Female	androchrome	A	24.1385	P36454_344	mature	P36454P3	2024.1385	Lomma	1	1384	202	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81653	1386	Female	androchrome	A	24.1386	P36454_345	mature	P36454P3	2024.1386	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-27	81655	1388	Female		I	24.1388	P36454_346	mature	P36454P3	2024.1388	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-28	81706	1407	Female	infuscans	I	24.1407	P36454_347	mature	P36454P3	2024.1407	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81919	1445	Male		NA	24.1445	P36454_348	mature	P36454P3	2024.1445	Hoje_A_14	1	1446	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81917	1446	Female	androchrome	A	24.1446	P36454_369	mature	P36454P3	2024.1446	Hoje_A_14	1	1445	0	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81918	1457	Male		NA	24.1457	P36454_370	mature	P36454P3	2024.1457	Hoje_A_14	1	1458	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81916	1458	Female	infuscans	I	24.1458	P36454_371	mature	P36454P3	2024.1458	Hoje_A_14	1	1457	0	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81943	1475	Female	infuscans	I	24.1475	P36454_372	mature	P36454P3	2024.1475	Hoje_A_14	1	1476	97	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81944	1476	Male		NA	24.1476	P36454_373	mature	P36454P3	2024.1476	Hoje_A_14	1	1475	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-01	81963	1493	Male		NA	24.1493	P36454_374	mature	P36454P3	2024.1493	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-05-29	78645	150	Male		NA	24.150	P36454_171	mature	P36454P1	2024.150	Hoje_A_14	1	151	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-05-29	78646	151	Female	androchrome	A	24.151	P36454_172	mature	P36454P1	2024.151	Hoje_A_14	1	150	38	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-05-29	78647	152	Male		NA	24.152	P36454_173	mature	P36454P1	2024.152	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-05-29	78650	153	Female	androchrome	A	24.153	P36454_174	mature	P36454P1	2024.153	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-08	82660	1719	Female	infuscans	I	24.1719	P36454_375	mature	P36454P3	2024.1719	Genarp	1	1720	23	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-08	82661	1720	Male		NA	24.1720	P36454_376	mature	P36454P3	2024.1720	Genarp	1	1719	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-08	82663	1726	Female	androchrome	A	24.1726	P36454_377	mature	P36454P3	2024.1726	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-07-09	82730	1734	Male		NA	24.1734	P36454_378	mature	P36454P3	2024.1734	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-12	82879	1799	Female	infuscans-obsoleta	O	24.1799	P36454_379	mature	P36454P3	2024.1799	Hoje_A_14	1	1800	127	Adult	NA	Hoje_A_14_F	Hoje_A_14_O	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-12	82881	1800	Male		NA	24.1800	P36454_380	mature	P36454P3	2024.1800	Hoje_A_14	1	1799	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-12	82890	1804	Female	androchrome	A	24.1804	P36454_381	mature	P36454P3	2024.1804	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_A	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-12	82903	1821	Male		NA	24.1821	P36454_382	mature	P36454P3	2024.1821	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-18	83188	1894	Female	androchrome	A	24.1894	P36454_383	mature	P36454P3	2024.1894	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-07-18	83236	1899	Female	androchrome	A	24.1899	P36454_384	mature	P36454P3	2024.1899	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-07-25	83673	2109	Female	infuscans	I	24.2109	P36454_385	mature	P36454P3	2024.2109	Genarp	0	NA	NA	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2024_Ad_Hoje_A_14	2024	2024-07-29	83889	2163	Female	infuscans	I	24.2163	P36454_386	mature	P36454P3	2024.2163	Hoje_A_14	0	NA	NA	Adult	NA	Hoje_A_14_F	Hoje_A_14_I	Hoje_A_14_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79434	447	Female	androchrome	A	24.447	P36454_175	mature	P36454P1	2024.447	Lomma	1	448	0	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79435	448	Male		NA	24.448	P36454_176	mature	P36454P1	2024.448	Lomma	1	447	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79441	454	Female	infuscans	I	24.454	P36454_177	mature	P36454P1	2024.454	Lomma	0	NA	NA	Adult	NA	Lomma_F	Lomma_I	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-04	79447	458	Male		NA	24.458	P36454_178	mature	P36454P1	2024.458	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79954	604	Male		NA	24.604	P36454_179	mature	P36454P1	2024.604	Genarp	1	606	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79956	606	Female	infuscans	I	24.606	P36454_180	mature	P36454P1	2024.606	Genarp	1	604	244	Adult	NA	Genarp_F	Genarp_I	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79959	620	Female	androchrome	A	24.620	P36454_249	mature	P36454P2	2024.620	Genarp	1	628	387	Adult	NA	Genarp_F	Genarp_A	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	79962	628	Male		NA	24.628	P36454_250	mature	P36454P2	2024.628	Genarp	1	620	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	80015	640	Male		NA	24.640	P36454_251	mature	P36454P2	2024.640	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	80038	655	Male		NA	24.655	P36454_252	mature	P36454P2	2024.655	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Genarp	2024	2024-06-10	80046	659	Male		NA	24.659	P36454_253	mature	P36454P2	2024.659	Genarp	0	NA	NA	Adult	NA	Genarp_M	Genarp_NA	Genarp_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80799	970	Female	androchrome	A	24.970	P36454_254	mature	P36454P2	2024.970	Lomma	1	971	324	Adult	NA	Lomma_F	Lomma_A	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80804	971	Male		NA	24.971	P36454_255	mature	P36454P2	2024.971	Lomma	1	970	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80803	979	Male		NA	24.979	P36454_256	mature	P36454P2	2024.979	Lomma	1	978	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-05-27	78416	98	Male		NA	24.98	P36454_165	mature	P36454P1	2024.98	Lomma	1	99	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-06-17	80813	980	Male		NA	24.980	P36454_257	mature	P36454P2	2024.980	Lomma	0	NA	NA	Adult	NA	Lomma_M	Lomma_NA	Lomma_A
+Ischnura	elegans	2024_Ad_Lomma	2024	2024-05-27	78417	99	Female	infuscans-obsoleta	O	24.99	P36454_166	mature	P36454P1	2024.99	Lomma	1	98	421	Adult	NA	Lomma_F	Lomma_O	Lomma_A
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-25	105	NA	Male	NA	NA	L23.105	P36454_188	Larvae	P36454P1	L23.105	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	112	NA	Female	NA	NA	L23.112	P36454_101	Larvae	P36454P1	L23.112	Genarp	NA	NA	NA	Larvae	Green	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	115	NA	Female	NA	NA	L23.115	P36454_102	Larvae	P36454P1	L23.115	Genarp	NA	NA	NA	Larvae	Green	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	120	NA	Female	NA	NA	L23.120	P36454_103	Larvae	P36454P1	L23.120	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	121	NA	Male	NA	NA	L23.121	P36454_112	Larvae	P36454P1	L23.121	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	129	NA	Female	NA	NA	L23.129	P36454_104	Larvae	P36454P1	L23.129	Genarp	NA	NA	NA	Larvae	Green	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	134	NA	Female	NA	NA	L23.134	P36454_116	Larvae	P36454P1	L23.134	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	141	NA	Male	NA	NA	L23.141	P36454_113	Larvae	P36454P1	L23.141	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-25	146	NA	Female	NA	NA	L23.146	P36454_105	Larvae	P36454P1	L23.146	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-27	155	NA	Male	NA	NA	L23.155	P36454_109	Larvae	P36454P1	L23.155	Genarp	NA	NA	NA	Larvae	Green	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-27	163	NA	Female	NA	NA	L23.163	P36454_106	Larvae	P36454P1	L23.163	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-27	178	NA	Male	NA	NA	L23.178	P36454_110	Larvae	P36454P1	L23.178	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-05-27	190	NA	Female	NA	NA	L23.190	P36454_107	Larvae	P36454P1	L23.190	Genarp	NA	NA	NA	Larvae	Clear	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	314	NA	Male	NA	NA	L23.314	P36454_272	Larvae	P36454P2	L23.314	Lomma	NA	NA	NA	Larvae	Green	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	319	NA	Female	NA	NA	L23.319	P36454_265	Larvae	P36454P2	L23.319	Lomma	NA	NA	NA	Larvae	Clear	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	323	NA	Male	NA	NA	L23.323	P36454_273	Larvae	P36454P2	L23.323	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	329	NA	Female	NA	NA	L23.329	P36454_266	Larvae	P36454P2	L23.329	Lomma	NA	NA	NA	Larvae	Green	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-05-30	332	NA	Female	NA	NA	L23.332	P36454_280	Larvae	P36454P2	L23.332	Lomma	NA	NA	NA	Larvae	Clear	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-06-04	345	NA	Male	NA	NA	L23.345	P36454_114	Larvae	P36454P1	L23.345	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-06-04	349	NA	Female	NA	NA	L23.349	P36454_108	Larvae	P36454P1	L23.349	Genarp	NA	NA	NA	Larvae	Green	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-01	371	NA	Male	NA	NA	L23.371	P36454_189	Larvae	P36454P1	L23.371	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-01	376	NA	Male	NA	NA	L23.376	P36454_190	Larvae	P36454P1	L23.376	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-01	379	NA	Female	NA	NA	L23.379	P36454_182	Larvae	P36454P1	L23.379	Hoje_A_14	NA	NA	NA	Larvae	BrownGreen	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	388	NA	Female	NA	NA	L23.388	P36454_267	Larvae	P36454P2	L23.388	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	392	NA	Female	NA	NA	L23.392	P36454_268	Larvae	P36454P2	L23.392	Lomma	NA	NA	NA	Larvae	Clear	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	397	NA	Male	NA	NA	L23.397	P36454_274	Larvae	P36454P2	L23.397	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	399	NA	Male	NA	NA	L23.399	P36454_275	Larvae	P36454P2	L23.399	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-16	4	NA	Male	NA	NA	L23.4	P36454_187	Larvae	P36454P1	L23.4	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-04	404	NA	Male	NA	NA	L23.404	P36454_276	Larvae	P36454P2	L23.404	Lomma	NA	NA	NA	Larvae	Clear	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-09	423	NA	Male	NA	NA	L23.423	P36454_277	Larvae	P36454P2	L23.423	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-09	432	NA	Male	NA	NA	L23.432	P36454_278	Larvae	P36454P2	L23.432	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-09	435	NA	Female	NA	NA	L23.435	P36454_269	Larvae	P36454P2	L23.435	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-09	439	NA	Female	NA	NA	L23.439	P36454_270	Larvae	P36454P2	L23.439	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	453	NA	Female	NA	NA	L23.453	P36454_193	Larvae	P36454P1	L23.453	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-09	461	NA	Male	NA	NA	L23.461	P36454_191	Larvae	P36454P1	L23.461	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-11	484	NA	Male	NA	NA	L23.484	P36454_194	Larvae	P36454P1	L23.484	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-11	494	NA	Male	NA	NA	L23.494	P36454_192	Larvae	P36454P1	L23.494	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-11	499	NA	Female	NA	NA	L23.499	P36454_183	Larvae	P36454P1	L23.499	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Genarp	2023	2023-06-12	530	NA	Male	NA	NA	L23.530	P36454_111	Larvae	P36454P1	L23.530	Genarp	NA	NA	NA	Larvae	Green	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-17	581	NA	Female	NA	NA	L23.581	P36454_391	Larvae	P36454P3	L23.581	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-17	584	NA	Female	NA	NA	L23.584	P36454_186	Larvae	P36454P1	L23.584	Hoje_A_14	NA	NA	NA	Larvae	Clear	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-19	595	NA	Female	NA	NA	L23.595	P36454_271	Larvae	P36454P2	L23.595	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-05-16	6	NA	Female	NA	NA	L23.6	P36454_181	Larvae	P36454P1	L23.6	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Lomma	2023	2023-06-19	601	NA	Male	NA	NA	L23.601	P36454_279	Larvae	P36454P2	L23.601	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-20	617	NA	Female	NA	NA	L23.617	P36454_184	Larvae	P36454P1	L23.617	Hoje_A_14	NA	NA	NA	Larvae	BrownGreen	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-20	630	NA	Female	NA	NA	L23.630	P36454_392	Larvae	P36454P3	L23.630	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2023_La_Hoje_A_14	2023	2023-06-20	631	NA	Female	NA	NA	L23.631	P36454_185	Larvae	P36454P1	L23.631	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	10	NA	Male	NA	NA	L24.10	P36454_206	Larvae	P36454P2	L24.10	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	106	NA	Male	NA	NA	L24.106	P36454_207	Larvae	P36454P2	L24.106	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	111	NA	Female	NA	NA	L24.111	P36454_210	Larvae	P36454P2	L24.111	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	113	NA	Male	NA	NA	L24.113	P36454_213	Larvae	P36454P2	L24.113	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	132	NA	Male	NA	NA	L24.132	P36454_208	Larvae	P36454P2	L24.132	Hoje_A_14	NA	NA	NA	Larvae	BrownGreen	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-29	137	NA	Female	NA	NA	L24.137	P36454_202	Larvae	P36454P2	L24.137	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-05-31	177	NA	Male	NA	NA	L24.177	P36454_125	Larvae	P36454P1	L24.177	Genarp	NA	NA	NA	Larvae	BrownGreen	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-05-31	179	NA	Female	NA	NA	L24.179	P36454_118	Larvae	P36454P1	L24.179	Genarp	NA	NA	NA	Larvae	BrownGreen	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	18	NA	Female	NA	NA	L24.18	P36454_209	Larvae	P36454P2	L24.18	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	207	NA	Female	NA	NA	L24.207	P36454_281	Larvae	P36454P2	L24.207	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-04	211	NA	Male	NA	NA	L24.211	P36454_287	Larvae	P36454P2	L24.211	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-07	244	NA	Female	NA	NA	L24.244	P36454_203	Larvae	P36454P2	L24.244	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-07	256	NA	Female	NA	NA	L24.256	P36454_204	Larvae	P36454P2	L24.256	Hoje_A_14	NA	NA	NA	Larvae	Clear	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-10	259	NA	Female	NA	NA	L24.259	P36454_115	Larvae	P36454P1	L24.259	Genarp	NA	NA	NA	Larvae	Green	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-10	264	NA	Female	NA	NA	L24.264	P36454_119	Larvae	P36454P1	L24.264	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-10	275	NA	Male	NA	NA	L24.275	P36454_126	Larvae	P36454P1	L24.275	Genarp	NA	NA	NA	Larvae	Clear	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-12	277	NA	Male	NA	NA	L24.277	P36454_211	Larvae	P36454P2	L24.277	Hoje_A_14	NA	NA	NA	Larvae	Clear	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-12	327	NA	Female	NA	NA	L24.327	P36454_120	Larvae	P36454P1	L24.327	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-12	335	NA	Male	NA	NA	L24.335	P36454_127	Larvae	P36454P1	L24.335	Genarp	NA	NA	NA	Larvae	BrownGreen	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-12	341	NA	Female	NA	NA	L24.341	P36454_121	Larvae	P36454P1	L24.341	Genarp	NA	NA	NA	Larvae	Clear	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-12	345	NA	Female	NA	NA	L24.345	P36454_132	Larvae	P36454P1	L24.345	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-12	350	NA	Female	NA	NA	L24.350	P36454_122	Larvae	P36454P1	L24.350	Genarp	NA	NA	NA	Larvae	Brown	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-12	352	NA	Male	NA	NA	L24.352	P36454_128	Larvae	P36454P1	L24.352	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-12	357	NA	Female	NA	NA	L24.357	P36454_123	Larvae	P36454P1	L24.357	Genarp	NA	NA	NA	Larvae	Clear	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-17	371	NA	Male	NA	NA	L24.371	P36454_289	Larvae	P36454P2	L24.371	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-17	385	NA	Male	NA	NA	L24.385	P36454_290	Larvae	P36454P2	L24.385	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-18	411	NA	Male	NA	NA	L24.411	P36454_129	Larvae	P36454P1	L24.411	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-18	420	NA	Male	NA	NA	L24.420	P36454_130	Larvae	P36454P1	L24.420	Genarp	NA	NA	NA	Larvae	Clear	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-20	425	NA	Female	NA	NA	L24.425	P36454_205	Larvae	P36454P2	L24.425	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-06-20	433	NA	Male	NA	NA	L24.433	P36454_212	Larvae	P36454P2	L24.433	Hoje_A_14	NA	NA	NA	Larvae	Green	Hoje_A_14_M	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-05-21	45	NA	Male	NA	NA	L24.45	P36454_124	Larvae	P36454P1	L24.45	Genarp	NA	NA	NA	Larvae	Green	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-06-23	480	NA	Male	NA	NA	L24.480	P36454_131	Larvae	P36454P1	L24.480	Genarp	NA	NA	NA	Larvae	Brown	Genarp_M	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Genarp	2024	2024-05-21	49	NA	Female	NA	NA	L24.49	P36454_117	Larvae	P36454P1	L24.49	Genarp	NA	NA	NA	Larvae	BrownGreen	Genarp_F	Genarp_NA	Genarp_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	51	NA	Female	NA	NA	L24.51	P36454_214	Larvae	P36454P2	L24.51	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	55	NA	Male	NA	NA	L24.55	P36454_285	Larvae	P36454P2	L24.55	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	574	NA	Female	NA	NA	L24.574	P36454_282	Larvae	P36454P2	L24.574	Lomma	NA	NA	NA	Larvae	Clear	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	588	NA	Female	NA	NA	L24.588	P36454_283	Larvae	P36454P2	L24.588	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	595	NA	Male	NA	NA	L24.595	P36454_291	Larvae	P36454P2	L24.595	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Hoje_A_14	2024	2024-05-20	6	NA	Female	NA	NA	L24.6	P36454_201	Larvae	P36454P2	L24.6	Hoje_A_14	NA	NA	NA	Larvae	Brown	Hoje_A_14_F	Hoje_A_14_NA	Hoje_A_14_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	603	NA	Female	NA	NA	L24.603	P36454_284	Larvae	P36454P2	L24.603	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-06-27	615	NA	Male	NA	NA	L24.615	P36454_292	Larvae	P36454P2	L24.615	Lomma	NA	NA	NA	Larvae	BrownGreen	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	69	NA	Male	NA	NA	L24.69	P36454_286	Larvae	P36454P2	L24.69	Lomma	NA	NA	NA	Larvae	Brown	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	71	NA	Female	NA	NA	L24.71	P36454_215	Larvae	P36454P2	L24.71	Lomma	NA	NA	NA	Larvae	Clear	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	87	NA	Male	NA	NA	L24.87	P36454_293	Larvae	P36454P2	L24.87	Lomma	NA	NA	NA	Larvae	Green	Lomma_M	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	91	NA	Female	NA	NA	L24.91	P36454_216	Larvae	P36454P2	L24.91	Lomma	NA	NA	NA	Larvae	Brown	Lomma_F	Lomma_NA	Lomma_L
+Ischnura	elegans	2024_La_Lomma	2024	2024-05-27	93	NA	Male	NA	NA	L24.93	P36454_288	Larvae	P36454P2	L24.93	Lomma	NA	NA	NA	Larvae	Clear	Lomma_M	Lomma_NA	Lomma_L
